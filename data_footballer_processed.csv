@@ -58,7 +58,7 @@ Parejo ,182,74,Right,1989-04-16,34,Spain,Villarreal CF,Spain Primera Division (1
 İlkay Gündoğan ,180,80,Right,1990-10-24,33,Germany,FC Barcelona,Spain Primera Division (1),"CM, CDM",86,86,53500000.0,225000.0,88.5,71.0,81.3,83.0,70.6,76.5,9.6
 Wojciech Szczęsny ,195,90,Right,1990-04-18,33,Poland,Juventus,Italy Serie A (1),GK,86,86,22000000.0,125000.0,16.5,12.5,44.0,26.7,54.9,19.9,83.0
 Toni Kroos ,183,76,Right,1990-01-04,33,Germany,Real Madrid,Spain Primera Division (1),"CM, CDM",86,86,42000000.0,240000.0,84.0,65.0,81.2,90.7,63.6,79.1,10.2
-Cristiano Ronaldo ,187,85,Right,1985-02-05,38,Portugal,Portugal,International,ST,86,86,23000000.0,65000.0,81.5,27.5,72.7,74.0,76.3,84.8,11.6
+Cristiano Ronaldo ,187,85,Right,1985-02-05,38,Portugal,Al Nassr,Saudi Pro League (1),ST,86,86,23000000.0,65000.0,81.5,27.5,72.7,74.0,76.3,84.8,11.6
 Florian Wirtz ,177,71,Right,2003-05-03,20,Germany,Bayer 04 Leverkusen,Germany 1. Bundesliga (1),"CAM, CM",85,91,60500000.0,65000.0,88.0,50.5,74.0,82.0,73.4,67.9,11.4
 Bruno Guimarães ,182,74,Right,1997-11-16,26,Brazil,Newcastle United,England Premier League (1),"CM, CDM",85,87,59500000.0,155000.0,85.0,81.5,84.0,80.7,77.6,70.6,11.0
 Rodrygo ,174,64,Right,2001-01-09,22,Brazil,Real Madrid,Spain Primera Division (1),"RW, LW, ST",85,91,63500000.0,210000.0,86.5,32.0,67.5,77.3,79.9,76.1,8.4
@@ -73,10 +73,10 @@ Diogo Jota ,178,68,Right,1996-12-04,27,Portugal,Liverpool,England Premier League
 Marcos Acuña ,172,69,Left,1991-10-28,32,Argentina,Sevilla FC,Spain Primera Division (1),"LB, LM",85,85,39000000.0,46000.0,83.0,84.5,82.7,82.3,82.4,74.6,12.4
 Giovanni Di Lorenzo ,183,83,Right,1993-08-04,30,Italy,Napoli,Italy Serie A (1),RB,85,85,47500000.0,85000.0,78.5,82.0,76.5,78.0,83.1,67.5,8.6
 Kingsley Coman ,181,75,Right,1996-06-13,27,France,Bayern München,Germany 1. Bundesliga (1),"LM, RM",85,85,57500000.0,100000.0,87.5,24.0,64.8,78.3,81.1,73.5,4.2
-Aymeric Laporte ,191,85,Left,1994-05-27,29,Spain,Spain,International,CB,85,86,45000000.0,70000.0,71.5,85.5,76.3,74.0,66.0,57.4,9.0
+Aymeric Laporte ,191,85,Left,1994-05-27,29,Spain,Al Nassr,Saudi Pro League (1),CB,85,86,45000000.0,70000.0,71.5,85.5,76.3,74.0,66.0,57.4,9.0
 Domenico Berardi ,183,72,Left,1994-08-01,29,Italy,Sassuolo,Italy Serie A (1),"RW, RM",85,85,54500000.0,40000.0,86.5,30.0,73.7,80.7,80.0,77.1,5.4
 Thomas Partey ,185,77,Right,1993-06-13,30,Ghana,Arsenal,England Premier League (1),"CDM, CM",85,85,45000000.0,150000.0,84.0,82.0,81.7,82.0,69.6,67.8,9.8
-Yassine Bounou ,195,78,Left,1991-04-05,32,Morocco,Morocco,International,GK,85,85,26500000.0,55000.0,16.0,16.5,41.2,32.7,47.0,21.8,83.0
+Yassine Bounou ,195,78,Left,1991-04-05,32,Morocco,Al Hilal,Saudi Pro League (1),GK,85,85,26500000.0,55000.0,16.0,16.5,41.2,32.7,47.0,21.8,83.0
 Leon Goretzka ,189,82,Right,1995-02-06,28,Germany,Chelsea,England Premier League (1),"CM, CDM",85,85,54000000.0,170000.0,84.0,79.5,83.3,81.0,81.0,77.2,11.2
 Hakan Çalhanoğlu ,178,76,Right,1994-02-08,29,Turkey,Inter,Italy Serie A (1),"CM, CDM",85,85,52500000.0,130000.0,86.5,67.5,80.8,84.3,70.7,78.2,10.0
 Jack Grealish ,180,81,Right,1995-09-10,28,England,Manchester City,England Premier League (1),"LW, LM",85,85,57500000.0,200000.0,89.5,51.0,75.8,83.0,78.1,70.8,10.2
@@ -114,7 +114,7 @@ Gabriel Jesus ,175,73,Right,1997-04-03,26,Brazil,Arsenal,England Premier League 
 Ismaël Bennacer ,175,70,Left,1997-12-01,26,Algeria,Milan,Italy Serie A (1),"CDM, CM, CAM",84,88,41500000.0,85000.0,85.5,81.5,82.0,80.7,81.4,71.5,12.4
 Marcos Llorente ,184,74,Right,1995-01-30,28,Spain,Atlético de Madrid,Spain Primera Division (1),"RM, CM, RB",84,84,42500000.0,85000.0,80.0,76.5,81.0,79.3,83.0,72.0,10.2
 Mikel Merino ,189,83,Left,1996-06-22,27,Spain,Paris Saint-Germain,France Ligue 1 (1),"CM, CAM, LM",84,85,44500000.0,115000.0,84.0,80.0,83.0,82.3,77.6,75.6,11.4
-Rúben Neves ,183,83,Right,1997-03-13,26,Portugal,Portugal,International,"CDM, CM",84,86,40500000.0,60000.0,78.5,78.0,80.0,85.3,67.3,76.6,11.2
+Rúben Neves ,183,83,Right,1997-03-13,26,Portugal,Al Hilal,Saudi Pro League (1),"CDM, CM",84,86,40500000.0,60000.0,78.5,78.0,80.0,85.3,67.3,76.6,11.2
 Leroy Sané ,183,80,Left,1996-01-11,27,Germany,Bayern München,Germany 1. Bundesliga (1),"RM, LM",84,84,45000000.0,90000.0,85.5,33.5,70.7,77.7,81.0,79.2,10.4
 Lucas Hernández ,184,79,Left,1996-02-14,27,France,Paris Saint-Germain,France Ligue 1 (1),"CB, LB",84,85,39000000.0,105000.0,69.0,84.0,76.7,72.7,74.7,54.4,9.8
 James Maddison ,175,73,Right,1996-11-23,27,England,Tottenham Hotspur,England Premier League (1),"CAM, RM, CM",84,85,46000000.0,120000.0,87.0,53.5,75.7,84.7,71.4,75.5,13.0
@@ -126,7 +126,7 @@ Niklas Süle ,195,99,Right,1995-09-03,28,Germany,Borussia Dortmund,Germany 1. Bu
 Grimaldo ,171,67,Left,1995-09-20,28,Spain,Bayer 04 Leverkusen,Germany 1. Bundesliga (1),"LWB, LM",84,84,40500000.0,75000.0,83.5,77.0,79.2,81.7,81.9,71.8,10.0
 Adrien Rabiot ,191,80,Left,1995-04-03,28,France,Juventus,Italy Serie A (1),"CM, LM",84,84,42000000.0,150000.0,82.5,82.0,82.3,80.7,79.0,73.2,10.4
 Fabinho ,188,78,Right,1993-10-23,30,Brazil,Al Ittihad,Saudi Pro League (1),CDM,84,84,36000000.0,65000.0,79.5,83.0,79.8,80.3,68.7,68.8,9.4
-Yannick Carrasco ,181,73,Right,1993-09-04,30,Belgium,Belgium,International,"LW, LWB, LM",84,84,41500000.0,70000.0,86.0,62.5,74.3,78.7,77.3,77.8,9.8
+Yannick Carrasco ,181,73,Right,1993-09-04,30,Belgium,Al Shabab,Saudi Pro League (1),"LW, LWB, LM",84,84,41500000.0,70000.0,86.0,62.5,74.3,78.7,77.3,77.8,9.8
 Matthias Ginter ,189,86,Right,1994-01-19,29,Germany,SC Freiburg,Germany 1. Bundesliga (1),CB,84,84,35500000.0,47000.0,68.0,82.0,74.8,73.7,66.4,58.6,9.2
 Serge Gnabry ,176,77,Right,1995-07-14,28,Germany,Bayern München,Germany 1. Bundesliga (1),"RM, ST, LM",84,84,45000000.0,90000.0,83.5,43.5,70.8,77.7,78.4,73.1,10.0
 Nick Pope ,199,76,Right,1992-04-19,31,England,Newcastle United,England Premier League (1),GK,84,84,22500000.0,110000.0,20.0,14.5,44.2,31.7,51.1,19.6,82.0
@@ -172,7 +172,7 @@ Marco Asensio ,182,76,Left,1996-01-21,27,Spain,Paris Saint-Germain,France Ligue 
 Nabil Fekir ,173,75,Left,1993-07-18,30,France,Real Betis Balompié,Spain Primera Division (1),CAM,83,83,35500000.0,40000.0,85.5,36.5,74.5,79.7,82.1,76.0,12.2
 Rafa ,172,66,Right,1993-05-17,30,Portugal,Benfica,Portugal Primeira Liga (1),"CF, RM",83,83,35500000.0,24500.0,85.5,43.0,72.7,77.0,78.9,68.2,10.2
 José María Giménez ,185,79,Right,1995-01-20,28,Uruguay,Atlético de Madrid,Spain Primera Division (1),CB,83,85,31500000.0,70000.0,60.5,85.0,65.8,62.0,71.1,49.4,10.4
-Marcelo Brozović ,181,72,Right,1992-11-16,31,Croatia,Croatia,International,"CDM, CM",83,83,30500000.0,55000.0,80.5,83.0,79.2,80.0,75.7,73.8,10.0
+Marcelo Brozović ,181,72,Right,1992-11-16,31,Croatia,Al Nassr,Saudi Pro League (1),"CDM, CM",83,83,30500000.0,55000.0,80.5,83.0,79.2,80.0,75.7,73.8,10.0
 Andreas Christensen ,187,82,Right,1996-04-10,27,Denmark,FC Barcelona,Spain Primera Division (1),CB,83,85,33500000.0,155000.0,73.0,85.0,69.7,71.0,69.4,39.2,8.8
 Alessio Romagnoli ,185,75,Left,1995-01-12,28,Italy,Lazio,Italy Serie A (1),CB,83,83,31500000.0,65000.0,71.5,86.0,67.0,60.0,69.4,42.6,10.4
 Piotr Zieliński ,180,75,Right,1994-05-20,29,Poland,Napoli,Italy Serie A (1),"CM, CAM",83,83,35500000.0,80000.0,87.0,72.5,75.5,79.7,75.7,70.9,10.0
@@ -195,7 +195,7 @@ Christian Eriksen ,181,76,Right,1992-02-14,31,Denmark,Manchester United,England 
 Sergio Busquets ,189,76,Right,1988-07-16,35,Spain,Inter Miami,USA Major League Soccer (1),CDM,83,83,12500000.0,14000.0,82.5,81.0,81.2,78.0,57.0,61.8,9.6
 Jordi Alba ,170,68,Left,1989-03-21,34,Spain,Inter Miami,USA Major League Soccer (1),LB,83,83,13500000.0,14000.0,80.5,78.0,79.2,83.3,80.4,69.0,12.0
 Marco Reus ,180,71,Right,1989-05-31,34,Germany,Borussia Dortmund,Germany 1. Bundesliga (1),"CAM, CF",83,83,17000000.0,65000.0,85.5,53.0,74.2,82.0,69.9,78.8,12.2
-Ángel Di María ,180,69,Left,1988-02-14,35,Argentina,Argentina,International,"CF, RW, RM",83,83,15500000.0,18500.0,90.5,53.5,75.5,84.3,75.0,78.0,10.2
+Ángel Di María ,180,69,Left,1988-02-14,35,Argentina,Benfica,Portugal Primeira Liga (1),"CF, RW, RM",83,83,15500000.0,18500.0,90.5,53.5,75.5,84.3,75.0,78.0,10.2
 Edin Džeko ,193,80,Right,1986-03-17,37,Bosnia & Herzegovina,Fenerbahçe,Turkey Super Lig (1),ST,83,83,12500000.0,43000.0,80.5,22.0,73.7,71.7,66.6,75.8,12.6
 Mats Hummels ,191,94,Right,1988-12-16,34,Germany,Borussia Dortmund,Germany 1. Bundesliga (1),CB,83,83,12000000.0,60000.0,70.5,83.5,78.5,77.0,64.6,64.0,8.4
 Hugo Lloris ,188,82,Left,1986-12-26,36,France,Tottenham Hotspur,England Premier League (1),GK,83,83,925000.0,55000.0,20.5,15.0,43.0,40.0,53.4,20.4,80.4
@@ -220,7 +220,7 @@ Noussair Mazraoui ,183,65,Right,1997-11-14,26,Morocco,Bayern München,Germany 1.
 Kai Havertz ,190,82,Left,1999-06-11,24,Germany,Arsenal,England Premier League (1),"CAM, RW, ST",82,87,35000000.0,110000.0,84.5,42.0,70.2,78.7,75.3,75.6,9.4
 Youssef En-Nesyri ,188,78,Left,1997-06-01,26,Morocco,Sevilla FC,Spain Primera Division (1),ST,82,83,34000000.0,42000.0,79.5,29.0,67.8,62.0,74.1,75.1,11.6
 Édouard Mendy ,197,86,Right,1992-03-01,31,Senegal,Al Ahli,Saudi Pro League (1),GK,82,82,16000000.0,37000.0,24.5,12.0,38.3,39.3,46.3,16.8,80.8
-Diogo Costa ,192,84,Right,1999-09-19,24,Portugal,Portugal,International,GK,82,88,26000000.0,12500.0,24.0,12.0,41.3,39.3,43.0,16.0,80.6
+Diogo Costa ,192,84,Right,1999-09-19,24,Portugal,FC Porto,Portugal Primeira Liga (1),GK,82,88,26000000.0,12500.0,24.0,12.0,41.3,39.3,43.0,16.0,80.6
 Alexander Isak ,192,77,Right,1999-09-21,24,Sweden,Newcastle United,England Premier League (1),"ST, LW",82,86,35500000.0,120000.0,86.0,31.5,70.5,67.7,79.4,75.6,8.0
 Robin Le Normand ,187,81,Right,1996-11-11,27,Spain,Real Sociedad,Spain Primera Division (1),CB,82,87,29000000.0,41000.0,62.0,83.0,60.3,60.0,65.4,37.1,12.2
 Nahuel Molina ,175,70,Right,1998-04-06,25,Argentina,Atlético de Madrid,Spain Primera Division (1),"RB, RWB, RM",82,86,30500000.0,60000.0,79.0,78.0,77.3,77.0,78.7,60.9,9.6
@@ -248,14 +248,14 @@ Youri Tielemans ,176,72,Right,1997-05-07,26,Belgium,Aston Villa,England Premier 
 Seko Fofana ,185,74,Right,1995-05-07,28,Ivory Coast,Al Nassr,Saudi Pro League (1),CM,82,82,30500000.0,60000.0,81.5,75.5,80.2,74.7,76.6,69.6,9.4
 Ángel Correa ,171,70,Right,1995-03-09,28,Argentina,Atlético de Madrid,Spain Primera Division (1),"ST, RM",82,82,31000000.0,75000.0,86.5,48.5,75.8,74.3,83.4,77.5,11.2
 Thomas Lemar ,171,66,Left,1995-11-12,28,France,Atlético de Madrid,Spain Primera Division (1),"CM, LM",82,83,32000000.0,65000.0,86.0,72.5,78.0,82.0,78.6,75.1,12.0
-Ricardo Horta ,173,63,Right,1994-09-15,29,Portugal,Portugal,International,"CAM, CF, RM",82,82,30500000.0,23500.0,80.0,39.5,74.3,77.7,78.0,78.0,9.4
+Ricardo Horta ,173,63,Right,1994-09-15,29,Portugal,Braga,Portugal Primeira Liga (1),"CAM, CF, RM",82,82,30500000.0,23500.0,80.0,39.5,74.3,77.7,78.0,78.0,9.4
 João Mário ,179,73,Right,1993-01-19,30,Portugal,Benfica,Portugal Primeira Liga (1),"RM, LM, CM",82,82,29500000.0,20500.0,84.5,69.5,78.3,80.3,74.0,73.1,9.0
 Robert Andrich ,186,86,Right,1994-09-22,29,Germany,Bayer 04 Leverkusen,Germany 1. Bundesliga (1),"CDM, CM",82,82,27000000.0,65000.0,75.0,80.5,78.0,76.3,69.6,74.8,10.8
 Timo Werner ,180,76,Right,1996-03-06,27,Germany,RB Leipzig,Germany 1. Bundesliga (1),ST,82,83,33000000.0,75000.0,82.5,22.0,69.7,68.0,80.9,75.4,10.0
 Vincenzo Grifo ,180,76,Right,1993-04-07,30,Italy,Bayern München,Germany 1. Bundesliga (1),"LM, CF, CAM",82,82,29500000.0,75000.0,82.5,30.5,68.8,82.0,71.7,78.6,10.4
 Mark Flekken ,195,87,Right,1993-06-13,30,Netherlands,Brentford,England Premier League (1),GK,82,82,20500000.0,55000.0,23.0,16.5,37.0,31.7,42.7,21.0,80.8
 Gayà ,172,66,Left,1995-05-25,28,Spain,Milan,Italy Serie A (1),"LB, LWB",82,82,27500000.0,75000.0,78.5,82.0,77.7,78.0,78.6,60.9,10.6
-Otávio ,171,67,Right,1995-02-09,28,Portugal,Portugal,International,"RM, LM",82,82,30500000.0,60000.0,85.5,66.5,79.2,79.7,77.9,70.0,11.4
+Otávio ,171,67,Right,1995-02-09,28,Portugal,Al Nassr,Saudi Pro League (1),"RM, LM",82,82,30500000.0,60000.0,85.5,66.5,79.2,79.7,77.9,70.0,11.4
 Fabian Schär ,188,84,Right,1991-12-20,31,Switzerland,Newcastle United,England Premier League (1),CB,82,82,21000000.0,115000.0,75.0,82.0,77.2,76.7,64.9,70.6,10.6
 Raphaël Guerreiro ,170,69,Left,1993-12-22,29,Portugal,Bayern München,Germany 1. Bundesliga (1),"LB, LM, CM",82,82,27000000.0,70000.0,88.0,77.5,78.0,84.0,70.0,72.8,9.0
 Mateo Kovačić ,177,80,Right,1994-05-06,29,Croatia,Manchester City,England Premier League (1),"CM, CDM",82,82,29500000.0,150000.0,87.5,71.5,79.2,82.0,73.4,67.5,6.8
@@ -269,7 +269,7 @@ Anthony Lopes ,184,81,Left,1990-10-01,33,Portugal,Olympique Lyonnais,France Ligu
 Dušan Tadić ,181,76,Left,1988-11-20,35,Serbia,Fenerbahçe,Turkey Super Lig (1),"LW, CF, RW",82,82,14500000.0,50000.0,84.5,30.0,72.8,83.7,74.6,78.6,12.2
 Stefan de Vrij ,189,78,Right,1992-02-05,31,Netherlands,Inter,Italy Serie A (1),CB,82,82,21000000.0,85000.0,69.0,83.5,72.0,64.7,68.7,47.5,10.4
 Callum Wilson ,180,66,Right,1992-02-27,31,England,Newcastle United,England Premier League (1),ST,82,82,25500000.0,135000.0,79.5,33.5,72.7,65.3,77.7,74.9,9.8
-Nicolás Otamendi ,183,78,Right,1988-02-12,35,Argentina,Argentina,International,CB,82,82,8000000.0,13500.0,58.5,82.0,74.0,66.0,71.6,56.1,9.6
+Nicolás Otamendi ,183,78,Right,1988-02-12,35,Argentina,Benfica,Portugal Primeira Liga (1),CB,82,82,8000000.0,13500.0,58.5,82.0,74.0,66.0,71.6,56.1,9.6
 Mario Götze ,176,72,Right,1992-06-03,31,Germany,Eintracht Frankfurt,Germany 1. Bundesliga (1),"CAM, CF, LM",82,82,25000000.0,50000.0,87.0,47.5,76.5,82.7,72.6,72.5,9.8
 Fernando ,183,76,Right,1987-07-25,36,Brazil,Sevilla FC,Spain Primera Division (1),"CDM, CB",82,82,8500000.0,25000.0,74.0,83.0,77.7,74.3,71.1,62.5,5.8
 Olivier Giroud ,193,91,Left,1986-09-30,37,France,Milan,Italy Serie A (1),ST,82,82,10500000.0,65000.0,77.5,28.5,75.8,70.0,60.9,80.1,9.8
@@ -363,7 +363,7 @@ Ivan Rakitić ,184,78,Right,1988-03-10,35,Croatia,Sevilla FC,Spain Primera Divis
 Kasper Schmeichel ,189,88,Right,1986-11-05,37,Denmark,Anderlecht,Belgium Pro League (1),GK,81,81,650000.0,16500.0,26.0,13.5,45.5,35.7,51.4,21.2,78.8
 Raúl Albiol ,190,82,Right,1985-09-04,38,Spain,Villarreal CF,Spain Primera Division (1),CB,81,81,4600000.0,27000.0,65.5,84.5,70.2,61.3,50.3,48.5,7.2
 Guillermo Ochoa ,185,78,Right,1985-07-13,38,Mexico,Salernitana,Italy Serie A (1),GK,81,81,650000.0,21000.0,15.0,11.5,39.7,29.7,52.3,19.8,78.8
-Pepe ,188,79,Right,1983-02-26,40,Portugal,Portugal,International,CB,81,81,4600000.0,11500.0,59.0,81.0,70.3,64.7,74.1,52.1,9.4
+Pepe ,188,79,Right,1983-02-26,40,Portugal,FC Porto,Portugal Primeira Liga (1),CB,81,81,4600000.0,11500.0,59.0,81.0,70.3,64.7,74.1,52.1,9.4
 Giorgi Mamardashvili ,199,88,Left,2000-09-29,23,Georgia,Valencia CF,Spain Primera Division (1),GK,80,86,18500000.0,25500.0,16.5,11.0,29.0,14.3,49.4,15.6,79.2
 Arnau Martínez ,181,75,Right,2003-04-25,20,Spain,Girona FC,Spain Primera Division (1),"RB, RWB",80,87,21500000.0,21500.0,77.0,78.0,69.3,75.0,74.7,52.2,8.6
 Gonçalo Ramos ,185,82,Right,2001-06-20,22,Portugal,Paris Saint-Germain,France Ligue 1 (1),ST,80,87,25000000.0,17000.0,77.0,40.5,71.7,66.0,81.0,69.6,10.6
@@ -466,7 +466,7 @@ Isco ,176,79,Right,1992-04-21,31,Spain,Real Betis Balompié,Spain Primera Divisi
 Joel Matip ,194,90,Right,1991-08-08,32,Cameroon,Liverpool,England Premier League (1),CB,80,80,14500000.0,100000.0,73.0,81.0,73.7,67.3,63.4,51.4,10.6
 Oliver Baumann ,187,82,Right,1990-06-02,33,Germany,TSG 1899 Hoffenheim,Germany 1. Bundesliga (1),GK,80,80,7000000.0,31000.0,18.0,16.0,39.7,23.0,48.4,19.1,78.6
 Nemanja Gudelj ,187,79,Right,1991-11-16,32,Serbia,Sevilla FC,Spain Primera Division (1),"CB, CDM",80,80,14500000.0,30000.0,72.5,79.5,76.8,78.3,67.1,77.1,10.6
-Jesús Corona ,173,66,Right,1993-01-06,30,Mexico,Mexico,International,"RW, LW",80,80,14500000.0,30000.0,85.5,73.0,79.5,78.0,79.4,69.1,10.0
+Jesús Corona ,173,66,Right,1993-01-06,30,Mexico,NG - FA,Free Agents League,"RW, LW",80,80,14500000.0,30000.0,85.5,73.0,79.5,78.0,79.4,69.1,10.0
 Juan Cuadrado ,179,72,Right,1988-05-26,35,Colombia,Inter,Italy Serie A (1),"RM, RB, RW",80,80,8500000.0,60000.0,84.0,80.0,74.8,78.7,79.3,73.8,7.6
 De Marcos ,182,78,Right,1989-04-14,34,Spain,Athletic Club de Bilbao,Spain Primera Division (1),RB,80,80,7500000.0,30000.0,75.5,78.0,76.2,75.0,78.1,61.9,10.2
 Francis Coquelin ,176,74,Right,1991-05-13,32,France,Villarreal CF,Spain Primera Division (1),"CM, LM, RM",80,80,16500000.0,39000.0,80.5,79.0,79.8,78.0,73.4,63.9,10.2
@@ -476,7 +476,7 @@ Alexis Sánchez ,169,62,Right,1988-12-19,34,Chile,Inter,Italy Serie A (1),ST,80,
 Matteo Darmian ,183,70,Right,1989-12-02,34,Italy,Inter,Italy Serie A (1),"CB, RWB, RM",80,80,10000000.0,75000.0,76.0,83.0,78.0,75.7,73.1,58.0,7.8
 Leonardo Bonucci ,190,85,Right,1987-05-01,36,Italy,1. FC Union Berlin,Germany 1. Bundesliga (1),CB,80,80,3800000.0,27500.0,73.5,80.0,72.3,69.7,59.7,64.9,2.6
 Marko Arnautović ,192,83,Right,1989-04-19,34,Austria,Inter,Italy Serie A (1),ST,80,80,10500000.0,44000.0,80.5,40.5,71.5,77.3,76.9,77.8,12.8
-Jordan Henderson ,187,80,Right,1990-06-17,33,England,England,International,"CM, CDM",80,80,13000000.0,39000.0,79.5,76.5,78.8,81.3,68.9,71.9,9.8
+Jordan Henderson ,187,80,Right,1990-06-17,33,England,Al Ettifaq,Saudi Pro League (1),"CM, CDM",80,80,13000000.0,39000.0,79.5,76.5,78.8,81.3,68.9,71.9,9.8
 Fernando Muslera ,190,74,Right,1986-06-16,37,Uruguay,Galatasaray,Turkey Super Lig (1),GK,80,80,550000.0,23500.0,26.0,16.0,44.8,35.3,57.1,18.0,77.6
 Georginio Wijnaldum ,175,74,Right,1990-11-11,33,Netherlands,Al Ettifaq,Saudi Pro League (1),"CM, CDM",80,80,16500000.0,39000.0,79.5,74.0,78.5,76.7,76.7,73.2,10.8
 Adán ,190,94,Left,1987-05-13,36,Spain,Sporting CP,Portugal Primeira Liga (1),GK,80,80,550000.0,8500.0,13.5,16.0,42.2,29.7,57.6,21.0,79.4
@@ -489,7 +489,7 @@ Jesús Navas ,172,60,Right,1985-11-21,38,Spain,Sevilla FC,Spain Primera Division
 Giorgio Chiellini ,187,85,Left,1984-08-14,39,Italy,Los Angeles FC,USA Major League Soccer (1),CB,80,80,3800000.0,7900.0,56.0,82.0,67.8,64.7,67.4,52.9,3.0
 Yeremy Pino ,172,60,Right,2002-10-20,21,Spain,Villarreal CF,Spain Primera Division (1),"LM, RM, ST",79,87,20000000.0,27000.0,80.5,44.5,61.0,76.3,66.4,64.5,9.0
 Carlos Augusto ,184,75,Left,1999-01-07,24,Brazil,Inter,Italy Serie A (1),LM,79,84,20000000.0,48000.0,80.0,78.0,76.2,76.3,79.6,69.2,10.6
-Gonçalo Inácio ,185,78,Left,2001-08-25,22,Portugal,Portugal,International,CB,79,86,18000000.0,11000.0,61.0,80.5,70.5,61.3,73.6,42.2,7.2
+Gonçalo Inácio ,185,78,Left,2001-08-25,22,Portugal,Sporting CP,Portugal Primeira Liga (1),CB,79,86,18000000.0,11000.0,61.0,80.5,70.5,61.3,73.6,42.2,7.2
 Nico Williams ,181,67,Right,2002-07-12,21,Spain,Atalanta,Italy Serie A (1),"RM, LM",79,85,20000000.0,39000.0,83.5,19.0,61.0,70.0,82.3,70.4,12.0
 Josip Šutalo ,190,82,Right,2000-02-28,23,Croatia,Ajax,Holland Eredivisie (1),CB,79,85,17500000.0,15500.0,74.0,80.0,68.5,64.0,74.4,36.1,11.0
 Piero Hincapié ,184,76,Left,2002-01-09,21,Ecuador,Bayer 04 Leverkusen,Germany 1. Bundesliga (1),CB,79,86,18000000.0,36000.0,71.5,81.5,69.8,69.0,78.0,44.1,9.8
@@ -507,7 +507,7 @@ Khéphren Thuram ,192,81,Right,2001-03-26,22,France,OGC Nice,France Ligue 1 (1),
 Ryan Gravenberch ,190,77,Right,2002-05-16,21,Netherlands,Liverpool,England Premier League (1),CM,79,87,20500000.0,75000.0,85.0,64.0,71.5,78.0,76.0,70.1,9.8
 Jean-Clair Todibo ,190,88,Right,1999-12-30,23,France,OGC Nice,France Ligue 1 (1),CB,79,84,17500000.0,37000.0,69.0,79.0,67.8,65.7,71.1,51.1,10.4
 Thiago Almada ,171,62,Right,2001-04-26,22,Argentina,Atlanta United FC,USA Major League Soccer (1),"CAM, CM, CF",79,87,20500000.0,9900.0,82.5,54.0,71.8,71.7,77.9,72.2,9.4
-Alexander Bah ,183,76,Right,1997-12-09,26,Denmark,Denmark,International,RB,79,83,17500000.0,14500.0,74.5,75.0,76.8,72.0,82.0,65.0,10.4
+Alexander Bah ,183,76,Right,1997-12-09,26,Denmark,Benfica,Portugal Primeira Liga (1),RB,79,83,17500000.0,14500.0,74.5,75.0,76.8,72.0,82.0,65.0,10.4
 Mohammed Kudus ,177,70,Left,2000-08-02,23,Ghana,West Ham United,England Premier League (1),"RW, CAM",79,86,20500000.0,70000.0,84.5,56.0,71.3,70.7,83.6,65.1,8.4
 Nayef Aguerd ,190,76,Left,1996-03-30,27,Morocco,West Ham United,England Premier League (1),CB,79,81,16000000.0,65000.0,66.0,80.5,70.2,65.7,68.0,53.6,10.2
 Teddy Teuma ,176,73,Left,1993-09-30,30,Malta,Stade de Reims,France Ligue 1 (1),"CM, CAM, CDM",79,79,17000000.0,31000.0,77.0,75.0,78.3,78.7,72.3,74.9,9.0
@@ -540,8 +540,8 @@ Florian Neuhaus ,185,77,Right,1997-03-16,26,Germany,Borussia M'gladbach,Germany 
 Emanuel Reynoso ,176,67,Left,1995-11-16,28,Argentina,Minnesota United FC,USA Major League Soccer (1),"CAM, LM",79,80,18500000.0,11500.0,80.5,55.5,75.8,76.3,70.6,65.5,8.2
 Carlos Soler ,180,76,Right,1997-01-02,26,Spain,Paris Saint-Germain,France Ligue 1 (1),CM,79,80,19000000.0,80000.0,80.5,72.5,75.2,79.3,75.6,74.9,10.2
 Dean Henderson ,188,85,Right,1997-03-12,26,England,Crystal Palace,England Premier League (1),GK,79,82,14000000.0,35000.0,24.0,14.0,40.8,35.7,56.0,16.2,78.2
-Alexis Vega ,173,77,Right,1997-11-25,26,Mexico,Mexico,International,"LW, ST, LM",79,82,14000000.0,35000.0,83.0,18.5,66.3,73.3,80.7,72.4,8.6
-Fredrik Aursnes ,179,71,Right,1995-12-10,28,Norway,Norway,International,"CM, LM, RB",79,80,18500000.0,17000.0,79.0,74.0,78.8,78.3,79.4,65.1,12.2
+Alexis Vega ,173,77,Right,1997-11-25,26,Mexico,NG - FA,Free Agents League,"LW, ST, LM",79,82,14000000.0,35000.0,83.0,18.5,66.3,73.3,80.7,72.4,8.6
+Fredrik Aursnes ,179,71,Right,1995-12-10,28,Norway,Benfica,Portugal Primeira Liga (1),"CM, LM, RB",79,80,18500000.0,17000.0,79.0,74.0,78.8,78.3,79.4,65.1,12.2
 Philipp Lienhart ,189,83,Right,1996-07-11,27,Austria,SC Freiburg,Germany 1. Bundesliga (1),CB,79,81,16500000.0,31000.0,61.5,78.5,66.3,61.7,70.7,37.6,11.8
 Gonzalo Montiel ,175,70,Right,1997-01-01,26,Argentina,Nottingham Forest,England Premier League (1),"RB, RWB",79,81,17500000.0,28500.0,73.5,75.5,77.3,70.7,81.6,60.8,7.6
 Matheus Reis ,184,80,Left,1995-02-18,28,Brazil,Sporting CP,Portugal Primeira Liga (1),"CB, LB, LWB",79,80,15000000.0,16000.0,74.5,80.0,72.5,68.3,74.9,55.6,10.2
@@ -569,12 +569,12 @@ Alexandr Golovin ,178,69,Right,1996-05-30,27,Russia,AS Monaco,France Ligue 1 (1)
 Joe Gomez ,188,77,Right,1997-05-23,26,England,Liverpool,England Premier League (1),"CB, RB",79,84,16500000.0,95000.0,71.5,80.0,70.5,72.3,74.4,35.2,9.8
 Gonçalo Guedes ,179,68,Right,1996-11-29,27,Portugal,Benfica,Portugal Primeira Liga (1),"ST, LM",79,81,19500000.0,75000.0,82.5,32.0,70.2,73.0,78.7,76.9,10.0
 Jarrod Bowen ,175,70,Left,1996-12-20,26,England,West Ham United,England Premier League (1),"RM, RW",79,80,19000000.0,70000.0,80.5,38.0,67.0,73.3,75.6,71.9,10.6
-Henry Martín ,177,83,Right,1992-11-18,31,Mexico,Mexico,International,ST,79,79,19000000.0,70000.0,75.0,21.5,69.0,63.0,83.3,70.6,10.2
+Henry Martín ,177,83,Right,1992-11-18,31,Mexico,NG - FA,Free Agents League,ST,79,79,19000000.0,70000.0,75.0,21.5,69.0,63.0,83.3,70.6,10.2
 Kalvin Phillips ,178,72,Right,1995-12-02,28,England,Manchester City,England Premier League (1),"CDM, CM",79,82,16500000.0,105000.0,75.5,79.5,75.8,77.0,71.4,64.2,10.0
 Sergio Herrera ,192,82,Right,1993-06-06,30,Spain,CA Osasuna,Spain Primera Division (1),GK,79,80,11500000.0,24500.0,21.0,17.5,36.2,21.7,51.4,23.8,77.4
 Robin Gosens ,183,76,Left,1994-07-05,29,Germany,1. FC Union Berlin,Germany 1. Bundesliga (1),"LWB, LM",79,79,16000000.0,38000.0,76.0,76.5,76.3,76.0,77.3,69.0,12.8
 Dani Ceballos ,179,68,Right,1996-08-07,27,Spain,Real Madrid,Spain Primera Division (1),"CM, CDM, LW",79,80,19000000.0,140000.0,83.5,70.0,78.0,78.3,68.3,65.1,12.6
-Luis Chávez ,178,73,Left,1996-01-15,27,Mexico,Mexico,International,"CM, CDM",79,80,19000000.0,140000.0,80.0,72.5,73.2,77.3,75.6,71.2,10.4
+Luis Chávez ,178,73,Left,1996-01-15,27,Mexico,NG - FA,Free Agents League,"CM, CDM",79,80,19000000.0,140000.0,80.0,72.5,73.2,77.3,75.6,71.2,10.4
 Angeliño ,171,69,Left,1997-01-04,26,Spain,Galatasaray,Turkey Super Lig (1),"LB, LM",79,81,17500000.0,50000.0,82.0,74.0,77.8,82.3,75.9,69.6,11.6
 Patrick Ciurria ,178,67,Left,1995-02-09,28,Italy,AC Monza,Italy Serie A (1),RM,79,79,17500000.0,55000.0,79.0,52.0,66.7,75.3,74.7,70.6,9.4
 Ludovic Ajorque ,196,93,Left,1994-02-25,29,France,1. FSV Mainz 05,Germany 1. Bundesliga (1),ST,79,79,17500000.0,38000.0,74.0,40.0,73.2,57.0,64.7,71.9,11.2
@@ -651,7 +651,7 @@ Marcelo Grohe ,188,80,Right,1987-01-13,36,Brazil,Al Ittihad,Saudi Pro League (1)
 Łukasz Fabiański ,190,83,Right,1985-04-18,38,Poland,West Ham United,England Premier League (1),GK,79,79,450000.0,34000.0,18.0,12.5,44.5,32.0,50.0,20.5,76.6
 Steve Mandanda ,187,88,Right,1985-03-28,38,France,Stade Rennais,France Ligue 1 (1),GK,79,79,450000.0,24500.0,23.0,14.0,45.2,36.7,48.9,17.2,77.4
 Andrea Consigli ,189,82,Right,1987-01-27,36,Italy,Sassuolo,Italy Serie A (1),GK,79,79,450000.0,10500.0,16.5,18.0,36.7,22.7,45.7,20.4,77.8
-António Silva ,187,80,Right,2003-10-31,20,Portugal,Portugal,International,CB,78,88,13500000.0,7300.0,71.0,79.5,67.2,64.0,72.0,40.9,8.8
+António Silva ,187,80,Right,2003-10-31,20,Portugal,Benfica,Portugal Primeira Liga (1),CB,78,88,13500000.0,7300.0,71.0,79.5,67.2,64.0,72.0,40.9,8.8
 Micky van de Ven ,193,81,Left,2001-04-19,22,Netherlands,Tottenham Hotspur,England Premier League (1),"CB, LB",78,85,14500000.0,60000.0,70.5,79.5,65.2,66.7,74.0,46.0,10.2
 Castello Lukeba ,184,73,Left,2002-12-17,20,France,RB Leipzig,Germany 1. Bundesliga (1),CB,78,85,14000000.0,32000.0,71.0,79.0,70.2,70.0,75.0,46.0,11.2
 Myrto Uzuni ,178,64,Right,1995-05-31,28,Albania,Granada CF,Spain Primera Division (1),"ST, LM, RM",78,78,14500000.0,26000.0,82.0,19.0,70.5,69.3,75.4,72.6,10.4
@@ -802,7 +802,7 @@ Rachid Ghezzal ,182,70,Left,1992-05-09,31,Algeria,Beşiktaş,Turkey Super Lig (1
 Jamie Vardy ,179,74,Right,1987-01-11,36,England,Leicester City,England Championship (2),ST,78,78,4800000.0,39000.0,75.0,52.0,73.5,67.3,70.6,74.9,12.4
 Adrien Thomasson ,175,72,Right,1993-12-10,30,France,RC Lens,France Ligue 1 (1),"LW, RW, CM",78,78,14000000.0,42000.0,80.5,62.5,75.2,78.7,72.6,70.2,12.0
 Andrea Belotti ,181,84,Right,1993-12-20,29,Italy,Roma,Italy Serie A (1),ST,78,78,14000000.0,65000.0,75.0,27.5,69.8,52.7,78.0,72.6,10.6
-Romain Saïss ,190,84,Left,1990-03-26,33,Morocco,Morocco,International,CB,78,78,6500000.0,34000.0,66.5,76.5,74.0,69.7,67.9,58.4,10.0
+Romain Saïss ,190,84,Left,1990-03-26,33,Morocco,Al Shabab,Saudi Pro League (1),CB,78,78,6500000.0,34000.0,66.5,76.5,74.0,69.7,67.9,58.4,10.0
 Joël Veltman ,184,75,Right,1992-01-15,31,Netherlands,Brighton & Hove Albion,England Premier League (1),"RB, CB",78,78,10000000.0,70000.0,71.0,79.5,71.3,74.3,67.9,48.8,8.6
 Sead Kolašinac ,183,85,Left,1993-06-20,30,Bosnia & Herzegovina,Atalanta,Italy Serie A (1),"CB, LB",78,78,11500000.0,44000.0,69.5,76.0,74.5,69.3,70.9,59.8,11.2
 Felipe ,190,84,Right,1989-05-16,34,Brazil,Nottingham Forest,England Premier League (1),CB,78,78,4600000.0,60000.0,58.0,76.5,66.0,59.7,62.6,46.8,10.0
@@ -875,7 +875,7 @@ Riquelme ,174,66,Right,2000-04-02,23,Spain,Atlético de Madrid,Spain Primera Div
 Ladislav Krejčí ,190,86,Left,1999-04-20,24,Czech Republic,Sparta Praha,Rest of World,"CB, CDM, CM",77,84,10500000.0,14500.0,70.0,72.5,75.8,67.7,72.6,65.9,8.0
 Samuel Lino ,170,69,Right,1999-12-23,23,Brazil,Atlético de Madrid,Spain Primera Division (1),LM,77,84,12000000.0,41000.0,78.0,23.5,64.8,69.3,77.1,63.1,10.0
 Tomáš Holeš ,180,73,Right,1993-03-31,30,Czech Republic,Slavia Praha,Rest of World,"CB, CDM",77,77,8500000.0,17000.0,72.5,75.0,74.5,75.7,78.3,66.6,9.0
-Anatoliy Trubin ,199,86,Right,2001-08-01,22,Ukraine,Ukraine,International,GK,77,85,9500000.0,6900.0,21.0,11.0,36.3,26.7,44.1,16.1,74.8
+Anatoliy Trubin ,199,86,Right,2001-08-01,22,Ukraine,Benfica,Portugal Primeira Liga (1),GK,77,85,9500000.0,6900.0,21.0,11.0,36.3,26.7,44.1,16.1,74.8
 Kouadio Manu Koné ,185,80,Right,2001-05-17,22,France,Borussia M'gladbach,Germany 1. Bundesliga (1),CM,77,85,12500000.0,24500.0,83.0,72.0,73.8,75.0,76.0,64.2,10.2
 Thierry Correia ,176,69,Right,1999-03-09,24,Portugal,Valencia CF,Spain Primera Division (1),"RB, RM",77,83,11000000.0,26000.0,74.5,75.0,69.7,69.3,77.9,53.0,8.8
 Felix Nmecha ,190,80,Right,2000-10-10,23,Germany,Borussia Dortmund,Germany 1. Bundesliga (1),"CM, LM",77,84,12500000.0,36000.0,80.0,74.0,74.0,70.3,79.6,64.2,9.8
@@ -889,7 +889,7 @@ Jesper Lindstrøm ,182,66,Right,2000-02-29,23,Denmark,Napoli,Italy Serie A (1),"
 Kyogo Furuhashi ,170,63,Right,1995-01-20,28,Japan,1. FC Union Berlin,Germany 1. Bundesliga (1),ST,77,77,11000000.0,39000.0,73.5,52.5,71.2,66.0,79.7,71.2,10.0
 Sofiane Diop ,175,65,Right,2000-06-09,23,France,OGC Nice,France Ligue 1 (1),"LM, RM, CF",77,82,12000000.0,35000.0,81.5,52.0,71.5,73.7,66.4,66.4,10.6
 Trincão ,184,76,Left,1999-12-29,23,Portugal,Sporting CP,Portugal Primeira Liga (1),"RW, RM, LW",77,84,12000000.0,13500.0,82.0,35.0,66.8,68.3,71.7,70.5,8.4
-Morten Hjulmand ,185,72,Right,1999-06-25,24,Denmark,Denmark,International,"CDM, CM",77,85,11000000.0,11000.0,74.0,68.5,73.8,74.7,66.9,55.2,8.8
+Morten Hjulmand ,185,72,Right,1999-06-25,24,Denmark,Sporting CP,Portugal Primeira Liga (1),"CDM, CM",77,85,11000000.0,11000.0,74.0,68.5,73.8,74.7,66.9,55.2,8.8
 Mykola Shaparenko ,178,72,Right,1998-10-04,25,Ukraine,Dynamo Kyiv,Rest of World,"CM, CAM",77,84,12000000.0,16000.0,79.0,67.5,74.5,76.0,72.7,65.9,11.6
 Luís Maximiano ,190,82,Right,1999-01-05,24,Portugal,UD Almería,Spain Primera Division (1),GK,77,81,9000000.0,27000.0,18.5,14.0,36.0,30.7,51.4,13.4,75.0
 De Frutos ,176,71,Right,1997-02-20,26,Spain,Rayo Vallecano,Spain Primera Division (1),RM,77,78,11500000.0,21500.0,78.0,33.5,65.8,73.3,76.7,66.1,12.2
@@ -1010,17 +1010,17 @@ Bartłomiej Drągowski ,191,74,Right,1997-08-19,26,Poland,La Spezia,Italy Serie 
 Serhou Guirassy ,187,82,Right,1996-03-12,27,Guinea,VfB Stuttgart,Germany 1. Bundesliga (1),ST,77,77,11500000.0,28000.0,78.0,31.5,66.2,64.0,71.4,74.4,10.2
 Lorenzo Montipò ,191,82,Right,1996-02-20,27,Italy,Hellas Verona,Italy Serie A (1),GK,77,80,8000000.0,20500.0,19.5,15.0,36.0,19.7,47.1,22.8,75.0
 Joaquín Correa ,188,78,Right,1994-08-13,29,Argentina,Olympique de Marseille,France Ligue 1 (1),"CF, ST",77,77,11000000.0,75000.0,85.0,31.5,63.8,72.3,71.1,71.0,8.8
-Franco Armani ,189,88,Right,1986-10-16,37,Argentina,Argentina,International,GK,77,77,275000.0,9700.0,26.5,16.0,43.7,27.3,50.1,21.0,75.6
+Franco Armani ,189,88,Right,1986-10-16,37,Argentina,River Plate,Argentina Primera Division (1),GK,77,77,275000.0,9700.0,26.5,16.0,43.7,27.3,50.1,21.0,75.6
 Alexey Miranchuk ,182,74,Left,1995-10-17,28,Russia,Atalanta,Italy Serie A (1),"CF, CAM",77,78,11500000.0,49000.0,80.0,28.5,65.3,74.7,72.4,69.9,10.4
 Johan Mojica ,185,73,Left,1992-08-21,31,Colombia,CA Osasuna,Spain Primera Division (1),"LB, LWB, LM",77,77,9000000.0,28500.0,73.5,76.0,70.0,74.7,73.7,62.5,11.8
 Jefferson Lerma ,179,70,Right,1994-10-25,29,Colombia,Crystal Palace,England Premier League (1),"CDM, CM",77,77,9500000.0,38000.0,73.0,75.0,73.0,69.7,72.7,66.1,11.4
 Fábio Cardoso ,187,81,Right,1994-04-19,29,Portugal,FC Porto,Portugal Primeira Liga (1),CB,77,78,9000000.0,13500.0,63.5,76.5,62.5,57.7,69.3,38.8,11.2
-Abderrazak Hamdallah ,179,75,Right,1990-12-17,32,Morocco,Morocco,International,ST,77,77,8500000.0,42000.0,74.5,22.5,64.7,66.0,71.7,75.5,10.8
+Abderrazak Hamdallah ,179,75,Right,1990-12-17,32,Morocco,Al Ittihad,Saudi Pro League (1),ST,77,77,8500000.0,42000.0,74.5,22.5,64.7,66.0,71.7,75.5,10.8
 Ruben Loftus-Cheek ,191,88,Right,1996-01-23,27,England,Milan,Italy Serie A (1),"CM, CDM, RWB",77,78,11000000.0,55000.0,81.0,67.5,73.3,76.3,68.4,63.8,11.6
 Diego Llorente ,186,76,Right,1993-08-16,30,Spain,Roma,Italy Serie A (1),CB,77,77,9000000.0,42000.0,70.0,75.0,69.0,67.3,69.1,43.2,9.4
 Yannick Gerhardt ,184,81,Left,1994-03-13,29,Germany,VfL Wolfsburg,Germany 1. Bundesliga (1),CM,77,77,10500000.0,45000.0,77.5,68.0,75.8,74.0,70.6,63.6,10.0
 Dominik Kohr ,183,80,Right,1994-01-31,29,Germany,1. FSV Mainz 05,Germany 1. Bundesliga (1),"CDM, CM",77,77,9000000.0,27000.0,71.5,77.5,73.8,60.7,77.7,58.9,8.6
-Nicolae Stanciu ,170,70,Right,1993-05-07,30,Romania,Romania,International,"CM, CAM",77,77,10000000.0,23500.0,77.5,60.0,72.2,78.3,79.6,73.9,11.2
+Nicolae Stanciu ,170,70,Right,1993-05-07,30,Romania,Damac FC,Saudi Pro League (1),"CM, CAM",77,77,10000000.0,23500.0,77.5,60.0,72.2,78.3,79.6,73.9,11.2
 André Gomes ,188,84,Right,1993-07-30,30,Portugal,Everton,England Premier League (1),"CDM, CM",77,77,9000000.0,38000.0,77.5,68.5,76.5,74.7,61.7,68.5,9.8
 Bruma ,173,70,Right,1994-10-24,29,Portugal,Braga,Portugal Primeira Liga (1),"LM, LW, RW",77,77,10500000.0,16500.0,82.5,27.5,61.8,67.0,79.0,69.0,10.4
 Danilo Cataldi ,180,70,Right,1994-08-06,29,Italy,Lazio,Italy Serie A (1),CDM,77,77,9500000.0,43000.0,78.0,72.0,75.7,75.3,74.0,71.1,9.8
@@ -1178,7 +1178,7 @@ Jean-Pierre Nsame ,188,88,Right,1993-05-01,30,Cameroon,BSC Young Boys,Switzerlan
 Aaron Boupendza ,180,79,Left,1996-08-07,27,Gabon,FC Cincinnati,USA Major League Soccer (1),"LM, LW, ST",76,76,8000000.0,9100.0,79.5,22.0,61.7,65.0,82.0,74.9,10.0
 Kai Wagner ,182,78,Left,1997-02-15,26,Germany,TSG 1899 Hoffenheim,Germany 1. Bundesliga (1),"LB, LWB",76,79,7500000.0,29000.0,70.0,75.5,66.3,72.7,77.6,53.8,13.4
 Azor Matusiwa ,173,72,Right,1998-04-28,25,Netherlands,Stade de Reims,France Ligue 1 (1),"CDM, CM",76,80,7500000.0,20000.0,68.0,74.0,71.7,63.0,68.9,49.8,10.2
-Abel Ruiz ,180,75,Right,2000-01-28,23,Spain,Spain,International,ST,76,84,9000000.0,14000.0,76.5,29.0,61.2,67.3,77.3,70.1,8.8
+Abel Ruiz ,180,75,Right,2000-01-28,23,Spain,Braga,Portugal Primeira Liga (1),ST,76,84,9000000.0,14000.0,76.5,29.0,61.2,67.3,77.3,70.1,8.8
 Weston McKennie ,185,90,Right,1998-08-28,25,United States,Juventus,Italy Serie A (1),"CM, CDM, RM",76,80,8500000.0,70000.0,79.5,78.0,76.0,75.3,74.1,72.8,9.6
 Nacho Vidal ,180,75,Right,1995-01-24,28,Spain,CA Osasuna,Spain Primera Division (1),"RB, RWB",76,76,7000000.0,25000.0,70.5,77.0,67.7,73.0,69.6,53.2,8.6
 Dániel Gazdag ,178,76,Right,1996-03-02,27,Hungary,LOSC Lille,France Ligue 1 (1),"CAM, CM",76,77,8000000.0,30000.0,79.5,56.0,69.8,64.7,72.4,64.4,9.0
@@ -1190,7 +1190,7 @@ Owen Wijndal ,176,65,Left,1999-11-28,24,Netherlands,Antwerp,Belgium Pro League (
 Robin Koch ,192,85,Right,1996-07-17,27,Germany,Eintracht Frankfurt,Germany 1. Bundesliga (1),"CB, CDM",76,79,7000000.0,38000.0,65.0,77.0,69.3,61.7,65.3,40.9,8.8
 Marcos Senesi ,183,78,Left,1997-05-10,26,Argentina,AFC Bournemouth,England Premier League (1),CB,76,78,7000000.0,40000.0,74.0,76.5,67.7,71.3,67.7,48.0,9.8
 Răzvan Marin ,178,75,Right,1996-05-23,27,Romania,Empoli,Italy Serie A (1),"CM, CDM",76,77,8000000.0,24500.0,75.5,67.5,73.3,77.0,73.3,74.2,9.4
-Carlos Rodríguez ,171,64,Right,1997-01-03,26,Mexico,Mexico,International,"CAM, CM",76,79,8000000.0,24500.0,77.0,66.0,72.2,72.7,75.4,60.9,11.2
+Carlos Rodríguez ,171,64,Right,1997-01-03,26,Mexico,NG - FA,Free Agents League,"CAM, CM",76,79,8000000.0,24500.0,77.0,66.0,72.2,72.7,75.4,60.9,11.2
 Ismaïla Sarr ,185,76,Right,1998-02-25,25,Senegal,Olympique de Marseille,France Ligue 1 (1),"RM, LM, RW",76,79,8500000.0,33000.0,79.5,18.5,59.5,64.7,79.4,69.5,9.8
 Rasmus Nicolaisen ,191,81,Left,1997-03-16,26,Denmark,Toulouse FC,France Ligue 1 (1),CB,76,79,7000000.0,21000.0,61.0,76.0,65.3,61.0,62.0,43.1,12.0
 Vitaly Janelt ,184,79,Left,1998-05-10,25,Germany,Brentford,England Premier League (1),"CDM, CM",76,80,7500000.0,42000.0,73.0,74.0,74.2,73.0,71.4,61.6,8.0
@@ -1206,7 +1206,7 @@ Diogo Leite ,188,83,Left,1999-01-23,24,Portugal,1. FC Union Berlin,Germany 1. Bu
 Roland Sallai ,183,75,Right,1997-05-22,26,Hungary,SC Freiburg,Germany 1. Bundesliga (1),"RM, CF, CAM",76,77,8000000.0,26500.0,79.5,37.5,67.0,71.3,71.9,60.8,9.2
 Orel Mangala ,178,80,Right,1998-03-18,25,Belgium,Nottingham Forest,England Premier League (1),"CM, CDM",76,80,8500000.0,55000.0,82.5,71.5,74.2,71.0,72.7,54.5,7.4
 Yangel Herrera ,184,77,Right,1998-01-07,25,Venezuela,Girona FC,Spain Primera Division (1),"CM, CDM, CAM",76,80,8500000.0,24000.0,76.5,76.5,74.2,71.7,68.9,65.9,8.8
-Akram Afif ,176,70,Right,1996-11-18,27,Qatar,Qatar,International,"LM, CF, CAM",76,76,8000000.0,31000.0,77.0,32.0,58.7,71.7,73.4,68.5,8.8
+Akram Afif ,176,70,Right,1996-11-18,27,Qatar,Valencia CF,Spain Primera Division (1),"LM, CF, CAM",76,76,8000000.0,31000.0,77.0,32.0,58.7,71.7,73.4,68.5,8.8
 Odriozola ,176,66,Right,1995-12-14,27,Spain,Real Sociedad,Spain Primera Division (1),RB,76,77,7000000.0,26500.0,74.5,72.5,67.8,72.0,74.3,58.2,10.4
 Eray Cömert ,183,80,Right,1998-02-04,25,Switzerland,FC Nantes,France Ligue 1 (1),CB,76,81,7000000.0,27000.0,56.0,75.5,64.0,63.3,74.6,56.2,6.4
 Aïssa Laïdouni ,183,81,Right,1996-12-13,26,Tunisia,1. FC Union Berlin,Germany 1. Bundesliga (1),"CDM, CM",76,78,7000000.0,29000.0,74.5,70.0,74.3,69.0,73.4,52.6,12.2
@@ -1315,7 +1315,7 @@ Darko Lazović ,181,66,Right,1990-09-15,33,Serbia,Empoli,Italy Serie A (1),"LM, 
 Rani Khedira ,189,86,Right,1994-01-27,29,Germany,1. FC Union Berlin,Germany 1. Bundesliga (1),"CDM, CB",76,76,6500000.0,30000.0,62.5,76.0,68.0,58.3,67.7,46.5,10.6
 Moussa Dembélé ,183,79,Right,1996-07-12,27,France,Al Ettifaq,Saudi Pro League (1),ST,76,77,8500000.0,31000.0,73.5,15.0,65.8,56.7,73.0,72.6,9.8
 Pierluigi Gollini ,194,94,Right,1995-03-18,28,Italy,Napoli,Italy Serie A (1),GK,76,79,5500000.0,33000.0,21.0,15.5,36.0,24.3,54.0,21.5,75.4
-Sofiane Boufal ,175,67,Right,1993-09-17,30,Morocco,Morocco,International,"CF, LM, ST",76,76,5500000.0,33000.0,82.5,38.5,61.8,73.7,72.3,66.5,11.2
+Sofiane Boufal ,175,67,Right,1993-09-17,30,Morocco,NG - FA,Free Agents League,"CF, LM, ST",76,76,5500000.0,33000.0,82.5,38.5,61.8,73.7,72.3,66.5,11.2
 Alexandru Maxim ,177,73,Right,1990-07-08,33,Romania,Gaziantep FK,Turkey Super Lig (1),"CAM, CM, LM",76,76,6000000.0,15500.0,78.5,26.5,63.3,77.0,71.1,72.1,10.0
 Morgan Sanson ,180,73,Right,1994-08-18,29,France,OGC Nice,France Ligue 1 (1),"CM, CAM",76,76,7500000.0,70000.0,76.5,72.5,74.8,76.7,69.7,71.4,11.2
 Elseid Hysaj ,182,70,Right,1994-02-02,29,Albania,Lazio,Italy Serie A (1),"LB, RB",76,76,6500000.0,40000.0,73.5,74.5,70.5,71.3,72.1,48.4,10.4
@@ -1449,7 +1449,7 @@ Artem Bondarenko ,182,73,Left,2000-08-21,23,Ukraine,Shakhtar Donetsk,Rest of Wor
 Kenneth Taylor ,182,73,Left,2002-05-16,21,Netherlands,Ajax,Holland Eredivisie (1),"CM, CDM",75,83,6500000.0,11000.0,76.5,63.5,71.3,78.0,72.7,66.5,8.8
 Strahinja Pavlović ,194,86,Left,2001-05-24,22,Serbia,RB Salzburg,Austria Bundesliga (1),CB,75,83,6000000.0,14500.0,65.5,75.0,60.3,57.0,68.7,44.1,11.4
 Matheus Henrique ,175,71,Right,1997-12-19,25,Brazil,Sassuolo,Italy Serie A (1),CM,75,78,6000000.0,16000.0,80.0,58.5,69.0,77.0,71.3,59.6,9.0
-Kevin Álvarez ,176,66,Right,1999-01-15,24,Mexico,Mexico,International,RB,75,79,6000000.0,16000.0,68.0,73.5,66.0,72.3,77.1,50.8,10.0
+Kevin Álvarez ,176,66,Right,1999-01-15,24,Mexico,NG - FA,Free Agents League,RB,75,79,6000000.0,16000.0,68.0,73.5,66.0,72.3,77.1,50.8,10.0
 Alexis Flips ,173,65,Right,2000-01-18,23,France,Anderlecht,Belgium Pro League (1),"LM, CAM, RM",75,79,6500000.0,20000.0,75.5,46.5,66.7,72.0,69.7,65.2,8.6
 Jakub Kamiński ,179,68,Right,2002-06-05,21,Poland,VfL Wolfsburg,Germany 1. Bundesliga (1),"LW, LB",75,84,6500000.0,31000.0,79.0,43.5,60.2,65.0,75.6,60.5,10.0
 Benjamín Rollheiser ,171,76,Left,2000-03-24,23,Argentina,Estudiantes de La Plata,Argentina Primera Division (1),"RM, ST",75,81,6500000.0,13000.0,76.5,41.0,64.2,68.3,76.4,71.2,9.0
@@ -1495,7 +1495,7 @@ Deniz Undav ,179,86,Right,1996-07-19,27,Germany,VfB Stuttgart,Germany 1. Bundesl
 Daniel-Kofi Kyereh ,179,73,Right,1996-03-08,27,Ghana,SC Freiburg,Germany 1. Bundesliga (1),"CAM, ST",75,76,6000000.0,25500.0,80.0,16.0,58.7,63.3,78.3,64.4,7.8
 Nemanja Radonjić ,185,76,Right,1996-02-15,27,Serbia,Torino,Italy Serie A (1),"CF, LW, RW",75,76,6000000.0,40000.0,74.5,26.5,58.8,67.3,74.3,66.1,9.8
 Enzo Loiodice ,175,71,Left,2000-11-27,23,France,UD Las Palmas,Spain Primera Division (1),"CM, CDM",75,85,6500000.0,16500.0,78.0,72.0,70.0,66.0,69.7,62.6,9.8
-Luis Romo ,182,84,Right,1995-06-05,28,Mexico,Mexico,International,"CM, CDM",75,75,6500000.0,16500.0,72.0,71.0,71.7,72.3,71.6,66.6,10.8
+Luis Romo ,182,84,Right,1995-06-05,28,Mexico,NG - FA,Free Agents League,"CM, CDM",75,75,6500000.0,16500.0,72.0,71.0,71.7,72.3,71.6,66.6,10.8
 Anthony Gordon ,183,72,Right,2001-02-24,22,England,Newcastle United,England Premier League (1),"LW, RW, LM",75,84,6500000.0,75000.0,76.5,36.5,60.3,71.3,72.9,66.1,8.0
 Matěj Kovář ,196,88,Right,2000-05-17,23,Czech Republic,Bayer 04 Leverkusen,Germany 1. Bundesliga (1),GK,75,82,4800000.0,25000.0,28.5,12.0,39.8,36.0,36.1,18.4,75.2
 Keito Nakamura ,180,75,Right,2000-07-28,23,Japan,Stade de Reims,France Ligue 1 (1),LM,75,83,6500000.0,19000.0,75.5,38.0,64.8,69.7,74.6,68.8,10.0
@@ -1506,8 +1506,8 @@ Rayan Aït-Nouri ,180,70,Left,2001-06-06,22,France,Wolverhampton Wanderers,Engla
 Igoh Ogbu ,187,83,Right,2000-02-08,23,Nigeria,Slavia Praha,Rest of World,CB,75,81,5500000.0,13000.0,60.0,75.0,60.0,58.3,79.1,41.2,8.8
 Tariq Lamptey ,163,62,Right,2000-09-30,23,Ghana,Brighton & Hove Albion,England Premier League (1),"RB, RWB",75,80,6000000.0,49000.0,74.5,74.0,67.8,70.0,72.4,44.0,11.6
 Lewis Ferguson ,181,75,Right,1999-08-24,24,Scotland,Bologna,Italy Serie A (1),"CM, CDM, CAM",75,81,6500000.0,25000.0,74.5,68.5,75.3,69.3,78.4,70.2,10.2
-Jawad El Yamiq ,193,80,Right,1992-02-29,31,Morocco,Morocco,International,CB,75,75,3800000.0,22000.0,60.5,73.0,65.0,58.7,77.9,46.6,11.0
-Viktor Gyökeres ,187,90,Right,1998-06-04,25,Sweden,Sweden,International,ST,75,80,6500000.0,13500.0,77.0,20.5,64.7,60.3,80.6,68.1,11.2
+Jawad El Yamiq ,193,80,Right,1992-02-29,31,Morocco,Al Wehda,Saudi Pro League (1),CB,75,75,3800000.0,22000.0,60.5,73.0,65.0,58.7,77.9,46.6,11.0
+Viktor Gyökeres ,187,90,Right,1998-06-04,25,Sweden,Sporting CP,Portugal Primeira Liga (1),ST,75,80,6500000.0,13500.0,77.0,20.5,64.7,60.3,80.6,68.1,11.2
 Mauro Júnior ,171,62,Left,1999-05-06,24,Brazil,PSV,Holland Eredivisie (1),"RB, LB, CAM",75,80,6000000.0,13000.0,79.0,67.0,72.7,74.3,72.6,67.4,9.6
 Patson Daka ,183,71,Right,1998-10-09,25,Zambia,Leicester City,England Championship (2),ST,75,79,6500000.0,38000.0,76.0,22.0,60.0,59.3,78.1,69.8,7.8
 Joseph Paintsil ,169,70,Right,1998-02-01,25,Ghana,Salernitana,Italy Serie A (1),"RM, LM",75,78,6000000.0,27500.0,75.5,33.0,60.2,65.7,86.3,61.8,10.6
@@ -1529,13 +1529,13 @@ Marcão ,196,98,Right,1994-06-16,29,Brazil,Wuhan Three Towns,China Super League 
 Eduard Löwen ,188,91,Right,1997-01-28,26,Germany,St. Louis City SC,USA Major League Soccer (1),"CM, CAM, CDM",75,78,6000000.0,8600.0,75.0,70.0,73.3,73.0,69.9,70.5,9.0
 Marco Richter ,176,74,Right,1997-11-24,26,Germany,1. FSV Mainz 05,Germany 1. Bundesliga (1),"RM, CAM",75,76,6000000.0,24000.0,78.5,53.5,62.3,68.7,75.4,67.2,9.4
 Chidera Ejuke ,176,72,Right,1998-01-02,25,Nigeria,Antwerp,Belgium Pro League (1),"LW, LM, RW",75,78,6000000.0,28000.0,78.0,48.0,60.2,64.7,81.7,63.9,9.0
-Uriel Antuna ,174,59,Right,1997-08-21,26,Mexico,Mexico,International,"RM, LM, RW",75,76,6000000.0,28000.0,76.0,31.5,59.2,64.0,76.3,59.2,11.4
+Uriel Antuna ,174,59,Right,1997-08-21,26,Mexico,NG - FA,Free Agents League,"RM, LM, RW",75,76,6000000.0,28000.0,76.0,31.5,59.2,64.0,76.3,59.2,11.4
 Mama Baldé ,176,69,Right,1995-11-06,28,Guinea Bissau,Olympique Lyonnais,France Ligue 1 (1),"ST, LM, RM",75,76,6000000.0,9100.0,71.5,51.5,67.5,68.0,82.3,70.0,10.0
 Arne Maier ,187,84,Right,1999-01-08,24,Germany,FC Augsburg,Germany 1. Bundesliga (1),"RM, CM, CDM",75,80,6500000.0,22000.0,77.0,71.5,72.2,76.0,71.3,54.9,9.8
 Djordje Mihailovic ,178,69,Right,1998-11-10,25,United States,AZ,Holland Eredivisie (1),"CAM, CM",75,80,6500000.0,9500.0,73.5,49.0,70.8,74.7,72.1,66.0,10.4
 Marcus Tavernier ,177,70,Left,1999-03-22,24,England,AFC Bournemouth,England Premier League (1),"LM, RM, CAM",75,79,6500000.0,36000.0,77.5,60.0,64.8,69.7,74.4,66.9,9.8
 Keidi Bare ,174,66,Right,1997-08-28,26,Albania,RCD Espanyol,Spain Segunda Division (2),"CDM, CM",75,78,5500000.0,9400.0,72.5,74.0,72.0,67.0,78.4,55.9,12.0
-Roberto Alvarado ,176,70,Left,1998-09-07,25,Mexico,Mexico,International,"RM, LM",75,78,5500000.0,9400.0,76.0,52.0,66.5,73.3,75.3,67.9,12.4
+Roberto Alvarado ,176,70,Left,1998-09-07,25,Mexico,NG - FA,Free Agents League,"RM, LM",75,78,5500000.0,9400.0,76.0,52.0,66.5,73.3,75.3,67.9,12.4
 Eddie Nketiah ,180,73,Right,1999-05-30,24,England,Arsenal,England Premier League (1),ST,75,80,6500000.0,75000.0,77.5,17.0,59.8,54.0,74.3,64.2,9.4
 Michael Ngadeu ,190,87,Right,1990-11-23,33,Cameroon,Beijing Guoan,China Super League (1),CB,75,75,3600000.0,12000.0,58.0,75.0,62.0,59.0,65.9,44.1,7.6
 Anel Ahmedhodžić ,195,84,Right,1999-03-26,24,Bosnia & Herzegovina,Sheffield United,England Premier League (1),CB,75,83,5500000.0,25000.0,62.0,74.5,65.3,60.3,73.4,44.5,9.0
@@ -1547,7 +1547,7 @@ Elieser Baldeiro ,186,85,Right,1996-02-29,27,Brazil,Flamengo,CONMEBOL Libertador
 Marc Roca ,184,81,Left,1996-11-26,27,Spain,Real Betis Balompié,Spain Primera Division (1),"CDM, CM",75,79,5500000.0,36000.0,74.5,68.5,72.2,75.0,61.9,58.1,10.4
 Ryan Sessegnon ,178,70,Left,2000-05-18,23,England,Tottenham Hotspur,England Premier League (1),"LB, LWB",75,80,6000000.0,49000.0,76.5,70.0,73.2,72.0,73.3,58.1,7.8
 Ryan Yates ,190,77,Right,1997-11-21,26,England,Nottingham Forest,England Premier League (1),"CDM, CM",75,80,5500000.0,46000.0,66.5,71.5,69.5,63.3,69.9,54.5,8.2
-Erick Sánchez ,167,71,Right,1999-09-27,24,Mexico,Mexico,International,"CM, CDM",75,79,5500000.0,46000.0,73.0,71.5,71.5,74.0,75.3,68.4,11.0
+Erick Sánchez ,167,71,Right,1999-09-27,24,Mexico,NG - FA,Free Agents League,"CM, CDM",75,79,5500000.0,46000.0,73.0,71.5,71.5,74.0,75.3,68.4,11.0
 Dennis Geiger ,173,67,Right,1998-06-10,25,Germany,TSG 1899 Hoffenheim,Germany 1. Bundesliga (1),"CDM, CM",75,80,5500000.0,26500.0,79.0,66.5,73.5,76.0,61.6,51.2,8.4
 Jean-Ricner Bellegarde ,172,70,Right,1998-06-27,25,France,Wolverhampton Wanderers,England Premier League (1),"CM, CDM",75,79,6000000.0,50000.0,75.5,71.5,72.5,72.3,78.0,60.6,12.0
 Diadié Samassékou ,175,70,Right,1996-01-11,27,Mali,TSG 1899 Hoffenheim,Germany 1. Bundesliga (1),"CDM, CM",75,76,5500000.0,27500.0,70.0,73.5,72.5,66.0,72.1,49.8,9.8
@@ -1617,7 +1617,7 @@ Greg Taylor ,170,68,Left,1997-11-05,26,Scotland,Celtic,Scotland Premiership (1),
 Gabriel Ávalos ,188,91,Right,1991-07-09,32,Paraguay,Argentinos Juniors,Argentina Primera Division (1),ST,75,75,4800000.0,15000.0,74.5,41.5,65.7,60.0,76.6,66.4,13.0
 Maximilian Eggestein ,181,75,Right,1996-12-08,27,Germany,SC Freiburg,Germany 1. Bundesliga (1),"CDM, CM",75,76,5500000.0,23000.0,73.5,74.0,70.8,72.0,69.6,60.8,12.2
 Ché Adams ,178,70,Right,1996-07-13,27,Scotland,Southampton,England Championship (2),ST,75,76,6000000.0,43000.0,74.5,39.0,65.5,59.3,77.1,69.9,13.0
-Jesús Gallardo ,176,73,Left,1994-08-15,29,Mexico,Mexico,International,"LB, LM, LW",75,75,6000000.0,43000.0,75.0,68.5,67.7,71.3,79.6,62.6,9.4
+Jesús Gallardo ,176,73,Left,1994-08-15,29,Mexico,NG - FA,Free Agents League,"LB, LM, LW",75,75,6000000.0,43000.0,75.0,68.5,67.7,71.3,79.6,62.6,9.4
 Ben Godfrey ,183,79,Right,1998-01-15,25,England,Everton,England Premier League (1),"CB, LB, RB",75,77,5500000.0,31000.0,65.0,77.0,65.7,64.0,75.0,47.0,10.0
 Todd Cantwell ,177,70,Right,1998-02-27,25,England,Rangers,Scotland Premiership (1),"CAM, CM, CF",75,79,6000000.0,44000.0,77.5,37.0,64.7,69.3,66.3,62.5,12.6
 Cesinha ,177,74,Right,1989-11-29,34,Brazil,Daegu FC,Korea K League 1 (1),"ST, CAM, LW",75,75,3600000.0,9600.0,75.5,19.0,63.2,69.7,78.9,73.0,10.6
@@ -1756,7 +1756,7 @@ Domagoj Vida ,184,82,Right,1989-04-29,34,Croatia,AEK,Rest of World,CB,75,75,1800
 Martín Silva ,187,88,Right,1983-03-25,40,Uruguay,Libertad,CONMEBOL Libertadores,GK,75,75,140000.0,7200.0,14.0,15.5,40.7,26.7,35.3,19.2,74.8
 Stefan Bell ,192,88,Right,1991-08-24,32,Germany,1. FSV Mainz 05,Germany 1. Bundesliga (1),CB,75,75,3800000.0,23000.0,48.5,72.5,63.2,57.3,52.7,43.2,11.6
 Bart Schenkeveld ,185,83,Right,1991-08-28,32,Netherlands,Panathinaikos,Rest of World,CB,75,75,3800000.0,15000.0,66.5,76.0,68.7,64.0,72.0,44.5,11.8
-Grzegorz Krychowiak ,186,79,Right,1990-01-29,33,Poland,Poland,International,"CDM, CM",75,75,2800000.0,12500.0,70.0,72.0,73.7,70.3,56.4,70.6,10.0
+Grzegorz Krychowiak ,186,79,Right,1990-01-29,33,Poland,Abha Club,Saudi Pro League (1),"CDM, CM",75,75,2800000.0,12500.0,70.0,72.0,73.7,70.3,56.4,70.6,10.0
 Andriy Yarmolenko ,189,83,Left,1989-10-23,34,Ukraine,Dynamo Kyiv,Rest of World,"RM, ST",75,75,3500000.0,16500.0,78.5,32.5,72.0,75.7,64.0,77.1,7.8
 Younès Belhanda ,177,75,Right,1990-02-25,33,Morocco,Adana Demirspor,Turkey Super Lig (1),"CAM, ST",75,75,3500000.0,14500.0,77.0,58.5,73.3,75.7,71.9,73.9,12.8
 Ricardo Rodríguez ,182,77,Left,1992-08-25,31,Switzerland,Torino,Italy Serie A (1),"CB, LM, LB",75,75,4600000.0,34000.0,76.5,76.0,73.0,75.7,70.0,72.5,13.2
@@ -1888,7 +1888,7 @@ Aihen Muñoz ,175,68,Left,1997-08-16,26,Spain,Real Sociedad,Spain Primera Divisi
 Lassina Traoré ,183,90,Right,2001-01-12,22,Burkina Faso,Shakhtar Donetsk,Rest of World,ST,74,82,5000000.0,14500.0,69.5,23.5,61.0,52.3,77.4,64.6,11.6
 Adam Bareiro ,184,84,Right,1996-07-26,27,Paraguay,San Lorenzo de Almagro,Argentina Primera Division (1),ST,74,74,4700000.0,14500.0,73.0,34.5,62.2,53.0,73.1,66.2,11.8
 Daizen Maeda ,173,68,Right,1997-10-20,26,Japan,Celtic,Scotland Premiership (1),"LW, ST",74,74,4700000.0,44000.0,72.0,47.5,66.7,60.7,82.0,68.9,8.0
-César Huerta ,171,67,Right,2000-12-03,23,Mexico,Mexico,International,"LW, LM",74,80,4700000.0,44000.0,77.5,60.5,54.7,71.3,78.0,64.5,9.6
+César Huerta ,171,67,Right,2000-12-03,23,Mexico,NG - FA,Free Agents League,"LW, LM",74,80,4700000.0,44000.0,77.5,60.5,54.7,71.3,78.0,64.5,9.6
 Silas ,189,82,Right,1998-10-06,25,DR Congo,VfB Stuttgart,Germany 1. Bundesliga (1),"RM, ST",74,80,4900000.0,18500.0,80.5,44.5,64.3,61.0,77.7,62.8,10.8
 Hassan Tombakti ,182,74,Right,1999-02-09,24,Saudi Arabia,Al Hilal,Saudi Pro League (1),CB,74,79,4200000.0,25000.0,62.5,76.0,61.0,62.3,78.6,40.1,12.2
 Víctor Gómez ,169,68,Right,2000-04-01,23,Spain,Braga,Portugal Primeira Liga (1),"RB, RWB, LB",74,82,4400000.0,10000.0,72.5,66.5,69.5,73.3,76.1,54.5,10.0
@@ -1900,7 +1900,7 @@ Michal Sadílek ,169,65,Left,1999-05-31,24,Czech Republic,FC Twente,Holland Ered
 Stoichkov ,178,71,Right,1993-11-05,30,Spain,SD Eibar,Spain Segunda Division (2),"LM, CAM, ST",74,74,4100000.0,10500.0,75.5,52.5,62.7,68.0,73.4,69.8,9.0
 Denys Popov ,185,81,Right,1999-02-17,24,Ukraine,Dynamo Kyiv,Rest of World,CB,74,83,4200000.0,12000.0,56.5,74.5,56.8,53.3,65.9,38.5,10.2
 Yassine Benrahou ,172,68,Left,1999-01-24,24,Morocco,Hajduk Split,Rest of World,"CAM, RM, ST",74,79,4900000.0,13500.0,78.5,45.0,59.8,72.0,73.4,66.8,11.2
-Petar Musa ,190,82,Right,1998-03-04,25,Croatia,Croatia,International,ST,74,79,4800000.0,12500.0,70.0,34.0,65.8,59.0,76.4,68.8,10.4
+Petar Musa ,190,82,Right,1998-03-04,25,Croatia,Benfica,Portugal Primeira Liga (1),ST,74,79,4800000.0,12500.0,70.0,34.0,65.8,59.0,76.4,68.8,10.4
 Pavel Bucha ,177,73,Right,1998-03-11,25,Czech Republic,Viktoria Plzeň,Rest of World,"CDM, CM, CAM",74,78,4100000.0,13500.0,75.0,68.0,72.8,74.0,73.3,67.6,9.8
 Kevin Behrens ,185,85,Right,1991-02-03,32,Germany,1. FC Union Berlin,Germany 1. Bundesliga (1),ST,74,74,3400000.0,31000.0,65.5,37.0,65.7,48.7,75.1,65.1,8.6
 Martin Erlić ,192,88,Right,1998-01-24,25,Croatia,Sassuolo,Italy Serie A (1),CB,74,77,4100000.0,13500.0,53.0,76.0,58.7,53.7,60.6,40.4,9.2
@@ -1952,7 +1952,7 @@ Rominigue Kouamé ,177,68,Left,1996-12-17,26,Mali,Cádiz CF,Spain Primera Divisi
 Danilo ,174,68,Right,1999-04-07,24,Brazil,Rangers,Scotland Premiership (1),"ST, CF",74,78,4900000.0,41000.0,73.5,16.0,59.2,55.0,77.1,70.0,9.4
 Georgios Giakoumakis ,185,84,Right,1994-12-09,29,Greece,Atlanta United FC,USA Major League Soccer (1),ST,74,74,4300000.0,9000.0,66.0,21.5,60.3,46.3,72.3,68.0,10.2
 Jakub Moder ,188,78,Right,1999-04-07,24,Poland,Brighton & Hove Albion,England Premier League (1),"CM, CDM, LM",74,80,4800000.0,50000.0,73.5,69.0,72.0,73.3,67.1,68.0,12.4
-Jesús Angulo ,179,81,Left,1998-01-30,25,Mexico,Mexico,International,"CB, LB, LWB",74,80,4800000.0,50000.0,69.5,76.0,65.3,69.0,76.3,51.6,10.2
+Jesús Angulo ,179,81,Left,1998-01-30,25,Mexico,NG - FA,Free Agents League,"CB, LB, LWB",74,80,4800000.0,50000.0,69.5,76.0,65.3,69.0,76.3,51.6,10.2
 Szymon Żurkowski ,185,77,Right,1997-09-25,26,Poland,La Spezia,Italy Serie B (2),CM,74,79,4600000.0,4400.0,74.5,69.0,74.2,72.3,79.1,66.2,9.2
 Masaya Okugawa ,177,68,Left,1996-04-14,27,Japan,FC Augsburg,Germany 1. Bundesliga (1),"LM, CAM",74,74,4500000.0,23500.0,76.0,33.0,60.5,68.7,70.4,62.9,10.8
 Gerzino Nyamsi ,195,94,Right,1997-01-22,26,France,RC Strasbourg,France Ligue 1 (1),CB,74,77,4000000.0,18500.0,58.0,74.5,61.3,51.0,56.9,40.1,11.6
@@ -2056,7 +2056,7 @@ Vinicius Cardenha ,179,73,Right,1992-02-29,31,Brazil,Fluminense,CONMEBOL Liberta
 Enzo Marteiro ,191,80,Right,1992-02-29,31,Brazil,Flamengo,CONMEBOL Libertadores,GK,74,74,2200000.0,11500.0,16.0,14.5,38.3,25.7,44.9,19.5,74.2
 Lassana Coulibaly ,183,77,Right,1996-04-10,27,Mali,Salernitana,Italy Serie A (1),"CDM, CM",74,77,4000000.0,24500.0,72.0,73.5,71.2,67.7,74.1,58.1,9.8
 Tom Davies ,180,70,Right,1998-06-30,25,England,Sheffield United,England Premier League (1),"CM, CDM",74,76,4600000.0,28500.0,76.5,71.5,73.7,73.0,64.7,59.8,11.2
-Lawrence Ati Zigi ,188,87,Right,1996-11-29,27,Ghana,Ghana,International,GK,74,78,3300000.0,8200.0,17.5,19.0,34.8,20.3,50.1,22.9,72.0
+Lawrence Ati Zigi ,188,87,Right,1996-11-29,27,Ghana,FC St. Gallen,Switzerland Super League (1),GK,74,78,3300000.0,8200.0,17.5,19.0,34.8,20.3,50.1,22.9,72.0
 Daniel Mancini ,171,70,Right,1996-11-11,27,Argentina,Panathinaikos,Rest of World,"RW, LW, CAM",74,74,4600000.0,16500.0,76.0,61.0,68.7,69.7,76.0,66.9,11.4
 Tomás Cardona ,185,77,Left,1995-10-10,28,Argentina,Defensa y Justicia,Argentina Primera Division (1),CB,74,77,3900000.0,13000.0,58.5,74.0,58.7,55.0,59.9,44.6,12.0
 Toni Villa ,173,63,Right,1995-01-07,28,Spain,Girona FC,Spain Primera Division (1),"LM, RM",74,74,4200000.0,23000.0,75.5,55.0,66.3,73.7,67.7,61.5,11.6
@@ -2101,9 +2101,9 @@ Lewis Cook ,175,71,Right,1997-02-03,26,England,AFC Bournemouth,England Premier L
 Tyronne Ebuehi ,187,72,Right,1995-12-16,27,Nigeria,Empoli,Italy Serie A (1),RB,74,75,4100000.0,9800.0,71.5,69.0,63.5,65.7,76.4,49.0,13.0
 Andreas Bouchalakis ,186,79,Left,1993-04-05,30,Greece,Hertha BSC,Germany 2. Bundesliga (2),"CM, CDM",74,74,4000000.0,13500.0,72.5,69.0,71.0,73.0,67.1,70.2,12.4
 Dorukhan Toköz ,180,75,Right,1996-05-21,27,Turkey,Adana Demirspor,Turkey Super Lig (1),"CM, CDM, RB",74,75,4500000.0,13500.0,75.0,75.0,74.8,72.0,72.1,64.5,11.0
-Munir ,190,89,Right,1989-05-10,34,Morocco,Morocco,International,GK,74,74,725000.0,16500.0,25.0,19.5,37.5,28.0,54.1,22.9,73.0
+Munir ,190,89,Right,1989-05-10,34,Morocco,Al Wehda,Saudi Pro League (1),GK,74,74,725000.0,16500.0,25.0,19.5,37.5,28.0,54.1,22.9,73.0
 Samu ,170,64,Left,1996-04-21,27,Portugal,Vizela,Portugal Primeira Liga (1),CM,74,75,4500000.0,6100.0,78.5,64.5,68.7,68.0,73.3,62.9,9.8
-Zsolt Kalmár ,185,81,Right,1995-06-09,28,Hungary,Hungary,International,"CAM, LM",74,74,4500000.0,6100.0,73.5,45.0,65.0,71.3,65.1,69.4,10.8
+Zsolt Kalmár ,185,81,Right,1995-06-09,28,Hungary,NG - FA,Free Agents League,"CAM, LM",74,74,4500000.0,6100.0,73.5,45.0,65.0,71.3,65.1,69.4,10.8
 Akim Zedadka ,173,72,Right,1995-05-30,28,Algeria,LOSC Lille,France Ligue 1 (1),"RB, RWB",74,74,3800000.0,25500.0,71.0,71.5,65.7,67.0,74.3,53.4,10.4
 Marvelous Nakamba ,178,71,Left,1994-01-19,29,Zimbabwe,Luton Town,England Premier League (1),"CDM, CM",74,74,3600000.0,37000.0,69.5,76.0,68.2,63.7,70.3,47.5,11.4
 Benson Manuel ,166,70,Left,1997-03-28,26,Belgium,Burnley,England Premier League (1),"RM, RW",74,75,4600000.0,39000.0,77.5,34.5,59.0,67.7,79.3,65.5,13.4
@@ -2217,7 +2217,7 @@ Stefan Schwab ,183,77,Left,1990-09-27,33,Austria,PAOK,Rest of World,"CM, CDM",74
 Luís Neto ,185,72,Right,1988-05-26,35,Portugal,Sporting CP,Portugal Primeira Liga (1),CB,74,74,1100000.0,7700.0,54.0,75.5,63.5,56.3,65.0,46.0,12.2
 Hendrik Van Crombrugge ,188,86,Left,1993-04-30,30,Belgium,Genk,Belgium Pro League (1),GK,74,74,2800000.0,11000.0,32.5,14.0,40.5,38.7,49.9,20.4,74.6
 Jens Jønsson ,182,78,Right,1993-01-10,30,Denmark,AEK,Rest of World,"CDM, CM",74,74,3500000.0,14000.0,67.5,75.5,70.2,64.7,73.6,53.9,10.2
-Jakub Brabec ,186,77,Right,1992-08-06,31,Czech Republic,Czech Republic,International,CB,74,74,3500000.0,14000.0,62.5,74.5,68.0,64.0,70.9,51.2,10.2
+Jakub Brabec ,186,77,Right,1992-08-06,31,Czech Republic,NG - FA,Free Agents League,CB,74,74,3500000.0,14000.0,62.5,74.5,68.0,64.0,70.9,51.2,10.2
 Virgil Misidjan ,173,70,Right,1993-07-24,30,Netherlands,Al Tai,Saudi Pro League (1),"LM, RM",74,74,4100000.0,20000.0,78.5,27.0,60.2,63.3,75.1,65.0,8.8
 Dimitri Foulquier ,183,72,Right,1993-03-23,30,France,Valencia CF,Spain Primera Division (1),"RB, RWB, CB",74,74,3600000.0,25000.0,67.5,72.5,69.3,67.0,72.9,56.6,9.6
 Jannik Vestergaard ,199,96,Right,1992-08-03,31,Denmark,Leicester City,England Championship (2),CB,74,74,3500000.0,33000.0,49.5,73.0,65.8,63.0,47.9,53.1,12.6
@@ -2305,7 +2305,7 @@ Lautaro Díaz ,181,73,Right,1998-05-21,25,Argentina,Independiente del Valle,CONM
 Arthur Vermeeren ,176,65,Right,2005-02-07,18,Belgium,Antwerp,Belgium Pro League (1),"CDM, CM",73,85,2800000.0,6000.0,72.5,66.5,67.5,69.7,69.0,52.0,9.0
 David Douděra ,175,66,Right,1998-05-31,25,Czech Republic,Slavia Praha,Rest of World,"RM, RB",73,76,3400000.0,13500.0,69.5,68.0,65.2,68.0,77.4,55.6,11.6
 Alexsandro Ribeiro ,189,82,Right,1999-08-09,24,Brazil,LOSC Lille,France Ligue 1 (1),CB,73,79,3100000.0,19000.0,53.5,74.5,55.8,50.3,59.9,41.8,11.2
-Yahya Attiat-Allah ,176,70,Left,1995-03-02,28,Morocco,Morocco,International,LB,73,73,3100000.0,19000.0,70.5,68.5,63.2,67.7,74.9,56.1,10.8
+Yahya Attiat-Allah ,176,70,Left,1995-03-02,28,Morocco,NG - FA,Free Agents League,LB,73,73,3100000.0,19000.0,70.5,68.5,63.2,67.7,74.9,56.1,10.8
 David Jurásek ,183,76,Left,2000-08-07,23,Czech Republic,Benfica,Portugal Primeira Liga (1),LB,73,79,3300000.0,8500.0,72.5,66.5,68.8,73.0,79.0,64.4,7.8
 Yira Sor ,174,68,Right,2000-07-24,23,Nigeria,Genk,Belgium Pro League (1),"RM, ST",73,81,3600000.0,12000.0,74.5,35.0,63.2,63.0,78.0,68.2,7.2
 Abdessamad Ezzalzouli ,177,72,Right,2001-12-17,21,Morocco,Real Betis Balompié,Spain Primera Division (1),"LM, RM",73,83,3600000.0,13500.0,80.5,30.0,53.2,67.7,67.3,57.9,7.8
@@ -2388,7 +2388,7 @@ Nicolai Vallys ,189,82,Right,1996-09-04,27,Denmark,Brøndby IF,Denmark Superliga
 Joshua Zirkzee ,193,89,Right,2001-05-22,22,Netherlands,Bologna,Italy Serie A (1),ST,73,82,3600000.0,23500.0,77.5,15.0,57.3,56.7,69.3,68.4,10.2
 Angelo Stiller ,183,79,Left,2001-04-04,22,Germany,VfB Stuttgart,Germany 1. Bundesliga (1),"CM, CDM",73,79,3600000.0,17000.0,74.0,69.5,67.8,73.0,68.0,57.8,8.8
 Pedro Ortíz ,188,87,Right,1990-02-19,33,Ecuador,Emelec,CONMEBOL Sudamericana,GK,73,73,1000000.0,10500.0,11.5,10.5,33.2,15.3,40.4,14.6,72.4
-Abdul-Aziz Yakubu ,181,77,Right,1998-11-10,25,Ghana,Ghana,International,ST,73,79,3600000.0,8100.0,68.0,13.5,55.3,49.7,77.4,63.9,11.8
+Abdul-Aziz Yakubu ,181,77,Right,1998-11-10,25,Ghana,Wuhan Three Towns,China Super League (1),ST,73,79,3600000.0,8100.0,68.0,13.5,55.3,49.7,77.4,63.9,11.8
 Andrés Llinás ,187,73,Right,1997-03-25,26,Colombia,Millonarios,CONMEBOL Sudamericana,CB,73,78,2900000.0,13000.0,55.0,72.0,52.7,56.0,67.6,35.5,8.6
 Hernán López Muñoz ,169,67,Left,2000-09-07,23,Argentina,Godoy Cruz,Argentina Primera Division (1),"CAM, RM, LM",73,82,3600000.0,8200.0,78.0,40.0,61.2,65.7,71.7,57.5,10.4
 Michał Karbownik ,175,64,Right,2001-03-13,22,Poland,Hertha BSC,Germany 2. Bundesliga (2),LB,73,81,3300000.0,9800.0,75.5,69.5,67.7,70.3,72.3,46.1,10.0
@@ -2439,10 +2439,10 @@ Josha Vagnoman ,190,90,Right,2000-12-11,23,Germany,VfB Stuttgart,Germany 1. Bund
 Pejiño ,177,67,Left,1996-07-29,27,Spain,UD Las Palmas,Spain Primera Division (1),"RM, LM",73,73,3300000.0,16000.0,75.5,35.5,59.7,66.0,74.9,65.8,7.2
 André Silva ,177,72,Left,1997-06-03,26,Brazil,Vitória de Guimarães,Portugal Primeira Liga (1),"ST, LW",73,75,3400000.0,9900.0,73.5,17.0,58.3,63.0,76.1,69.2,12.2
 Giangiacomo Magnani ,191,87,Right,1995-10-04,28,Italy,Hellas Verona,Italy Serie A (1),CB,73,76,2800000.0,19500.0,49.0,72.5,56.0,48.7,65.3,40.4,9.0
-Ivica Ivušić ,195,88,Right,1995-02-01,28,Croatia,Croatia,International,GK,73,76,2800000.0,19500.0,15.0,12.0,36.2,18.3,51.1,15.4,71.8
+Ivica Ivušić ,195,88,Right,1995-02-01,28,Croatia,NG - FA,Free Agents League,GK,73,76,2800000.0,19500.0,15.0,12.0,36.2,18.3,51.1,15.4,71.8
 Jorman Campuzano ,175,69,Right,1996-04-30,27,Colombia,Boca Juniors,Argentina Primera Division (1),"CDM, CM",73,75,2900000.0,14000.0,63.0,73.0,64.7,59.0,72.6,43.4,9.8
 Håkon Evjen ,178,68,Left,2000-02-14,23,Norway,Brøndby IF,Denmark Superliga (1),"RW, CAM",73,78,3500000.0,12500.0,74.5,59.0,63.3,67.0,77.1,57.9,11.4
-Ola Solbakken ,186,79,Left,1998-09-07,25,Norway,Norway,International,"RM, RW, LW",73,76,3500000.0,12500.0,73.0,30.0,62.2,65.7,75.4,59.2,10.4
+Ola Solbakken ,186,79,Left,1998-09-07,25,Norway,NG - FA,Free Agents League,"RM, RW, LW",73,76,3500000.0,12500.0,73.0,30.0,62.2,65.7,75.4,59.2,10.4
 Josh Sargent ,185,79,Right,2000-02-20,23,United States,Norwich City,England Championship (2),"ST, RM",73,77,3600000.0,26500.0,66.5,39.0,69.0,60.7,77.7,67.5,8.2
 Franco Moyano ,171,68,Right,1997-09-13,26,Argentina,Lecce,Italy Serie A (1),"CDM, CM",73,74,3000000.0,12000.0,74.0,73.0,69.5,71.3,69.6,52.8,12.0
 Chris Führich ,181,70,Right,1998-01-09,25,Germany,VfB Stuttgart,Germany 1. Bundesliga (1),"CAM, CF",73,77,3400000.0,18500.0,79.0,57.0,60.0,69.7,74.9,62.6,8.6
@@ -2482,7 +2482,7 @@ Ilias Chair ,164,64,Right,1997-10-30,26,Morocco,Queens Park Rangers,England Cham
 Erhan Mašović ,189,82,Right,1998-11-22,25,Serbia,VfL Bochum,Germany 1. Bundesliga (1),"CB, CDM",73,77,3100000.0,15500.0,56.0,76.0,58.0,50.0,66.9,35.8,7.2
 Gédéon Kalulu ,176,74,Right,1997-08-29,26,DR Congo,FC Lorient,France Ligue 1 (1),"RB, RWB",73,76,3100000.0,16500.0,67.5,73.0,61.8,59.7,78.9,43.8,10.8
 Enzo Copetti ,180,88,Right,1996-01-16,27,Argentina,Charlotte FC,USA Major League Soccer (1),"ST, RW",73,73,3300000.0,8000.0,67.0,48.5,69.0,62.7,83.1,64.0,11.4
-Florinel Coman ,182,72,Right,1998-04-10,25,Romania,Romania,International,"LW, ST",73,76,3400000.0,8800.0,76.0,26.0,62.5,66.3,74.6,67.2,12.0
+Florinel Coman ,182,72,Right,1998-04-10,25,Romania,FCSB,Romania Liga I (1),"LW, ST",73,76,3400000.0,8800.0,76.0,26.0,62.5,66.3,74.6,67.2,12.0
 Arnór Sigurðsson ,177,75,Right,1999-05-15,24,Iceland,Blackburn Rovers,England Championship (2),"LM, CAM, CF",73,78,3500000.0,29500.0,72.0,35.5,61.3,70.7,72.7,61.9,8.6
 Nahuel Bustos ,176,64,Right,1998-07-04,25,Argentina,Talleres de Córdoba,Argentina Primera Division (1),"ST, LM",73,78,3600000.0,12500.0,74.0,30.0,62.5,65.3,78.7,70.0,12.2
 Marcin Bułka ,199,90,Right,1999-10-04,24,Poland,OGC Nice,France Ligue 1 (1),GK,73,80,2600000.0,18500.0,13.0,12.0,31.3,22.3,40.3,16.0,72.6
@@ -2539,7 +2539,7 @@ Jakob Glesnes ,188,84,Right,1994-03-25,29,Norway,Philadelphia Union,USA Major Le
 Mikel Villanueva ,192,79,Left,1993-04-14,30,Venezuela,Vitória de Guimarães,Portugal Primeira Liga (1),CB,73,73,2500000.0,8400.0,63.5,72.5,59.8,67.3,67.9,46.8,9.8
 Milad Mohammadi ,177,70,Left,1993-09-29,30,Iran,AEK,Rest of World,LB,73,73,2700000.0,13500.0,72.0,68.0,67.3,68.3,78.6,61.8,10.8
 Cedric Itten ,190,84,Right,1996-12-27,26,Switzerland,BSC Young Boys,Switzerland Super League (1),ST,73,75,3400000.0,20000.0,67.0,35.5,63.8,62.3,73.4,67.0,8.2
-Luis Malagón ,181,75,Right,1997-03-02,26,Mexico,Mexico,International,GK,73,78,3400000.0,20000.0,12.0,12.0,29.5,17.7,33.9,15.0,71.2
+Luis Malagón ,181,75,Right,1997-03-02,26,Mexico,NG - FA,Free Agents League,GK,73,78,3400000.0,20000.0,12.0,12.0,29.5,17.7,33.9,15.0,71.2
 Diego Zabala ,172,64,Right,1991-09-19,32,Uruguay,Nacional de Montevideo,CONMEBOL Libertadores,"RW, RM, CAM",73,73,2500000.0,15500.0,74.5,37.5,54.7,74.3,69.7,67.8,11.8
 Fahd Moufi ,177,77,Right,1996-05-05,27,Morocco,Hajduk Split,Rest of World,"RB, RWB",73,74,2900000.0,13000.0,69.5,72.0,68.3,64.7,75.7,43.8,9.6
 Mark Travers ,191,82,Right,1999-05-18,24,Republic of Ireland,Stoke City,England Championship (2),GK,73,77,2600000.0,21500.0,16.0,14.5,35.0,36.7,45.1,19.2,72.4
@@ -2626,7 +2626,7 @@ Ben Sheaf ,185,64,Right,1998-02-05,25,England,Coventry City,England Championship
 Pedro Gallese ,188,79,Right,1990-02-23,33,Peru,Orlando City SC,USA Major League Soccer (1),GK,73,73,1000000.0,5400.0,20.5,19.0,42.2,32.0,45.9,21.1,70.8
 Adam Masina ,191,87,Left,1994-01-02,29,Morocco,Udinese,Italy Serie A (1),"CB, LB, LWB",73,73,2500000.0,13500.0,70.0,75.5,66.8,70.7,63.7,47.4,10.8
 Andrés Ibargüen ,168,63,Right,1992-05-07,31,Colombia,Independiente Medellín,CONMEBOL Libertadores,LM,73,73,2500000.0,14000.0,74.5,22.5,59.0,68.0,72.3,61.9,10.8
-Jack Hendry ,194,88,Right,1995-05-07,28,Scotland,Scotland,International,CB,73,75,2600000.0,22500.0,61.5,69.0,64.7,59.0,71.7,49.2,11.6
+Jack Hendry ,194,88,Right,1995-05-07,28,Scotland,Al Ettifaq,Saudi Pro League (1),CB,73,75,2600000.0,22500.0,61.5,69.0,64.7,59.0,71.7,49.2,11.6
 Jean-Luc Dompé ,170,65,Right,1995-08-12,28,France,Hamburger SV,Germany 2. Bundesliga (2),LW,73,73,3200000.0,25500.0,76.0,43.0,60.5,69.0,72.0,68.1,10.0
 Javairô Dilrosun ,175,73,Left,1998-06-22,25,Netherlands,Feyenoord,Holland Eredivisie (1),"RW, LW, CAM",73,76,3400000.0,14000.0,78.0,35.5,56.7,66.7,73.7,55.9,10.4
 Ola Aina ,184,82,Right,1996-10-08,27,Nigeria,Nottingham Forest,England Premier League (1),"LB, LM, RM",73,75,3000000.0,41000.0,73.5,69.5,65.8,69.3,78.1,57.5,10.0
@@ -2877,7 +2877,7 @@ Arne Engels ,185,78,Right,2003-09-08,20,Belgium,FC Augsburg,Germany 1. Bundeslig
 Eliesse Ben Seghir ,178,72,Right,2005-02-16,18,France,AS Monaco,France Ligue 1 (1),"CF, ST",72,85,2500000.0,13500.0,75.0,29.5,59.0,61.7,70.1,66.5,7.8
 Samuel Iling-Junior ,182,75,Left,2003-10-04,20,England,Juventus,Italy Serie A (1),"LM, LW",72,85,2600000.0,32000.0,76.5,40.0,54.0,71.3,69.4,61.9,9.0
 Stefan Bajcetic ,185,70,Right,2004-10-22,19,Spain,Liverpool,England Premier League (1),"CDM, CM",72,86,2100000.0,15000.0,74.0,72.0,67.3,66.7,65.6,52.4,10.0
-Nediljko Labrović ,196,91,Right,1999-10-10,24,Croatia,Croatia,International,GK,72,79,2100000.0,15000.0,18.0,18.5,34.0,30.7,49.9,15.8,70.4
+Nediljko Labrović ,196,91,Right,1999-10-10,24,Croatia,NG - FA,Free Agents League,GK,72,79,2100000.0,15000.0,18.0,18.5,34.0,30.7,49.9,15.8,70.4
 Dion Drena Beljo ,195,84,Left,2002-03-01,21,Croatia,FC Augsburg,Germany 1. Bundesliga (1),ST,72,81,2800000.0,15500.0,72.0,27.0,57.0,46.3,62.7,66.4,10.2
 Álvaro Djaló ,175,65,Right,1999-08-16,24,Spain,Braga,Portugal Primeira Liga (1),"LM, RM, CAM",72,78,2700000.0,9100.0,75.0,46.5,56.2,64.0,72.6,62.0,9.0
 Quilindschy Hartman ,183,72,Left,2001-11-14,22,Netherlands,Feyenoord,Holland Eredivisie (1),LB,72,82,2500000.0,7700.0,68.5,69.0,69.2,73.3,72.9,49.2,12.4
@@ -2888,14 +2888,14 @@ Luca Langoni ,173,66,Right,2002-02-09,21,Argentina,Boca Juniors,Argentina Primer
 Morlaye Sylla ,170,67,Right,1998-07-27,25,Guinea,Arouca,Portugal Primeira Liga (1),"LM, RM",72,75,2700000.0,5400.0,74.0,62.5,65.7,67.3,71.4,64.5,10.8
 Cadu ,171,70,Right,1997-08-08,26,Brazil,Viktoria Plzeň,Rest of World,"RB, RM",72,75,2400000.0,11000.0,73.5,66.5,70.0,71.7,72.7,64.0,9.2
 Leonardo Lelo ,175,70,Left,2000-03-30,23,Portugal,Casa Pia,Portugal Primeira Liga (1),"LWB, LB",72,78,2500000.0,4900.0,70.5,64.5,69.8,60.3,76.1,50.1,9.0
-Yahya Jabrane ,183,80,Right,1991-06-18,32,Morocco,Morocco,International,CDM,72,72,2500000.0,4900.0,69.0,68.5,67.7,66.3,68.4,55.4,11.6
+Yahya Jabrane ,183,80,Right,1991-06-18,32,Morocco,NG - FA,Free Agents League,CDM,72,72,2500000.0,4900.0,69.0,68.5,67.7,66.3,68.4,55.4,11.6
 Mile Škorić ,189,80,Right,1991-06-19,32,Croatia,Cangzhou Mighty Lions,China Super League (1),CB,72,72,1500000.0,9100.0,48.5,69.5,56.8,52.7,60.4,41.4,10.6
 Ernest Nuamah ,178,71,Left,2003-11-01,20,Ghana,Olympique Lyonnais,France Ligue 1 (1),"RW, ST, LW",72,86,2600000.0,9300.0,75.5,22.0,55.2,55.0,78.7,56.1,10.4
 Giovanni Zaro ,193,80,Right,1994-05-12,29,Italy,Modena,Italy Serie B (2),CB,72,72,2000000.0,3600.0,47.5,71.5,51.7,43.0,60.9,44.0,11.4
 Walid Cheddira ,187,80,Right,1998-01-22,25,Morocco,Frosinone,Italy Serie A (1),"ST, CF",72,77,2600000.0,33000.0,68.5,37.5,61.3,64.7,76.9,61.8,9.8
 Lorenzo Lucca ,201,78,Right,2000-09-10,23,Italy,Udinese,Italy Serie A (1),ST,72,80,2800000.0,4400.0,69.5,24.5,60.0,58.7,61.1,68.1,10.0
 Daniel Boloca ,188,76,Right,1998-12-22,24,Romania,Sassuolo,Italy Serie A (1),"CM, CDM",72,76,2700000.0,11000.0,72.5,53.5,66.7,69.3,68.4,56.0,9.4
-Martin Ádám ,191,87,Left,1994-11-06,29,Hungary,Hungary,International,ST,72,72,2400000.0,10000.0,64.0,21.5,55.8,47.7,65.6,69.2,10.0
+Martin Ádám ,191,87,Left,1994-11-06,29,Hungary,Ulsan Hyundai,Korea K League 1 (1),ST,72,72,2400000.0,10000.0,64.0,21.5,55.8,47.7,65.6,69.2,10.0
 Tiago Orobó ,190,75,Right,1993-10-28,30,Brazil,Daejeon Hana Citizen,Korea K League 1 (1),ST,72,72,2300000.0,8000.0,68.5,18.0,56.3,44.0,74.1,66.0,8.8
 Kamory Doumbia ,170,53,Right,2003-02-18,20,Mali,Stade Brestois 29,France Ligue 1 (1),CAM,72,80,2600000.0,12000.0,74.0,59.5,67.7,69.0,68.0,59.5,10.4
 Nicolás Valentini ,187,74,Left,2001-04-06,22,Argentina,Boca Juniors,Argentina Primera Division (1),CB,72,80,2400000.0,10500.0,62.0,73.5,60.3,52.7,73.0,37.9,10.8
@@ -2948,7 +2948,7 @@ Yan Couto ,168,60,Right,2002-06-03,21,Brazil,Girona FC,Spain Primera Division (1
 Obinna Nwobodo ,179,72,Right,1996-11-29,27,Nigeria,FC Cincinnati,USA Major League Soccer (1),"CDM, CM",72,75,2300000.0,5900.0,68.5,75.0,67.0,62.7,78.3,60.0,10.0
 Agustín Álvarez Martínez ,177,75,Right,2001-05-19,22,Uruguay,Sassuolo,Italy Serie A (1),ST,72,80,2800000.0,12000.0,68.5,31.5,58.8,58.7,72.6,70.2,11.2
 Ardian Ismajli ,185,76,Right,1996-09-30,27,Albania,Empoli,Italy Serie A (1),CB,72,75,2200000.0,7900.0,58.5,74.0,57.8,53.3,69.1,37.4,11.6
-Osman Bukari ,170,68,Right,1998-12-13,24,Ghana,Ghana,International,"RW, ST",72,74,2200000.0,7900.0,74.0,47.0,60.2,57.0,77.6,59.9,9.4
+Osman Bukari ,170,68,Right,1998-12-13,24,Ghana,NG - FA,Free Agents League,"RW, ST",72,74,2200000.0,7900.0,74.0,47.0,60.2,57.0,77.6,59.9,9.4
 Ivor Pandur ,187,81,Right,2000-03-25,23,Croatia,Fortuna Sittard,Holland Eredivisie (1),GK,72,78,2000000.0,6900.0,13.5,12.0,31.8,23.7,38.4,14.6,69.8
 Filip Jörgensen ,189,77,Right,2002-04-16,21,Denmark,Villarreal CF,Spain Primera Division (1),GK,72,79,2100000.0,9900.0,12.0,8.5,26.5,23.3,42.9,16.9,73.0
 Cenk Özkacar ,187,85,Left,2000-10-06,23,Turkey,Valencia CF,Spain Primera Division (1),CB,72,80,2400000.0,17500.0,63.0,71.0,62.7,58.7,67.4,41.4,8.6
@@ -3015,7 +3015,7 @@ Luca Kilian ,192,91,Right,1999-09-01,24,Germany,1. FC Köln,Germany 1. Bundeslig
 Valeriy Bondar ,185,76,Right,1999-02-27,24,Ukraine,Shakhtar Donetsk,Rest of World,CB,72,78,2400000.0,9700.0,51.0,72.5,55.2,55.0,72.7,37.5,10.0
 Cheikh Niasse ,188,73,Right,2000-01-19,23,Senegal,BSC Young Boys,Switzerland Super League (1),CDM,72,77,2400000.0,12500.0,68.5,73.5,64.0,61.3,65.4,48.6,10.0
 Ilia Gruev ,185,77,Left,2000-05-06,23,Bulgaria,Leeds United,England Championship (2),"CDM, CM",72,78,2400000.0,23000.0,70.0,72.5,66.8,69.3,65.1,46.6,9.4
-Darius Olaru ,177,71,Right,1998-03-03,25,Romania,Romania,International,"CM, CAM",72,77,2600000.0,7100.0,71.5,64.0,70.8,71.3,82.9,69.6,11.2
+Darius Olaru ,177,71,Right,1998-03-03,25,Romania,FCSB,Romania Liga I (1),"CM, CAM",72,77,2600000.0,7100.0,71.5,64.0,70.8,71.3,82.9,69.6,11.2
 Jaime Seoane ,175,73,Right,1997-01-22,26,Spain,Real Oviedo,Spain Segunda Division (2),"CM, CAM, CDM",72,75,2500000.0,8100.0,74.5,65.0,72.3,70.0,74.6,69.9,10.4
 Cho Gue Sung ,188,82,Right,1998-01-25,25,Korea Republic,FC Midtjylland,Denmark Superliga (1),ST,72,77,2600000.0,20000.0,67.5,21.5,57.7,48.0,78.9,65.1,9.6
 Bandar Al Ahbabi ,170,60,Right,1990-07-09,33,United Arab Emirates,Al Ain FC (UAE),Rest of World,"RB, RM",72,72,1600000.0,11500.0,70.5,65.5,64.3,71.0,72.7,57.6,13.0
@@ -3034,7 +3034,7 @@ Mohamed Daramy ,180,71,Right,2002-01-07,21,Denmark,Stade de Reims,France Ligue 1
 Tomoki Iwata ,178,77,Right,1997-04-07,26,Japan,Celtic,Scotland Premiership (1),"CDM, CB",72,76,2300000.0,31000.0,68.0,70.5,65.2,65.3,74.7,50.5,9.8
 Yuki Soma ,166,68,Right,1997-02-25,26,Japan,Casa Pia,Portugal Primeira Liga (1),"RW, LW, LM",72,73,2600000.0,6700.0,72.5,61.5,62.7,64.7,77.9,61.0,7.4
 Himad Abdelli ,185,81,Right,1999-11-17,24,Algeria,Angers SCO,France Ligue 2 (2),"CM, CF, ST",72,77,2700000.0,5800.0,76.0,56.5,70.2,68.0,64.4,58.8,11.2
-Ozziel Herrera ,179,63,Right,2001-05-23,22,Mexico,Mexico,International,"LM, LW",72,80,2700000.0,5800.0,71.5,28.0,54.0,65.3,77.1,58.8,8.6
+Ozziel Herrera ,179,63,Right,2001-05-23,22,Mexico,NG - FA,Free Agents League,"LM, LW",72,80,2700000.0,5800.0,71.5,28.0,54.0,65.3,77.1,58.8,8.6
 Marcelo Weigandt ,175,72,Right,2000-01-11,23,Argentina,Boca Juniors,Argentina Primera Division (1),RB,72,78,2500000.0,10500.0,68.5,71.0,67.2,60.3,76.4,50.2,11.2
 Roberto López ,180,70,Left,2000-04-24,23,Spain,CD Tenerife,Spain Segunda Division (2),"RM, CM, CAM",72,81,2700000.0,18000.0,76.5,51.5,62.0,74.0,61.1,64.5,10.8
 Mads Hermansen ,185,81,Right,2000-07-11,23,Denmark,Leicester City,England Championship (2),GK,72,81,2100000.0,18000.0,32.5,11.5,32.8,38.7,49.3,17.0,71.8
@@ -3307,7 +3307,7 @@ San Emeterio ,176,77,Right,1997-03-16,26,Spain,Cádiz CF,Spain Primera Division 
 Nicolás Ratti ,179,72,Right,1993-09-18,30,Argentina,FC Andorra,Spain Segunda Division (2),GK,72,73,1600000.0,5000.0,17.5,15.0,28.5,23.0,52.6,20.1,70.6
 Alexandre Mendy ,185,84,Right,1994-03-20,29,Guinea Bissau,SM Caen,France Ligue 2 (2),ST,72,72,2300000.0,7100.0,65.5,17.0,58.2,47.7,75.3,66.1,13.4
 Marcelo Benítez ,178,73,Left,1991-01-13,32,Argentina,Central Córdoba,Argentina Primera Division (1),"LB, LWB, CDM",72,72,1600000.0,9400.0,71.0,69.0,71.3,71.3,71.9,66.5,9.4
-Ádám Lang ,186,83,Right,1993-01-17,30,Hungary,Hungary,International,CB,72,72,1900000.0,19000.0,46.5,70.5,57.0,51.7,68.6,46.0,10.6
+Ádám Lang ,186,83,Right,1993-01-17,30,Hungary,1. FC Heidenheim,Germany 1. Bundesliga (1),CB,72,72,1900000.0,19000.0,46.5,70.5,57.0,51.7,68.6,46.0,10.6
 Rob Dickie ,195,74,Right,1996-03-03,27,England,Bristol City,England Championship (2),CB,72,75,2200000.0,22000.0,59.5,73.0,55.0,59.3,63.9,45.0,8.8
 Ozan Tufan ,184,88,Right,1995-03-23,28,Turkey,Hull City,England Championship (2),"CM, CAM, CDM",72,72,2300000.0,14000.0,74.5,70.5,72.7,70.7,75.3,71.4,10.0
 Ulisses Garcia ,183,80,Left,1996-01-11,27,Switzerland,BSC Young Boys,Switzerland Super League (1),LB,72,73,2300000.0,14500.0,70.0,69.0,58.0,68.0,78.7,43.4,11.6
@@ -3514,7 +3514,7 @@ Gaëtan Charbonnier ,188,80,Right,1988-12-27,34,France,AS Saint-Étienne,France 
 Artur Ioniță ,184,73,Right,1990-08-17,33,Moldova,Lecco,Italy Serie B (2),CM,72,72,1800000.0,4600.0,70.5,71.0,71.8,70.3,69.3,68.1,10.6
 Matthias Zimmermann ,177,76,Right,1992-06-16,31,Germany,Fortuna Düsseldorf,Germany 2. Bundesliga (2),RB,72,72,1700000.0,17000.0,65.5,69.0,65.5,68.3,74.0,52.1,11.4
 Steven Vitória ,195,88,Right,1987-01-11,36,Canada,Chaves,Portugal Primeira Liga (1),CB,72,72,425000.0,4500.0,51.0,71.5,59.0,55.3,48.9,63.9,8.2
-José Antonio Rodríguez ,186,85,Right,1992-07-04,31,Mexico,Mexico,International,GK,72,72,425000.0,4500.0,16.5,11.5,36.7,33.0,59.0,16.8,70.0
+José Antonio Rodríguez ,186,85,Right,1992-07-04,31,Mexico,NG - FA,Free Agents League,GK,72,72,425000.0,4500.0,16.5,11.5,36.7,33.0,59.0,16.8,70.0
 Hernán Barcos ,187,91,Right,1984-04-11,39,Argentina,Alianza Lima,CONMEBOL Libertadores,ST,72,72,800000.0,9700.0,70.0,39.0,68.2,63.7,59.4,71.6,10.8
 Kim Seung Gyu ,187,78,Right,1990-09-30,33,Korea Republic,Al Shabab,Saudi Pro League (1),GK,72,72,1200000.0,17000.0,19.0,15.0,43.7,28.0,44.0,18.8,71.2
 Salman Al Faraj ,181,64,Left,1989-08-01,34,Saudi Arabia,Al Hilal,Saudi Pro League (1),"CM, CDM, CAM",72,72,1400000.0,26000.0,72.0,64.0,72.0,78.7,59.3,68.0,13.2
@@ -3561,7 +3561,7 @@ Tom Heaton ,188,85,Right,1986-04-15,37,England,Manchester United,England Premier
 Sinan Bolat ,186,83,Right,1988-09-03,35,Turkey,Westerlo,Belgium Pro League (1),GK,72,72,400000.0,7100.0,19.0,13.5,41.7,37.0,50.3,22.4,71.8
 Jean-Louis Leca ,180,75,Right,1985-09-21,38,France,RC Lens,France Ligue 1 (1),GK,72,72,60000.0,11000.0,19.0,14.5,39.7,27.3,46.0,17.9,71.4
 Juan Manuel Insaurralde ,188,87,Left,1984-10-03,39,Argentina,Sarmiento,Argentina Primera Division (1),CB,72,72,425000.0,6100.0,57.5,70.5,66.5,60.0,64.7,53.4,10.6
-Steven Davis ,173,70,Right,1985-01-01,38,Northern Ireland,Northern Ireland,International,CM,72,72,425000.0,6100.0,74.0,69.5,72.5,73.3,55.7,65.9,9.8
+Steven Davis ,173,70,Right,1985-01-01,38,Northern Ireland,NG - FA,Free Agents League,CM,72,72,425000.0,6100.0,74.0,69.5,72.5,73.3,55.7,65.9,9.8
 Lukas Podolski ,183,88,Left,1985-06-04,38,Germany,Górnik Zabrze,Poland Ekstraklasa (1),"CF, ST, CAM",72,72,800000.0,5300.0,73.0,32.5,68.5,72.3,59.0,76.2,10.6
 José Sosa ,182,78,Right,1985-06-19,38,Argentina,Estudiantes de La Plata,Argentina Primera Division (1),CM,72,72,750000.0,8300.0,75.0,67.0,71.5,75.3,61.3,69.6,10.8
 Lucas Pires ,182,77,Left,2001-03-24,22,Brazil,Cádiz CF,Spain Primera Division (1),"LB, LM, LW",71,79,2000000.0,14000.0,61.0,69.5,58.2,65.7,67.4,46.1,10.6
@@ -3590,8 +3590,8 @@ Diego Coppola ,192,78,Right,2003-12-28,19,Italy,Hellas Verona,Italy Serie A (1),
 Leny Yoro ,190,73,Right,2005-11-13,18,France,LOSC Lille,France Ligue 1 (1),"CB, CDM",71,82,1600000.0,1500.0,59.0,74.0,59.2,57.3,60.4,42.6,10.6
 Álvaro Fernández ,186,65,Left,2003-03-23,20,Spain,Granada CF,Spain Primera Division (1),"LWB, LB",71,82,1900000.0,36000.0,75.0,61.0,67.8,74.0,71.1,52.6,9.2
 Mohamed Ali Ben Romdhane ,186,78,Right,1999-09-06,24,Tunisia,Ferencvárosi TC,Rest of World,"CAM, CDM",71,77,2200000.0,9500.0,71.0,60.5,67.3,67.7,68.3,69.4,11.0
-Karim Boudiaf ,190,85,Right,1990-09-16,33,Qatar,Qatar,International,"CM, CDM",71,71,1500000.0,14500.0,71.5,65.5,66.8,71.3,63.7,60.1,10.6
-Almoez Ali ,180,69,Right,1996-08-19,27,Qatar,Qatar,International,"ST, RM",71,72,1500000.0,14500.0,66.0,15.0,55.0,50.7,68.6,68.0,11.8
+Karim Boudiaf ,190,85,Right,1990-09-16,33,Qatar,RC Strasbourg,France Ligue 1 (1),"CM, CDM",71,71,1500000.0,14500.0,71.5,65.5,66.8,71.3,63.7,60.1,10.6
+Almoez Ali ,180,69,Right,1996-08-19,27,Qatar,NG - FA,Free Agents League,"ST, RM",71,72,1500000.0,14500.0,66.0,15.0,55.0,50.7,68.6,68.0,11.8
 Michael Folorunsho ,185,78,Right,1998-02-07,25,Italy,Hellas Verona,Italy Serie A (1),"CM, CAM, ST",71,76,2100000.0,27000.0,72.5,50.5,70.2,67.0,72.4,67.6,11.2
 Agustín Giay ,180,73,Right,2004-01-16,19,Argentina,San Lorenzo de Almagro,Argentina Primera Division (1),"RWB, RM, CM",71,83,1900000.0,4500.0,69.5,67.5,65.7,65.7,70.1,53.2,9.6
 Alessandro Zanoli ,188,76,Right,2000-10-03,23,Italy,Napoli,Italy Serie A (1),"RB, RM",71,82,2000000.0,22000.0,70.5,68.5,63.7,64.0,69.4,44.8,11.0
@@ -3663,7 +3663,7 @@ Million Manhoef ,179,68,Left,2002-01-03,21,Netherlands,Vitesse,Holland Eredivisi
 Fotis Ioannidis ,186,80,Right,2000-01-10,23,Greece,Moreirense,Portugal Primeira Liga (1),ST,71,77,2200000.0,8700.0,71.0,23.5,54.5,51.7,72.6,66.8,7.8
 Dan Ndoye ,184,79,Right,2000-10-25,23,Switzerland,Bologna,Italy Serie A (1),"RM, LM",71,81,2200000.0,16500.0,73.5,47.5,58.0,62.0,73.9,61.2,12.2
 Bilal El Khannouss ,180,70,Right,2004-05-10,19,Morocco,Genk,Belgium Pro League (1),"CAM, CM",71,86,2000000.0,6000.0,77.5,34.0,56.8,71.0,67.6,52.8,10.6
-Richard Ofori ,190,79,Right,1993-11-01,30,Ghana,Ghana,International,GK,71,73,2000000.0,6000.0,33.0,21.5,39.3,34.7,53.0,30.4,71.6
+Richard Ofori ,190,79,Right,1993-11-01,30,Ghana,NG - FA,Free Agents League,GK,71,73,2000000.0,6000.0,33.0,21.5,39.3,34.7,53.0,30.4,71.6
 Lorenzo Pirola ,185,79,Left,2002-02-20,21,Italy,Salernitana,Italy Serie A (1),CB,71,83,1900000.0,12500.0,57.0,75.5,55.8,55.0,67.3,45.0,11.0
 Renzo Tesuri ,166,60,Right,1996-06-07,27,Argentina,Atlético Tucumán,Argentina Primera Division (1),"RM, RWB",71,71,2000000.0,8200.0,71.0,40.5,58.5,67.0,73.7,60.2,9.4
 Erik ,173,72,Left,2001-02-18,22,Brazil,Al Ain FC (UAE),Rest of World,LB,71,77,2000000.0,8600.0,69.5,65.5,68.0,64.3,79.9,51.5,8.2
@@ -3704,7 +3704,7 @@ Borja Sainz ,178,75,Right,2001-02-01,22,Spain,Norwich City,England Championship 
 João Correia ,175,62,Right,1996-09-05,27,Cape Verde,Chaves,Portugal Primeira Liga (1),RB,71,72,1900000.0,5500.0,68.0,68.5,61.8,63.0,71.0,49.5,9.6
 Ali Abdi ,177,73,Left,1993-12-20,29,Tunisia,SM Caen,France Ligue 2 (2),"LB, LWB, RM",71,71,1600000.0,5300.0,70.5,61.0,66.2,67.0,80.3,56.8,11.6
 Fer Niño ,190,78,Right,2000-10-24,23,Spain,Burgos CF,Spain Segunda Division (2),ST,71,78,2200000.0,5400.0,68.5,29.5,56.7,58.7,68.7,65.8,10.2
-Alan Soñora ,171,65,Left,1998-08-03,25,United States,United States,International,"CM, CAM, CDM",71,73,2100000.0,7900.0,74.0,60.0,70.7,72.7,72.7,66.4,9.8
+Alan Soñora ,171,65,Left,1998-08-03,25,United States,Huracán,Argentina Primera Division (1),"CM, CAM, CDM",71,73,2100000.0,7900.0,74.0,60.0,70.7,72.7,72.7,66.4,9.8
 Marcos André ,184,78,Right,1996-10-20,27,Brazil,Real Valladolid,Spain Segunda Division (2),ST,71,73,2100000.0,8300.0,70.0,33.5,59.0,58.3,72.3,66.5,10.2
 Agustín Rogel ,191,84,Right,1997-10-17,26,Uruguay,Hertha BSC,Germany 2. Bundesliga (2),CB,71,74,1800000.0,8500.0,58.5,70.0,57.5,49.0,59.4,39.4,8.8
 Tiago Esgaio ,175,72,Right,1995-08-01,28,Portugal,Arouca,Portugal Primeira Liga (1),RB,71,71,1800000.0,8500.0,66.0,71.5,67.7,63.0,67.9,58.1,9.4
@@ -3718,7 +3718,7 @@ Alex Suárez ,180,72,Right,1993-03-10,30,Spain,UD Las Palmas,Spain Primera Divis
 Ricardo Pepi ,185,74,Right,2003-01-09,20,United States,PSV,Holland Eredivisie (1),ST,71,83,2100000.0,9100.0,70.0,37.0,60.5,54.0,69.3,65.4,10.8
 Thibo Somers ,173,79,Right,1999-03-16,24,Belgium,Cercle Brugge,Belgium Pro League (1),"CF, RM, ST",71,75,2200000.0,9400.0,70.0,57.0,66.2,66.7,79.3,64.8,9.4
 Fabio Pereyra ,185,76,Right,1990-01-31,33,Argentina,Huracán,Argentina Primera Division (1),CB,71,71,900000.0,8300.0,51.5,71.0,57.7,52.3,68.0,40.1,10.6
-Horațiu Moldovan ,189,82,Right,1998-01-20,25,Romania,Romania,International,GK,71,77,1500000.0,4600.0,16.0,11.5,38.2,21.3,48.6,18.9,68.8
+Horațiu Moldovan ,189,82,Right,1998-01-20,25,Romania,Rapid București,Romania Liga I (1),GK,71,77,1500000.0,4600.0,16.0,11.5,38.2,21.3,48.6,18.9,68.8
 Ezequiel Piovi ,168,68,Right,1992-08-20,31,Argentina,LDU Quito,CONMEBOL Sudamericana,"CDM, CM",71,71,1600000.0,10000.0,68.5,68.5,68.7,64.7,77.6,63.9,12.4
 Dejan Joveljić ,181,75,Right,1999-08-07,24,Serbia,Los Angeles Galaxy,USA Major League Soccer (1),ST,71,76,2200000.0,5500.0,70.0,30.0,60.5,62.7,75.9,64.8,8.0
 Kirian ,180,73,Right,1996-03-05,27,Spain,UD Las Palmas,Spain Primera Division (1),"CM, CDM, CAM",71,72,2000000.0,12500.0,73.5,58.5,66.5,66.7,70.1,58.9,10.0
@@ -3809,7 +3809,7 @@ Harrison Delbridge ,190,89,Left,1992-03-15,31,Australia,Incheon United,Korea K L
 Francis Amuzu ,170,65,Right,1999-08-23,24,Belgium,Anderlecht,Belgium Pro League (1),"LW, RW, LM",71,75,2200000.0,14500.0,72.0,44.0,56.5,65.7,78.0,58.5,11.4
 Rob Atkinson ,193,85,Left,1998-07-13,25,England,Bristol City,England Championship (2),CB,71,76,1900000.0,16500.0,58.5,71.0,58.3,49.7,61.4,32.8,10.2
 Chumi ,185,75,Right,1999-03-02,24,Spain,UD Almería,Spain Primera Division (1),"CB, RB",71,79,1900000.0,12500.0,60.0,73.0,57.7,52.7,55.1,41.9,11.0
-Ahmed Reda Tagnaouti ,186,85,Right,1996-04-05,27,Morocco,Morocco,International,GK,71,75,1900000.0,12500.0,19.5,11.0,35.7,20.3,47.9,18.4,69.2
+Ahmed Reda Tagnaouti ,186,85,Right,1996-04-05,27,Morocco,NG - FA,Free Agents League,GK,71,75,1900000.0,12500.0,19.5,11.0,35.7,20.3,47.9,18.4,69.2
 Jerome Opoku ,197,79,Left,1998-10-14,25,England,Istanbul Başakşehir FK,Turkey Super Lig (1),CB,71,77,1900000.0,4300.0,58.0,71.0,58.5,55.3,67.0,46.1,12.2
 Viktor Johansson ,186,74,Right,1998-09-14,25,Sweden,Rotherham United,England Championship (2),GK,71,74,1600000.0,7100.0,12.0,11.0,27.7,28.3,34.1,15.1,70.6
 Brugui ,174,68,Left,1996-11-04,27,Spain,Levante UD,Spain Segunda Division (2),"RM, LM, ST",71,72,2000000.0,8200.0,73.5,45.0,58.2,61.3,79.9,62.4,8.8
@@ -4009,7 +4009,7 @@ Tobias Salquist ,190,85,Right,1995-05-18,28,Denmark,Silkeborg IF,Denmark Superli
 Martin Fraisl ,187,79,Right,1993-05-10,30,Austria,FC Midtjylland,Denmark Superliga (1),GK,71,72,1200000.0,12500.0,22.5,16.5,30.5,26.7,47.7,22.1,70.4
 Cristian Borja ,180,73,Left,1993-02-18,30,Colombia,Braga,Portugal Primeira Liga (1),"LB, CB, LM",71,71,1600000.0,8500.0,69.5,67.5,62.8,67.7,76.9,47.1,11.4
 Mauricio Martínez ,183,80,Right,1993-02-20,30,Argentina,LDU Quito,CONMEBOL Sudamericana,"CDM, CM, CB",71,71,1600000.0,10000.0,72.0,63.0,69.7,65.7,64.3,58.0,11.6
-Alejandro Zendejas ,165,64,Left,1998-02-07,25,United States,United States,International,"RM, CM, LM",71,73,1600000.0,10000.0,74.0,53.0,60.2,66.0,74.0,58.2,9.6
+Alejandro Zendejas ,165,64,Left,1998-02-07,25,United States,NG - FA,Free Agents League,"RM, CM, LM",71,73,1600000.0,10000.0,74.0,53.0,60.2,66.0,74.0,58.2,9.6
 Antonio Milić ,190,81,Left,1994-03-10,29,Croatia,Lech Poznań,Poland Ekstraklasa (1),CB,71,72,1600000.0,6800.0,52.5,70.0,62.5,61.7,55.0,52.5,9.6
 Jerry Yates ,175,80,Right,1996-11-10,27,England,Swansea City,England Championship (2),ST,71,73,2100000.0,19500.0,72.0,24.5,59.0,51.7,76.3,64.9,9.0
 Marcus Coco ,184,78,Right,1996-06-24,27,France,FC Nantes,France Ligue 1 (1),"RM, RWB, RW",71,71,2000000.0,14500.0,71.5,59.0,63.7,69.0,70.1,61.6,9.4
@@ -4368,7 +4368,7 @@ Jota Silva ,179,73,Right,1999-08-01,24,Portugal,Vitória de Guimarães,Portugal 
 Gianluca Prestianni ,165,63,Right,2006-01-31,17,Argentina,Vélez Sarsfield,Argentina Primera Division (1),"RM, CAM, RW",70,86,1600000.0,1500.0,75.5,35.5,60.0,62.0,72.0,53.0,10.4
 Junior Mwanga ,184,80,Right,2003-05-11,20,France,RC Strasbourg,France Ligue 1 (1),"CB, CDM, CM",70,80,1600000.0,8300.0,63.5,70.0,64.8,58.3,68.3,45.9,9.4
 Abakar Sylla ,188,80,Left,2002-12-25,20,Ivory Coast,RC Strasbourg,France Ligue 1 (1),CB,70,84,1600000.0,8300.0,68.0,66.5,61.3,57.0,73.3,36.8,11.0
-Boualem Khoukhi ,185,76,Right,1990-09-07,33,Qatar,Qatar,International,"CB, CDM",70,70,1600000.0,8300.0,54.5,68.5,60.8,56.3,65.4,64.4,10.0
+Boualem Khoukhi ,185,76,Right,1990-09-07,33,Qatar,NG - FA,Free Agents League,"CB, CDM",70,70,1600000.0,8300.0,54.5,68.5,60.8,56.3,65.4,64.4,10.0
 Marco Curto ,191,80,Right,1999-01-05,24,Italy,Como,Italy Serie B (2),"CB, RB",70,77,1600000.0,2000.0,52.0,69.0,58.5,53.3,64.3,38.6,12.6
 Bruno Amione ,187,78,Left,2002-01-03,21,Argentina,Hellas Verona,Italy Serie A (1),CB,70,79,1600000.0,9300.0,51.5,71.5,54.0,56.0,64.4,43.9,9.0
 Óscar Zambrano ,175,68,Right,2004-04-20,19,Ecuador,LDU Quito,CONMEBOL Sudamericana,"CDM, CM",70,82,1500000.0,4600.0,69.5,66.0,66.5,63.3,68.7,50.2,10.4
@@ -4569,8 +4569,8 @@ Song Min Kyu ,179,72,Right,1999-09-12,24,Korea Republic,Jeonbuk Hyundai Motors,K
 Tomáš Vlček ,182,73,Right,2001-02-28,22,Czech Republic,Slavia Praha,Rest of World,CB,70,76,1600000.0,7500.0,65.5,70.5,61.8,56.0,70.1,42.4,7.8
 Andrei Artean ,186,81,Right,1993-08-14,30,Romania,Farul Constanța,Romania Liga I (1),"CDM, CM, CB",70,70,1400000.0,5500.0,61.5,65.0,68.3,62.0,73.9,63.0,10.0
 Risto Radunović ,183,77,Left,1992-05-04,31,Montenegro,FCSB,Romania Liga I (1),LB,70,70,1200000.0,5200.0,61.0,66.5,65.7,65.3,78.0,60.0,6.8
-Ștefan Târnovanu ,197,87,Right,2000-05-09,23,Romania,Romania,International,GK,70,80,1400000.0,3500.0,17.5,10.5,34.8,19.3,51.4,18.4,69.0
-Andrei Burcă ,188,80,Right,1993-04-15,30,Romania,Romania,International,CB,70,70,1300000.0,11000.0,51.0,70.0,56.5,49.0,69.4,30.5,9.0
+Ștefan Târnovanu ,197,87,Right,2000-05-09,23,Romania,FCSB,Romania Liga I (1),GK,70,80,1400000.0,3500.0,17.5,10.5,34.8,19.3,51.4,18.4,69.0
+Andrei Burcă ,188,80,Right,1993-04-15,30,Romania,Al Okhdood,Saudi Pro League (1),CB,70,70,1300000.0,11000.0,51.0,70.0,56.5,49.0,69.4,30.5,9.0
 Adam Gnezda Čerin ,180,77,Right,1999-07-16,24,Slovenia,Panathinaikos,Rest of World,CM,70,75,1800000.0,8300.0,73.5,51.5,67.5,70.3,69.0,57.4,12.0
 Olivier Deman ,181,70,Left,2000-04-06,23,Belgium,Werder Bremen,Germany 1. Bundesliga (1),"LM, RM",70,76,1800000.0,11500.0,69.0,64.0,66.3,67.3,73.4,60.9,10.6
 Julian Araujo ,175,70,Right,2001-08-13,22,Mexico,UD Las Palmas,Spain Primera Division (1),RB,70,80,1700000.0,36000.0,66.5,69.5,64.7,64.7,74.4,37.2,11.2
@@ -4706,7 +4706,7 @@ Mickaël Nadé ,188,80,Right,1999-03-04,24,France,AS Saint-Étienne,France Ligue
 Sebastian Vasiliadis ,175,75,Right,1997-10-04,26,Greece,Hansa Rostock,Germany 2. Bundesliga (2),"CDM, CM",70,74,1600000.0,7100.0,71.0,65.5,70.5,67.0,74.7,53.4,11.8
 Moritz Heyer ,185,78,Right,1995-04-04,28,Germany,Hamburger SV,Germany 2. Bundesliga (2),"RB, CDM, CB",70,70,1400000.0,15000.0,66.0,70.0,63.5,66.0,67.4,48.4,10.8
 Lee Jin Hyun ,173,70,Left,1997-08-26,26,Korea Republic,Daejeon Hana Citizen,Korea K League 1 (1),"CM, RW",70,71,1800000.0,5200.0,71.5,52.0,64.8,67.3,71.9,61.6,9.4
-Michael Johnston ,178,66,Right,1999-04-19,24,Republic of Ireland,Republic of Ireland,International,"LW, RW",70,75,1800000.0,5200.0,73.0,26.0,50.3,59.0,73.1,61.2,10.8
+Michael Johnston ,178,66,Right,1999-04-19,24,Republic of Ireland,NG - FA,Free Agents League,"LW, RW",70,75,1800000.0,5200.0,73.0,26.0,50.3,59.0,73.1,61.2,10.8
 Ha Chang Rae ,188,82,Right,1994-10-16,29,Korea Republic,Pohang Steelers,Korea K League 1 (1),CB,70,72,1400000.0,3900.0,48.0,69.5,55.2,48.0,60.6,37.0,9.4
 Ola Brynhildsen ,175,70,Right,1999-04-27,24,Norway,FC Midtjylland,Denmark Superliga (1),ST,70,75,1900000.0,14000.0,71.0,52.0,65.3,61.3,78.3,62.1,8.6
 Florin Niță ,184,78,Right,1987-07-03,36,Romania,Gaziantep FK,Turkey Super Lig (1),GK,70,70,180000.0,4000.0,14.5,13.5,30.5,19.7,44.1,14.5,70.6
@@ -4720,7 +4720,7 @@ Merveille Bokadi ,186,85,Right,1996-05-21,27,DR Congo,Standard Liège,Belgium Pr
 Sory Kaba ,191,80,Right,1995-04-10,28,Guinea,UD Las Palmas,Spain Primera Division (1),ST,70,70,1600000.0,12500.0,69.0,25.0,60.5,57.0,68.4,60.2,11.2
 Alfons Sampsted ,180,72,Right,1998-04-06,25,Iceland,FC Twente,Holland Eredivisie (1),RB,70,75,1600000.0,6100.0,66.0,63.5,61.0,61.7,79.6,46.5,10.6
 Dennis Johnsen ,185,75,Right,1998-02-17,25,Norway,Venezia,Italy Serie B (2),"ST, LW, RW",70,72,1800000.0,3000.0,70.5,34.0,61.3,66.3,77.1,61.8,9.2
-Abdelhamid Sabiri ,186,80,Right,1996-11-28,27,Morocco,Morocco,International,"CAM, CM, LM",70,73,1700000.0,25000.0,76.0,58.5,62.7,66.3,66.4,66.5,9.6
+Abdelhamid Sabiri ,186,80,Right,1996-11-28,27,Morocco,Al Fayha,Saudi Pro League (1),"CAM, CM, LM",70,73,1700000.0,25000.0,76.0,58.5,62.7,66.3,66.4,66.5,9.6
 Ado Onaiwu ,180,75,Right,1995-11-08,28,Japan,AJ Auxerre,France Ligue 2 (2),"ST, LW, RW",70,71,1700000.0,5600.0,67.0,36.5,61.5,60.0,71.4,63.6,10.8
 Yordan Osorio ,186,80,Right,1994-05-10,29,Venezuela,Parma,Italy Serie B (2),CB,70,71,1300000.0,3000.0,51.5,69.5,57.3,44.3,61.7,37.9,10.2
 Jackson Yueill ,178,74,Right,1997-03-18,26,United States,San Jose Earthquakes,USA Major League Soccer (1),"CM, CDM, CB",70,73,1700000.0,5000.0,67.5,61.0,68.3,68.7,67.0,62.0,11.4
@@ -4905,7 +4905,7 @@ Leonardo Mancuso ,182,77,Right,1992-05-26,31,Italy,Palermo,Italy Serie B (2),"ST
 Walter Montoya ,173,72,Right,1993-07-21,30,Argentina,Rosario Central,Argentina Primera Division (1),"CM, CDM, RM",70,70,1600000.0,9900.0,70.5,64.5,67.7,69.3,73.9,59.2,11.8
 Bingourou Kamara ,196,92,Right,1996-10-21,27,Senegal,Pau FC,France Ligue 2 (2),GK,70,73,1300000.0,3000.0,20.0,14.5,31.7,14.0,46.6,20.5,68.8
 Julian Pollersbeck ,195,85,Right,1994-08-16,29,Germany,1. FC Magdeburg,Germany 2. Bundesliga (2),GK,70,72,1100000.0,6000.0,16.5,14.5,31.0,38.7,37.9,20.9,69.6
-Bálint Vécsei ,185,80,Left,1993-07-13,30,Hungary,Hungary,International,CM,70,70,1100000.0,6000.0,71.5,54.0,66.3,65.0,69.4,64.1,10.2
+Bálint Vécsei ,185,80,Left,1993-07-13,30,Hungary,NG - FA,Free Agents League,CM,70,70,1100000.0,6000.0,71.5,54.0,66.3,65.0,69.4,64.1,10.2
 Joe Williams ,185,80,Right,1996-12-08,27,England,Bristol City,England Championship (2),"CDM, CM",70,73,1500000.0,17000.0,68.5,71.5,65.5,68.0,62.3,57.8,10.4
 Patrick Pflücke ,170,66,Left,1996-11-30,27,Germany,KV Mechelen,Belgium Pro League (1),"LM, CM",70,71,1700000.0,8600.0,70.0,43.5,60.2,67.3,71.4,60.2,11.0
 Nermin Zolotić ,188,77,Right,1993-07-07,30,Bosnia & Herzegovina,Casa Pia,Portugal Primeira Liga (1),CB,70,70,1300000.0,4600.0,64.0,72.5,59.2,66.0,63.7,57.8,11.8
@@ -4927,7 +4927,7 @@ Hugo Boumous ,173,72,Right,1995-07-24,28,Morocco,Mohun Bagan Super Giant,Indian 
 Eraso ,180,71,Right,1990-03-22,33,Spain,SD Amorebieta,Spain Segunda Division (2),"CM, CAM, CDM",70,70,975000.0,4900.0,68.5,59.5,72.0,67.7,62.1,60.2,11.4
 Benedikt Zech ,186,73,Right,1990-11-03,33,Austria,Pogoń Szczecin,Poland Ekstraklasa (1),CB,70,70,1000000.0,5000.0,53.0,70.0,63.0,56.3,74.4,36.5,11.6
 Famara Diédhiou ,189,80,Right,1992-12-15,30,Senegal,Granada CF,Spain Primera Division (1),ST,70,70,1600000.0,12000.0,68.5,19.0,55.8,44.7,65.9,63.2,11.0
-Florin Tănase ,185,71,Right,1994-12-30,28,Romania,Romania,International,"CF, ST, CAM",70,70,1600000.0,13500.0,68.5,38.0,66.8,70.7,64.0,68.8,10.6
+Florin Tănase ,185,71,Right,1994-12-30,28,Romania,Al Okhdood,Saudi Pro League (1),"CF, ST, CAM",70,70,1600000.0,13500.0,68.5,38.0,66.8,70.7,64.0,68.8,10.6
 Nicolás Oroz ,171,71,Left,1994-04-01,29,Argentina,Racing Club de Avellaneda,Argentina Primera Division (1),"CM, RW",70,70,1600000.0,11000.0,74.5,53.5,67.7,70.3,71.9,61.6,12.2
 Josh Ginnelly ,173,65,Right,1997-03-24,26,England,Swansea City,England Championship (2),"ST, RM, LM",70,71,1800000.0,17000.0,72.0,42.0,59.0,60.0,80.0,63.1,13.6
 Kang Sang Woo ,175,62,Right,1993-10-07,30,Korea Republic,Beijing Guoan,China Super League (1),"LM, RM, ST",70,70,1600000.0,7900.0,65.0,63.5,60.7,67.0,78.6,63.6,12.8
@@ -4979,7 +4979,7 @@ Alan Browne ,179,74,Right,1995-04-15,28,Republic of Ireland,Preston North End,En
 Bart Vriends ,188,85,Right,1991-05-09,32,Netherlands,Sparta Rotterdam,Holland Eredivisie (1),CB,70,70,1000000.0,5800.0,48.5,67.0,57.7,49.3,61.3,37.4,12.8
 Damián Musto ,183,80,Right,1987-06-09,36,Argentina,FC Cartagena,Spain Segunda Division (2),"CDM, CM",70,70,325000.0,3500.0,59.0,69.0,68.0,63.3,55.3,49.0,11.4
 Fernando Monetti ,184,76,Right,1989-02-21,34,Argentina,Sarmiento,Argentina Primera Division (1),GK,70,70,275000.0,5300.0,27.5,19.0,38.7,36.3,55.1,23.6,69.6
-Abdulaziz Hatem ,182,76,Left,1990-10-28,33,Qatar,Qatar,International,"CM, CDM",70,70,275000.0,5300.0,68.5,61.0,65.8,71.3,66.9,62.4,11.2
+Abdulaziz Hatem ,182,76,Left,1990-10-28,33,Qatar,NG - FA,Free Agents League,"CM, CDM",70,70,275000.0,5300.0,68.5,61.0,65.8,71.3,66.9,62.4,11.2
 Filipe Ferreira ,178,70,Left,1990-09-09,33,Portugal,Boavista,Portugal Primeira Liga (1),"LB, LWB, CB",70,70,1100000.0,7800.0,68.0,68.5,64.2,66.3,67.7,54.5,12.8
 Maikel Mesa ,186,82,Right,1991-05-03,32,Spain,Real Zaragoza,Spain Segunda Division (2),"CM, CAM",70,70,1300000.0,6200.0,71.0,65.5,68.3,68.0,74.4,65.9,9.4
 Marcelo Meli ,178,70,Right,1992-06-20,31,Argentina,Liverpool Fútbol Club Uruguay,CONMEBOL Libertadores,"CM, RM",70,70,1300000.0,9500.0,68.0,66.0,69.2,65.7,74.0,57.5,10.4
@@ -5058,7 +5058,7 @@ Rober Correa ,180,71,Right,1992-09-29,31,Spain,SD Eibar,Spain Segunda Division (
 Mark Delgado ,175,67,Right,1995-05-16,28,United States,Los Angeles Galaxy,USA Major League Soccer (1),"CDM, CM",70,70,1400000.0,4700.0,64.0,64.0,64.7,65.3,71.7,50.9,11.0
 Zymer Bytyqi ,176,70,Right,1996-09-11,27,Kosovo,Antalyaspor,Turkey Super Lig (1),"LM, RM, LW",70,70,1700000.0,12000.0,72.0,24.5,59.8,67.3,74.1,65.1,12.2
 Chow Tim ,180,72,Right,1994-01-18,29,Chinese Taipei,Chengdu Rongcheng F.C.,China Super League (1),CM,70,70,1600000.0,7900.0,68.0,65.0,68.3,68.3,74.9,62.2,11.0
-Robin Quaison ,183,78,Right,1993-10-09,30,Sweden,Sweden,International,"CF, ST, LM",70,70,1600000.0,18000.0,72.0,44.5,65.8,64.3,72.6,66.0,10.4
+Robin Quaison ,183,78,Right,1993-10-09,30,Sweden,Al Ettifaq,Saudi Pro League (1),"CF, ST, LM",70,70,1600000.0,18000.0,72.0,44.5,65.8,64.3,72.6,66.0,10.4
 Magnus Eriksson ,180,79,Left,1990-04-08,33,Sweden,Djurgårdens IF,Sweden Allsvenskan (1),CM,70,70,975000.0,5100.0,66.5,48.5,69.3,75.3,66.0,66.6,10.8
 Sergi Samper ,182,73,Right,1995-01-20,28,Spain,FC Andorra,Spain Segunda Division (2),"CDM, CM",70,70,1400000.0,4700.0,67.0,62.5,64.7,65.3,58.6,46.5,10.4
 Ju Se Jong ,176,68,Right,1990-10-30,33,Korea Republic,Daejeon Hana Citizen,Korea K League 1 (1),"CM, CDM",70,70,1300000.0,5400.0,67.5,61.5,66.7,72.7,66.9,57.4,9.2
@@ -5188,7 +5188,7 @@ Walter Gargano ,167,73,Right,1984-07-23,39,Uruguay,River Plate Montevideo,CONMEB
 Mahmut Tekdemir ,178,68,Right,1988-01-20,35,Turkey,Istanbul Başakşehir FK,Turkey Super Lig (1),"CDM, CM",70,70,450000.0,8800.0,67.0,69.5,67.8,65.7,62.9,57.2,13.0
 Marcelo Moreno Martins ,188,93,Right,1987-06-18,36,Bolivia,Independiente del Valle,CONMEBOL Libertadores,ST,70,70,550000.0,7900.0,66.0,23.5,58.8,60.7,66.0,71.2,10.4
 Jay O'Shea ,183,70,Right,1988-08-10,35,Republic of Ireland,Brisbane Roar,Australia A-League (1),"CM, CAM",70,70,725000.0,3800.0,71.5,54.5,66.7,71.7,70.6,65.2,7.0
-Hassan Al Haydos ,174,66,Right,1990-12-11,33,Qatar,Qatar,International,"RM, CAM, CM",70,70,1300000.0,9200.0,74.0,24.0,59.2,66.7,65.1,63.2,12.4
+Hassan Al Haydos ,174,66,Right,1990-12-11,33,Qatar,Standard Liège,Belgium Pro League (1),"RM, CAM, CM",70,70,1300000.0,9200.0,74.0,24.0,59.2,66.7,65.1,63.2,12.4
 Rouwen Hennings ,180,80,Left,1987-08-28,36,Germany,SV Sandhausen,Germany 3. Liga (3),ST,70,70,675000.0,3700.0,65.5,34.5,63.0,59.7,64.0,71.5,12.6
 Thomas Mangani ,183,79,Left,1987-04-29,36,France,AC Ajaccio,France Ligue 2 (2),"CDM, CM",70,70,325000.0,3100.0,68.5,64.0,69.8,70.0,55.3,67.8,12.4
 Artur Jędrzejczyk ,189,86,Right,1987-11-04,36,Poland,Legia Warszawa,Poland Ekstraklasa (1),CB,70,70,425000.0,4000.0,58.0,68.5,66.0,61.3,64.6,48.1,10.8
@@ -5510,7 +5510,7 @@ Fabian Nürnberger ,178,72,Left,1999-07-28,24,Germany,SV Darmstadt 98,Germany 1.
 Andrei Cordea ,180,75,Left,1999-06-24,24,Romania,Al Tai,Saudi Pro League (1),RM,69,74,1600000.0,8800.0,67.0,33.5,59.0,61.7,80.6,59.6,10.0
 Ellis Simms ,191,73,Right,2001-01-05,22,England,Coventry City,England Championship (2),ST,69,78,1700000.0,18500.0,66.0,21.5,56.7,49.7,70.6,62.2,11.4
 Jesús Soraire ,174,73,Right,1988-12-03,35,Argentina,Banfield,Argentina Primera Division (1),"CM, CDM",69,69,650000.0,6700.0,71.5,63.0,70.0,69.7,75.9,61.8,10.6
-Marian Aioani ,187,82,Right,1999-11-07,24,Romania,Romania,International,GK,69,77,1200000.0,2900.0,10.0,13.0,30.8,22.0,39.9,16.1,68.2
+Marian Aioani ,187,82,Right,1999-11-07,24,Romania,Farul Constanța,Romania Liga I (1),GK,69,77,1200000.0,2900.0,10.0,13.0,30.8,22.0,39.9,16.1,68.2
 Jannik Rochelt ,182,76,Right,1998-09-27,25,Germany,SV Elversberg,Germany 2. Bundesliga (2),LM,69,73,1600000.0,5100.0,67.5,54.0,59.5,63.7,74.0,56.1,12.0
 Marcel Hoffmeier ,182,78,Right,1999-07-15,24,Germany,SC Paderborn 07,Germany 2. Bundesliga (2),"CB, CDM",69,77,1400000.0,7600.0,63.5,67.5,63.5,61.3,74.6,47.9,10.4
 Anderson Oliveira ,186,85,Left,1997-11-21,26,Brazil,Alanyaspor,Turkey Super Lig (1),ST,69,74,1600000.0,7500.0,67.5,22.5,56.5,54.7,69.6,64.8,10.8
@@ -5607,8 +5607,8 @@ Dani Gómez ,178,69,Right,1998-07-30,25,Spain,Levante UD,Spain Segunda Division 
 Nicolas Madsen ,192,81,Right,2000-03-17,23,Denmark,Westerlo,Belgium Pro League (1),"CDM, CM",69,75,1400000.0,4900.0,68.0,62.0,64.8,70.3,65.0,62.5,9.2
 Bartosz Slisz ,180,76,Right,1999-03-29,24,Poland,Legia Warszawa,Poland Ekstraklasa (1),"CM, CDM",69,76,1600000.0,4600.0,66.5,61.0,68.3,66.3,71.1,54.9,8.8
 Samuele Mulattieri ,183,77,Right,2000-10-07,23,Italy,Sassuolo,Italy Serie A (1),ST,69,78,1700000.0,7700.0,69.0,37.5,58.0,58.0,68.6,63.2,9.4
-Vladimir Screciu ,180,70,Right,2000-01-13,23,Romania,Romania,International,"CDM, CB",69,77,1400000.0,3800.0,54.0,68.0,61.5,58.3,74.0,40.9,8.8
-Nicușor Bancu ,178,65,Left,1992-09-18,31,Romania,Romania,International,"LB, LM",69,69,1200000.0,4400.0,66.0,64.0,65.0,67.3,77.0,62.6,11.2
+Vladimir Screciu ,180,70,Right,2000-01-13,23,Romania,Universitatea Craiova,Romania Liga I (1),"CDM, CB",69,77,1400000.0,3800.0,54.0,68.0,61.5,58.3,74.0,40.9,8.8
+Nicușor Bancu ,178,65,Left,1992-09-18,31,Romania,Universitatea Craiova,Romania Liga I (1),"LB, LM",69,69,1200000.0,4400.0,66.0,64.0,65.0,67.3,77.0,62.6,11.2
 Fraser Hornby ,195,85,Right,1999-09-13,24,Scotland,SV Darmstadt 98,Germany 1. Bundesliga (1),ST,69,76,1600000.0,10500.0,65.5,20.0,54.2,48.3,61.3,68.1,10.6
 Simon Asta ,178,75,Right,2001-01-25,22,Germany,SpVgg Greuther Fürth,Germany 2. Bundesliga (2),"RB, RM",69,77,1500000.0,4400.0,65.5,67.0,58.7,57.7,71.1,37.1,8.4
 Sam Vines ,178,68,Left,1999-05-31,24,United States,Antwerp,Belgium Pro League (1),"LB, LWB",69,73,1500000.0,10500.0,61.0,69.5,58.3,61.7,73.3,38.4,9.4
@@ -5925,7 +5925,7 @@ Wei Shihao ,178,65,Right,1995-04-08,28,China PR,Wuhan Three Towns,China Super Le
 Leandrinho ,176,68,Right,1995-01-13,28,Brazil,Daejeon Hana Citizen,Korea K League 1 (1),"RW, ST, LW",69,69,1400000.0,5200.0,68.5,31.0,54.3,62.3,74.7,59.1,10.0
 Hakan Arslan ,186,76,Right,1988-07-18,35,Turkey,Sivasspor,Turkey Super Lig (1),"CM, CDM",69,69,650000.0,8600.0,69.0,67.5,70.2,64.7,67.6,64.0,12.4
 Gonzalo Bettini ,171,75,Right,1993-09-07,30,Argentina,Sarmiento,Argentina Primera Division (1),"RWB, RB",69,69,1200000.0,5800.0,64.0,68.0,63.2,63.0,66.7,41.0,11.8
-Cristian Manea ,183,77,Right,1997-08-09,26,Romania,Romania,International,"RB, RWB",69,72,1400000.0,4200.0,61.5,64.5,60.7,63.0,75.3,53.6,8.4
+Cristian Manea ,183,77,Right,1997-08-09,26,Romania,CFR Cluj,Romania Liga I (1),"RB, RWB",69,72,1400000.0,4200.0,61.5,64.5,60.7,63.0,75.3,53.6,8.4
 Yusuf Erdoğan ,171,64,Left,1992-08-07,31,Turkey,Adana Demirspor,Turkey Super Lig (1),"RW, LW, LB",69,69,1300000.0,7800.0,69.5,60.0,62.8,64.0,74.4,68.1,10.8
 José León ,185,82,Left,1995-02-03,28,Spain,CD Tenerife,Spain Segunda Division (2),CB,69,71,1200000.0,5000.0,54.0,68.5,59.3,55.7,71.6,41.8,10.8
 Diego Churín ,187,87,Right,1989-12-01,34,Argentina,Cerro Porteño,CONMEBOL Libertadores,ST,69,69,900000.0,8800.0,67.5,19.5,49.7,51.7,63.4,59.4,11.6
@@ -6160,7 +6160,7 @@ Loris Benito ,186,85,Left,1992-01-07,31,Switzerland,BSC Young Boys,Switzerland S
 Florin Berenguer ,180,70,Right,1989-04-01,34,France,Brisbane Roar,Australia A-League (1),"CM, CAM, CDM",69,69,650000.0,3200.0,71.5,56.5,65.5,69.0,65.9,61.0,11.0
 Markus Pink ,189,86,Right,1991-02-24,32,Austria,Shanghai Port,China Super League (1),ST,69,70,1100000.0,7000.0,65.5,12.5,61.0,53.3,63.9,63.5,9.6
 Scott Malone ,189,75,Left,1991-03-25,32,England,Gillingham,England League Two (4),"LB, LWB",69,69,975000.0,8800.0,65.5,65.0,62.5,66.3,70.3,58.2,9.6
-Marco Rojas ,168,64,Right,1991-11-05,32,New Zealand,New Zealand,International,"LW, LM, RW",69,69,975000.0,8800.0,72.0,46.0,60.2,63.7,63.4,61.0,8.8
+Marco Rojas ,168,64,Right,1991-11-05,32,New Zealand,NG - FA,Free Agents League,"LW, LM, RW",69,69,975000.0,8800.0,72.0,46.0,60.2,63.7,63.4,61.0,8.8
 Sebastian Jung ,179,72,Right,1990-06-22,33,Germany,Karlsruher SC,Germany 2. Bundesliga (2),RB,69,69,725000.0,6800.0,67.5,67.5,66.0,68.3,65.4,53.0,9.8
 Paul Lasne ,186,77,Left,1989-01-16,34,France,Paris FC,France Ligue 2 (2),"CDM, CM",69,69,475000.0,3700.0,68.0,67.5,66.2,71.0,60.4,64.1,7.2
 Peter Abrahamsson ,190,90,Right,1988-07-18,35,Sweden,BK Häcken,Sweden Allsvenskan (1),GK,69,69,240000.0,2800.0,18.0,16.0,36.7,20.3,45.4,22.2,69.2
@@ -6264,7 +6264,7 @@ Mateus Fernandes ,178,72,Right,2004-07-10,19,Portugal,Estoril,Portugal Primeira 
 Sergio Fabián Ortíz ,173,77,Right,2001-02-23,22,Argentina,Independiente,Argentina Primera Division (1),"CDM, CM",68,79,1300000.0,4600.0,61.0,72.0,59.2,63.7,61.6,49.8,9.4
 Wilson Odobert ,182,75,Right,2004-11-28,19,France,Burnley,England Premier League (1),"LW, LM, RM",68,81,1300000.0,7500.0,73.0,26.5,51.2,57.3,57.3,54.1,9.0
 Willum Þór Willumsson ,193,84,Left,1998-10-23,25,Iceland,Go Ahead Eagles,Holland Eredivisie (1),"CAM, RM",68,74,1400000.0,3600.0,71.5,54.5,60.0,70.3,67.7,63.0,11.4
-Ali Asad ,174,61,Left,1993-01-19,30,Qatar,Qatar,International,"CAM, RM, LM",68,68,1400000.0,3600.0,75.0,30.5,58.8,68.0,61.1,58.2,8.6
+Ali Asad ,174,61,Left,1993-01-19,30,Qatar,NG - FA,Free Agents League,"CAM, RM, LM",68,68,1400000.0,3600.0,75.0,30.5,58.8,68.0,61.1,58.2,8.6
 Halid Šabanović ,182,75,Right,1999-08-22,24,Bosnia & Herzegovina,Angers SCO,France Ligue 2 (2),RB,68,74,1300000.0,2900.0,64.0,71.5,61.3,56.7,64.9,41.2,9.4
 Konstantinos Koulierakis ,185,78,Left,2003-11-28,20,Greece,PAOK,Rest of World,CB,68,79,1100000.0,3300.0,63.0,69.0,54.7,58.0,62.6,43.9,10.0
 Kévin Van Den Kerkhof ,190,82,Right,1996-03-14,27,Algeria,FC Metz,France Ligue 1 (1),"RWB, RB",68,69,1200000.0,6900.0,69.0,62.5,58.5,63.3,71.6,64.4,8.6
@@ -6280,9 +6280,9 @@ Altimira ,176,69,Right,2001-03-28,22,Spain,Villarreal B,Spain Segunda Division (
 Antonio Pergreffi ,189,85,Left,1988-05-06,35,Italy,Modena,Italy Serie B (2),CB,68,68,325000.0,1500.0,49.0,71.0,54.2,46.7,58.6,42.2,8.2
 Rodrigo Ribeiro ,185,72,Right,2005-04-28,18,Portugal,Sporting CP,Portugal Primeira Liga (1),ST,68,84,1300000.0,2300.0,71.5,16.0,52.8,56.0,68.6,56.9,10.8
 Danley Jean-Jacques ,180,75,Left,2000-05-20,23,Haiti,FC Metz,France Ligue 1 (1),"CDM, CM",68,79,1200000.0,5900.0,67.0,67.0,65.3,65.0,69.3,51.4,9.2
-Pedro Miguel ,180,76,Right,1990-08-06,33,Qatar,Qatar,International,"RB, CB",68,68,1200000.0,5900.0,62.0,66.5,62.8,62.7,71.4,39.8,10.4
-Homam Ahmed ,188,75,Left,1999-08-25,24,Qatar,Qatar,International,LB,68,74,1200000.0,5900.0,63.0,64.5,57.3,63.0,68.4,50.1,10.6
-Ismael Mohammad ,172,64,Right,1990-04-05,33,Qatar,Qatar,International,"RB, RM",68,68,1200000.0,5900.0,66.0,63.5,65.0,64.0,72.9,55.0,8.6
+Pedro Miguel ,180,76,Right,1990-08-06,33,Qatar,NG - FA,Free Agents League,"RB, CB",68,68,1200000.0,5900.0,62.0,66.5,62.8,62.7,71.4,39.8,10.4
+Homam Ahmed ,188,75,Left,1999-08-25,24,Qatar,NG - FA,Free Agents League,LB,68,74,1200000.0,5900.0,63.0,64.5,57.3,63.0,68.4,50.1,10.6
+Ismael Mohammad ,172,64,Right,1990-04-05,33,Qatar,NG - FA,Free Agents League,"RB, RM",68,68,1200000.0,5900.0,66.0,63.5,65.0,64.0,72.9,55.0,8.6
 Daniele Casiraghi ,175,73,Right,1993-03-10,30,Italy,Südtirol,Italy Serie B (2),"LM, ST",68,68,1200000.0,1900.0,70.0,51.5,61.0,63.3,71.6,62.9,11.0
 Kyan Vaesen ,190,79,Right,2001-04-13,22,Belgium,Westerlo,Belgium Pro League (1),ST,68,74,1400000.0,5000.0,66.0,26.5,57.7,57.0,60.4,66.2,12.6
 Jeanuël Belocian ,182,73,Right,2005-02-17,18,France,Stade Rennais,France Ligue 1 (1),"LB, CB",68,83,1100000.0,4200.0,66.0,70.0,60.2,64.3,65.6,48.0,12.6
@@ -6415,7 +6415,7 @@ Luciano Ursino ,180,77,Right,1988-10-31,35,Bolivia,The Strongest,CONMEBOL Libert
 Ismael Diawara ,194,93,Right,1994-11-11,29,Mali,Malmö FF,Sweden Allsvenskan (1),GK,68,71,850000.0,2900.0,11.5,12.5,28.7,25.7,35.9,15.0,67.4
 Jovanny Bolívar ,175,68,Right,2001-12-16,21,Venezuela,SD Huesca,Spain Segunda Division (2),ST,68,77,1400000.0,3200.0,66.0,25.0,49.3,51.7,67.6,68.5,11.8
 Kevin Zenón ,180,70,Left,2001-07-30,22,Argentina,Unión de Santa Fe,Argentina Primera Division (1),"LM, LW, LWB",68,74,1400000.0,4200.0,70.5,55.0,60.8,63.3,73.6,63.4,9.2
-Marko Stamenić ,188,80,Right,2002-02-19,21,New Zealand,New Zealand,International,"CM, CDM",68,80,1400000.0,4200.0,70.0,65.5,68.8,66.0,70.1,58.2,10.2
+Marko Stamenić ,188,80,Right,2002-02-19,21,New Zealand,NG - FA,Free Agents League,"CM, CDM",68,80,1400000.0,4200.0,70.0,65.5,68.8,66.0,70.1,58.2,10.2
 Frank Ysique ,168,67,Right,1996-06-20,27,Peru,Universidad César Vallejo,CONMEBOL Sudamericana,"CM, CDM",68,69,1300000.0,6800.0,68.0,56.5,63.7,60.0,59.4,46.6,11.4
 Renzo Garcés ,185,76,Right,1996-06-12,27,Peru,Universidad César Vallejo,CONMEBOL Sudamericana,CB,68,70,1100000.0,6200.0,57.5,67.5,55.3,50.7,62.7,35.1,11.6
 Braian Aguirre ,175,71,Right,2000-07-28,23,Argentina,Lanús,Argentina Primera Division (1),"RB, LB, RM",68,76,1300000.0,4900.0,61.5,67.0,60.8,57.7,70.1,44.2,11.0
@@ -6937,7 +6937,7 @@ Sergio Santos ,180,77,Left,1994-09-04,29,Brazil,FC Cincinnati,USA Major League S
 Sabin Merino ,187,78,Right,1992-01-04,31,Spain,Racing de Ferrol,Spain Segunda Division (2),"ST, LM",68,68,1000000.0,4900.0,65.5,49.0,62.8,62.3,65.3,67.8,10.4
 Jannik Dehm ,181,73,Right,1996-05-02,27,Germany,Hannover 96,Germany 2. Bundesliga (2),"RWB, CB, LWB",68,69,1200000.0,10000.0,67.0,63.0,57.5,63.0,71.9,51.4,10.2
 Óscar Ruiz ,170,70,Left,1991-05-14,32,Paraguay,Tacuary FBC,CONMEBOL Sudamericana,"LM, RM",68,68,950000.0,6800.0,67.5,35.5,52.2,61.7,67.9,61.2,10.6
-Oliver Sail ,194,80,Right,1996-01-13,27,New Zealand,New Zealand,International,GK,68,70,925000.0,2000.0,23.5,13.0,32.8,24.7,52.9,18.1,64.8
+Oliver Sail ,194,80,Right,1996-01-13,27,New Zealand,Perth Glory,Australia A-League (1),GK,68,70,925000.0,2000.0,23.5,13.0,32.8,24.7,52.9,18.1,64.8
 Quentin Lecoeuche ,172,65,Left,1994-02-04,29,France,Real Zaragoza,Spain Segunda Division (2),"LB, LWB",68,68,1100000.0,4300.0,62.0,62.0,59.3,61.7,78.3,49.4,11.2
 Antonin Bobichon ,178,75,Right,1995-09-14,28,France,Stade Lavallois MFC,France Ligue 2 (2),"CM, LM",68,68,1300000.0,2700.0,67.5,55.5,66.3,68.0,66.1,67.2,12.2
 Marlos Moreno ,171,66,Right,1996-09-20,27,Colombia,Konyaspor,Turkey Super Lig (1),"LW, RW",68,68,1300000.0,7900.0,70.5,28.0,52.8,60.7,69.6,51.6,10.0
@@ -7172,7 +7172,7 @@ Johan Hammar ,197,84,Right,1994-02-22,29,Sweden,BK Häcken,Sweden Allsvenskan (1
 Soner Aydoğdu ,180,72,Left,1991-01-05,32,Turkey,Samsunspor,Turkey Super Lig (1),"CDM, CM",68,68,800000.0,5500.0,70.0,60.5,66.8,71.3,66.1,68.6,11.6
 Ryan Tafazolli ,196,93,Left,1991-09-28,32,England,Wycombe Wanderers,England League One (3),CB,68,68,825000.0,4500.0,48.0,67.5,51.7,45.7,53.3,36.6,14.2
 Osama Rashid ,178,70,Right,1992-01-13,31,Iraq,Vizela,Portugal Primeira Liga (1),"CM, CDM",68,68,1000000.0,2700.0,71.5,49.0,67.2,68.0,67.7,66.5,10.0
-Yevhen Konoplyanka ,178,70,Right,1989-09-29,34,Ukraine,Ukraine,International,"LM, CF",68,68,750000.0,4100.0,68.5,28.5,61.0,67.7,68.4,66.8,9.8
+Yevhen Konoplyanka ,178,70,Right,1989-09-29,34,Ukraine,CFR Cluj,Romania Liga I (1),"LM, CF",68,68,750000.0,4100.0,68.5,28.5,61.0,67.7,68.4,66.8,9.8
 Jeff Hendrick ,185,79,Right,1992-01-31,31,Republic of Ireland,Sheffield Wednesday,England Championship (2),"CM, CDM",68,68,1000000.0,32000.0,69.0,66.0,65.5,68.7,65.7,67.9,10.0
 Marco Matias ,177,73,Right,1989-05-10,34,Portugal,Farense,Portugal Primeira Liga (1),"RW, LW",68,68,575000.0,3000.0,69.5,30.5,58.3,62.3,70.0,64.2,11.0
 Alexandre Letellier ,193,93,Right,1990-12-11,33,France,Paris Saint-Germain,France Ligue 1 (1),GK,68,68,600000.0,18000.0,13.5,12.0,33.8,21.3,42.7,18.1,66.0
@@ -7212,7 +7212,7 @@ Aleksandar Prijović ,191,88,Right,1990-04-21,33,Serbia,Western United FC,Austra
 Marko Vejinović ,186,78,Right,1990-02-03,33,Netherlands,Heracles Almelo,Holland Eredivisie (1),"CM, CDM",68,68,750000.0,3800.0,69.5,51.5,68.2,68.3,65.6,70.4,12.2
 Alexander Esswein ,182,85,Right,1990-03-25,33,Germany,MSV Duisburg,Germany 3. Liga (3),"ST, RM, LM",68,68,775000.0,2100.0,67.5,53.5,62.8,62.0,71.1,65.5,11.2
 Bruno Fornaroli ,175,68,Right,1987-09-07,36,Australia,Melbourne Victory,Australia A-League (1),ST,68,68,525000.0,3000.0,66.5,38.5,63.7,57.3,73.7,68.4,14.0
-Aron Gunnarsson ,177,85,Right,1989-04-22,34,Iceland,Iceland,International,"CDM, CM",68,68,525000.0,3000.0,64.0,66.0,66.0,64.0,59.3,58.9,10.4
+Aron Gunnarsson ,177,85,Right,1989-04-22,34,Iceland,NG - FA,Free Agents League,"CDM, CM",68,68,525000.0,3000.0,64.0,66.0,66.0,64.0,59.3,58.9,10.4
 Garath McCleary ,183,76,Right,1987-05-15,36,Jamaica,Wycombe Wanderers,England League One (3),"RM, ST, LM",68,68,400000.0,3600.0,69.0,47.0,59.7,61.3,72.3,63.5,12.0
 Paul Hanlon ,180,78,Left,1990-01-20,33,Scotland,Hibernian,Scotland Premiership (1),CB,68,68,575000.0,3500.0,55.5,67.5,59.5,58.7,62.4,42.4,10.2
 Jonathan Kodjia ,189,77,Right,1989-10-22,34,Ivory Coast,FC Annecy,France Ligue 2 (2),ST,68,68,775000.0,2900.0,68.5,22.5,58.8,51.3,67.0,64.2,12.0
@@ -7352,7 +7352,7 @@ Collado ,183,71,Right,2001-01-09,22,Spain,Villarreal B,Spain Segunda Division (2
 Sayfallah Ltaief ,178,77,Right,2000-04-22,23,Tunisia,FC Winterthur,Switzerland Super League (1),LM,67,75,1200000.0,4500.0,70.0,35.5,52.8,57.3,74.0,53.5,10.6
 Benjamín Domínguez ,172,68,Right,2003-09-19,20,Argentina,Gimnasia y Esgrima La Plata,Argentina Primera Division (1),"LM, LW",67,79,1100000.0,3300.0,73.0,30.5,52.5,61.3,62.7,56.4,9.0
 Redouan El Yaakoubi ,183,75,Right,1996-01-25,27,Netherlands,Excelsior,Holland Eredivisie (1),"CB, CDM",67,70,950000.0,2600.0,54.0,66.0,52.7,61.3,70.1,55.9,10.0
-Valentin Țicu ,181,76,Left,2000-09-19,23,Romania,Romania,International,"LB, LM, LWB",67,76,1100000.0,2700.0,59.0,63.0,61.8,66.0,72.6,55.4,9.0
+Valentin Țicu ,181,76,Left,2000-09-19,23,Romania,Petrolul Ploiești,Romania Liga I (1),"LB, LM, LWB",67,76,1100000.0,2700.0,59.0,63.0,61.8,66.0,72.6,55.4,9.0
 Robin Fellhauer ,182,77,Right,1998-01-21,25,Germany,SV Elversberg,Germany 2. Bundesliga (2),RB,67,70,1000000.0,3700.0,63.5,62.0,59.3,64.3,69.7,43.2,10.2
 Nicolas Kristof ,187,85,Right,1999-12-20,23,Austria,SV Elversberg,Germany 2. Bundesliga (2),GK,67,73,875000.0,2600.0,13.0,12.0,27.2,18.0,34.6,15.1,68.0
 Mike Eerdhuijzen ,191,78,Left,2000-07-13,23,Netherlands,Sparta Rotterdam,Holland Eredivisie (1),CB,67,75,1100000.0,3000.0,43.0,65.5,48.5,55.3,64.4,33.2,8.8
@@ -7360,10 +7360,10 @@ Owen Moxon ,186,76,Right,1998-01-17,25,England,Carlisle United,England League On
 José Marsà ,183,68,Left,2002-03-04,21,Spain,FC Andorra,Spain Segunda Division (2),"CB, CDM",67,80,1100000.0,1900.0,62.0,67.5,54.3,55.7,68.6,37.5,7.0
 Nicholas Bonfanti ,178,66,Right,2002-03-28,21,Italy,Modena,Italy Serie B (2),ST,67,78,1200000.0,1500.0,67.5,32.5,48.2,43.3,68.4,62.5,11.2
 Hugo Larsson ,187,74,Right,2004-06-27,19,Sweden,Eintracht Frankfurt,Germany 1. Bundesliga (1),"CM, CDM",67,83,1100000.0,6400.0,67.0,54.5,65.2,60.0,73.3,55.5,9.6
-Ahmed Fathi ,171,70,Right,1993-01-25,30,Qatar,Qatar,International,"CDM, CM",67,67,1100000.0,6400.0,54.5,65.5,61.8,55.7,74.3,40.8,8.2
+Ahmed Fathi ,171,70,Right,1993-01-25,30,Qatar,NG - FA,Free Agents League,"CDM, CM",67,67,1100000.0,6400.0,54.5,65.5,61.8,55.7,74.3,40.8,8.2
 Dimitrios Stavropoulos ,191,87,Right,1997-05-01,26,Greece,Warta Poznań,Poland Ekstraklasa (1),CB,67,71,975000.0,1500.0,45.5,64.0,55.0,51.7,58.4,39.6,7.8
-Meshaal Barsham ,180,72,Right,1998-02-14,25,Qatar,Qatar,International,GK,67,73,975000.0,1500.0,9.5,12.0,31.0,17.3,49.6,13.0,64.0
-Bassam Al Rawi ,175,74,Right,1997-12-16,25,Qatar,Qatar,International,"CB, RB",67,71,975000.0,1500.0,63.0,69.5,59.8,59.7,74.7,56.8,9.6
+Meshaal Barsham ,180,72,Right,1998-02-14,25,Qatar,NG - FA,Free Agents League,GK,67,73,975000.0,1500.0,9.5,12.0,31.0,17.3,49.6,13.0,64.0
+Bassam Al Rawi ,175,74,Right,1997-12-16,25,Qatar,NG - FA,Free Agents League,"CB, RB",67,71,975000.0,1500.0,63.0,69.5,59.8,59.7,74.7,56.8,9.6
 Matteo Rover ,185,76,Right,1999-02-20,24,Italy,Südtirol,Italy Serie B (2),"LM, LW, RM",67,73,1200000.0,1500.0,70.5,40.0,53.8,57.0,70.6,63.0,9.0
 Anass Salah-Eddine ,179,66,Left,2002-01-18,21,Netherlands,Ajax,Holland Eredivisie (1),"LB, CDM",67,77,1100000.0,3500.0,67.5,64.0,61.8,62.7,69.6,39.1,12.6
 Alonso Martínez ,173,72,Right,1998-10-15,25,Costa Rica,New York City FC,USA Major League Soccer (1),"RM, LM",67,71,1200000.0,2600.0,71.0,26.5,50.3,63.0,63.1,45.2,11.4
@@ -7682,7 +7682,7 @@ Mourtada Fall ,192,87,Right,1987-12-26,35,Senegal,Odisha FC,Indian Super League 
 Justin de Haas ,194,75,Left,2000-02-01,23,Netherlands,Famalicão,Portugal Primeira Liga (1),CB,67,76,1000000.0,2700.0,40.5,68.5,51.0,43.3,62.7,36.2,9.4
 Magnus Knudsen ,183,69,Right,2001-06-15,22,Norway,AGF,Denmark Superliga (1),CM,67,77,1200000.0,4600.0,69.0,63.0,66.7,66.7,67.0,55.5,10.0
 Virgil Ghiță ,186,80,Right,1998-06-04,25,Romania,Cracovia,Poland Ekstraklasa (1),CB,67,73,975000.0,3500.0,46.5,67.5,57.8,46.3,66.4,46.1,10.4
-Adrian Rus ,183,76,Right,1996-03-18,27,Romania,Romania,International,"CB, CDM",67,69,975000.0,3500.0,57.0,67.0,60.2,55.0,71.3,47.4,12.6
+Adrian Rus ,183,76,Right,1996-03-18,27,Romania,NG - FA,Free Agents League,"CB, CDM",67,69,975000.0,3500.0,57.0,67.0,60.2,55.0,71.3,47.4,12.6
 Ahmed Barman ,174,71,Left,1994-02-05,29,United Arab Emirates,Al Ain FC (UAE),Rest of World,CDM,67,67,875000.0,5500.0,60.0,65.0,59.7,59.7,67.9,47.4,11.0
 Dennis Politic ,185,78,Right,2000-03-05,23,Romania,Dinamo București,Romania Liga I (1),"LW, CAM, RW",67,73,1200000.0,3300.0,70.0,32.5,57.3,59.0,75.0,55.5,9.6
 Egil Selvik ,187,75,Left,1997-07-30,26,Norway,FK Haugesund,Norway Eliteserien (1),GK,67,72,825000.0,1500.0,12.0,12.0,27.2,22.0,31.0,15.4,66.2
@@ -7939,7 +7939,7 @@ Goran Karačić ,194,91,Right,1996-08-18,27,Bosnia & Herzegovina,Adana Demirspor
 Joseph Attamah ,180,80,Right,1994-05-22,29,Ghana,Kayserispor,Turkey Super Lig (1),"CDM, CM, CB",67,67,875000.0,4900.0,59.0,68.0,57.3,54.3,67.3,50.4,9.2
 Frederic Ananou ,183,78,Right,1997-09-20,26,Togo,Sint-Truiden,Belgium Pro League (1),"RWB, RB, RM",67,70,1000000.0,4500.0,62.5,65.0,55.2,52.3,76.0,42.4,10.4
 Niklas Hauptmann ,176,63,Left,1996-06-27,27,Germany,Dynamo Dresden,Germany 3. Liga (3),CM,67,68,1100000.0,3400.0,72.0,55.5,63.0,66.7,59.3,52.1,8.6
-Nikolai Alho ,172,72,Right,1993-03-12,30,Finland,Finland,International,"RB, RWB, RM",67,67,1100000.0,3400.0,66.0,59.5,58.5,63.0,74.4,57.2,11.6
+Nikolai Alho ,172,72,Right,1993-03-12,30,Finland,NG - FA,Free Agents League,"RB, RWB, RM",67,67,1100000.0,3400.0,66.0,59.5,58.5,63.0,74.4,57.2,11.6
 Calogero Rizzuto ,170,73,Right,1992-01-05,31,Germany,1. FC Saarbrücken,Germany 3. Liga (3),"LWB, RWB",67,67,750000.0,2800.0,64.5,63.0,62.7,61.3,76.0,54.0,10.6
 Jeong Seung Won ,173,68,Right,1997-02-27,26,Korea Republic,Suwon Bluewings,Korea K League 1 (1),"RWB, CM, RM",67,70,1000000.0,1800.0,65.0,58.5,64.5,61.3,73.4,55.9,11.2
 Mehmet Yeşil ,188,75,Right,1998-05-31,25,Turkey,İstanbulspor,Turkey Super Lig (1),CB,67,71,975000.0,4500.0,52.0,66.5,54.7,49.3,59.3,37.8,11.0
@@ -8332,7 +8332,7 @@ Miiko Albornoz ,180,80,Left,1990-11-30,33,Chile,Vejle BK,Denmark Superliga (1),L
 Joseph Baffoe ,183,79,Right,1992-11-07,31,Sweden,Halmstads BK,Sweden Allsvenskan (1),CB,67,67,825000.0,1700.0,48.0,62.0,55.7,55.0,70.1,36.9,8.8
 Emil Salomonsson ,182,75,Right,1989-04-28,34,Sweden,IFK Göteborg,Sweden Allsvenskan (1),"RB, RM",67,67,375000.0,1900.0,65.0,63.5,63.8,65.3,67.3,64.2,12.2
 Harlee Dean ,191,90,Right,1991-07-26,32,England,Reading,England League One (3),CB,67,67,700000.0,2500.0,51.5,63.5,55.7,45.7,61.0,35.8,15.2
-Camora ,177,69,Left,1986-11-10,37,Romania,Romania,International,"LB, LWB",67,67,230000.0,2300.0,59.5,65.5,60.8,66.7,69.6,58.4,11.0
+Camora ,177,69,Left,1986-11-10,37,Romania,CFR Cluj,Romania Liga I (1),"LB, LWB",67,67,230000.0,2300.0,59.5,65.5,60.8,66.7,69.6,58.4,11.0
 Osvaldo Alonso ,180,70,Right,1985-11-11,38,Cuba,Atlanta United FC,USA Major League Soccer (1),"CDM, CM",67,67,200000.0,2000.0,70.0,63.0,66.0,65.0,51.4,63.6,12.0
 Tom Aldred ,188,84,Right,1990-09-11,33,Scotland,Brisbane Roar,Australia A-League (1),CB,67,67,650000.0,2100.0,47.0,64.5,56.3,48.7,59.1,38.0,10.4
 Igor Armaș ,194,86,Left,1987-07-14,36,Moldova,FC Voluntari,Romania Liga I (1),CB,67,67,275000.0,2300.0,46.0,65.5,56.3,49.3,52.1,41.4,10.6
@@ -8505,7 +8505,7 @@ Derry John Murkin ,183,81,Left,1999-07-27,24,England,FC Schalke 04,Germany 2. Bu
 Iván Gil ,168,63,Right,2000-01-18,23,Spain,FC Andorra,Spain Segunda Division (2),"CM, CAM, RM",66,75,975000.0,2200.0,69.5,49.5,60.5,59.0,61.7,50.8,9.8
 Shady Oukhadda ,187,80,Right,1999-01-17,24,Morocco,Modena,Italy Serie B (2),RB,66,71,900000.0,1500.0,58.5,68.0,49.7,47.7,66.7,37.4,12.0
 Semuel Pizzignacco ,188,80,Right,2001-09-01,22,Italy,Feralpisalò,Italy Serie B (2),GK,66,77,750000.0,1500.0,30.5,17.5,30.5,39.0,43.3,25.9,66.0
-Mohammed Muntari ,192,77,Right,1993-12-20,29,Qatar,Qatar,International,ST,66,66,750000.0,1500.0,64.0,21.5,53.7,46.0,60.1,60.5,7.4
+Mohammed Muntari ,192,77,Right,1993-12-20,29,Qatar,NG - FA,Free Agents League,ST,66,66,750000.0,1500.0,64.0,21.5,53.7,46.0,60.1,60.5,7.4
 Jewison Bennette ,173,62,Left,2004-06-15,19,Costa Rica,Sunderland,England Championship (2),LM,66,78,925000.0,5500.0,67.5,26.5,48.0,56.7,68.7,48.6,10.6
 Alessio Iovine ,174,70,Right,1991-02-01,32,Italy,Como,Italy Serie B (2),"RM, RB, CM",66,66,675000.0,1500.0,70.0,65.0,54.8,67.0,64.4,51.0,12.6
 Joel Ordoñez ,185,70,Right,2004-04-21,19,Ecuador,Club Brugge,Belgium Pro League (1),CB,66,80,800000.0,3000.0,53.0,65.0,54.3,53.0,64.1,31.8,11.4
@@ -8750,7 +8750,7 @@ Lobete ,180,72,Right,2000-09-18,23,Spain,FC Andorra,Spain Segunda Division (2),"
 Tomás Escalante ,170,67,Right,1999-07-02,24,Argentina,Defensa y Justicia,Argentina Primera Division (1),CM,66,71,975000.0,4000.0,67.5,57.0,65.3,63.0,66.0,54.5,10.4
 Sylvester Jasper ,172,71,Right,2000-09-13,23,Bulgaria,Portimonense,Portugal Primeira Liga (1),"RM, LM, LW",66,75,1000000.0,2400.0,73.5,36.0,51.3,59.0,67.6,55.5,11.6
 Nawaf Al Aqidi ,188,83,Right,2000-05-10,23,Saudi Arabia,Al Nassr,Saudi Pro League (1),GK,66,76,725000.0,6300.0,16.5,11.5,28.7,24.3,47.4,16.0,64.2
-Matthew Garbett ,188,75,Right,2002-04-13,21,New Zealand,New Zealand,International,"CAM, CM",66,78,725000.0,6300.0,67.0,55.0,63.0,61.7,70.6,56.1,7.6
+Matthew Garbett ,188,75,Right,2002-04-13,21,New Zealand,NG - FA,Free Agents League,"CAM, CM",66,78,725000.0,6300.0,67.0,55.0,63.0,61.7,70.6,56.1,7.6
 Joaquín Sosa ,188,82,Left,2002-01-10,21,Uruguay,Dinamo Zagreb,Rest of World,"CB, LB",66,76,875000.0,3200.0,59.0,73.0,56.2,65.0,52.0,43.8,11.4
 Jayden Nelson ,170,66,Right,2002-09-26,21,Canada,Rosenborg BK,Norway Eliteserien (1),"LW, RW, CM",66,76,975000.0,2100.0,69.0,44.5,55.8,53.3,72.9,53.1,11.2
 Peter Kioso ,183,73,Right,1999-08-15,24,Republic of Ireland,Peterborough United,England League One (3),"RB, RWB",66,73,900000.0,4100.0,62.5,62.5,61.0,60.0,67.7,44.0,10.8
@@ -8776,7 +8776,7 @@ Liam Shaw ,188,82,Right,2001-03-12,22,England,Wigan Athletic,England League One 
 Serkan Asan ,170,67,Right,1999-04-28,24,Turkey,Pendikspor,Turkey Super Lig (1),"RB, RM",66,72,900000.0,10000.0,63.5,65.5,59.3,58.0,67.0,48.8,9.6
 Jhon Espinoza ,180,77,Right,1999-02-24,24,Ecuador,FC Lugano,Switzerland Super League (1),"RWB, RB, RM",66,72,900000.0,2200.0,60.5,67.0,58.0,57.3,73.7,42.2,12.0
 Joe Bell ,182,77,Right,1999-04-27,24,New Zealand,Viking FK,Norway Eliteserien (1),"CM, CDM",66,71,975000.0,1500.0,65.0,61.5,65.3,65.7,69.6,59.2,7.4
-Elijah Just ,174,69,Left,2000-05-01,23,New Zealand,New Zealand,International,"LW, CF",66,74,975000.0,1500.0,66.0,41.0,55.8,58.3,71.3,58.0,11.8
+Elijah Just ,174,69,Left,2000-05-01,23,New Zealand,NG - FA,Free Agents League,"LW, CF",66,74,975000.0,1500.0,66.0,41.0,55.8,58.3,71.3,58.0,11.8
 Christian Makoun ,181,75,Left,2000-03-05,23,Venezuela,New England Revolution,USA Major League Soccer (1),CB,66,76,850000.0,2000.0,60.5,65.0,60.3,63.3,64.0,48.2,9.8
 Djorkaeff Reasco ,172,75,Right,1999-01-18,24,Ecuador,Instituto de Córdoba,Argentina Primera Division (1),"ST, CAM",66,72,1000000.0,3600.0,64.0,19.5,61.2,52.3,74.0,61.8,9.4
 Yvo Calleros ,181,77,Right,1998-03-14,25,Uruguay,Banfield,Argentina Primera Division (1),"CDM, CM, CB",66,73,850000.0,4000.0,54.5,56.5,64.3,49.0,66.6,44.5,10.2
@@ -8909,7 +8909,7 @@ Maximiliano Centurión ,192,90,Right,1999-02-20,24,Argentina,Arsenal de Sarandí
 Eddy Sylvestre ,173,69,Left,1999-08-29,24,France,Grenoble Foot 38,France Ligue 2 (2),"CM, RM",66,73,975000.0,2000.0,68.5,61.0,62.2,65.3,70.4,60.6,10.4
 Till Cissokho ,200,88,Left,2000-02-08,23,France,Quevilly Rouen Métropole,France Ligue 2 (2),CB,66,74,850000.0,1500.0,41.5,69.5,46.3,37.7,55.1,40.2,9.2
 Mads Kikkenborg ,197,93,Right,1999-10-07,24,Denmark,Lyngby BK,Denmark Superliga (1),GK,66,72,725000.0,2200.0,14.0,12.0,31.2,21.7,41.0,16.1,66.6
-Elías Rafn Ólafsson ,201,85,Right,2000-03-11,23,Iceland,Iceland,International,GK,66,74,725000.0,2200.0,16.5,13.5,36.7,28.0,46.4,16.8,64.8
+Elías Rafn Ólafsson ,201,85,Right,2000-03-11,23,Iceland,NG - FA,Free Agents League,GK,66,74,725000.0,2200.0,16.5,13.5,36.7,28.0,46.4,16.8,64.8
 Mattia Zennaro ,181,70,Right,2000-08-03,23,Italy,Feralpisalò,Italy Serie B (2),"CM, CAM, CDM",66,74,1000000.0,1500.0,67.0,58.5,64.5,64.7,71.0,63.5,7.2
 Arthur Okonkwo ,196,84,Right,2001-09-09,22,England,Wrexham,England League Two (4),GK,66,75,750000.0,11000.0,13.0,12.5,27.5,21.0,41.7,16.2,65.0
 Javi Mier ,176,69,Right,1999-02-04,24,Spain,SD Huesca,Spain Segunda Division (2),"CM, ST, CAM",66,73,975000.0,2800.0,68.0,63.0,67.0,64.3,71.0,65.8,9.2
@@ -8983,7 +8983,7 @@ Daniel Rebollo ,187,78,Right,1999-12-10,24,Spain,Real Zaragoza,Spain Segunda Div
 Taylor Richards ,180,78,Left,2000-12-04,23,England,Queens Park Rangers,England Championship (2),"CAM, CM",66,75,1000000.0,4700.0,70.0,51.5,60.5,62.3,69.7,56.9,11.4
 Nils Fröling ,180,80,Right,2000-04-20,23,Sweden,Hansa Rostock,Germany 2. Bundesliga (2),LM,66,75,975000.0,3700.0,66.0,28.5,62.2,54.0,77.0,60.2,11.8
 Lars Lukas Mai ,188,87,Right,2000-03-31,23,Germany,FC Lugano,Switzerland Super League (1),CB,66,74,850000.0,2200.0,50.5,66.5,53.7,49.7,57.7,38.9,10.4
-Oleksandr Pikhalyonok ,179,72,Left,1997-05-07,26,Ukraine,Ukraine,International,CM,66,69,850000.0,2200.0,65.0,56.0,63.5,63.3,62.4,53.0,9.8
+Oleksandr Pikhalyonok ,179,72,Left,1997-05-07,26,Ukraine,NG - FA,Free Agents League,CM,66,69,850000.0,2200.0,65.0,56.0,63.5,63.3,62.4,53.0,9.8
 Tom Hamer ,188,80,Right,1999-10-01,24,England,Burton Albion,England League One (3),"RWB, RB, LWB",66,70,900000.0,1800.0,59.5,61.5,63.0,57.3,73.7,49.1,10.6
 Yuki Kobayashi ,185,75,Left,2000-07-18,23,Japan,Celtic,Scotland Premiership (1),CB,66,74,875000.0,11000.0,59.5,65.5,55.5,59.3,65.1,43.9,9.2
 Aly Abeid ,174,70,Left,1997-12-11,26,Mauritania,UTA Arad,Romania Liga I (1),LB,66,68,850000.0,2600.0,58.0,62.0,53.2,56.3,77.9,43.9,8.4
@@ -9068,7 +9068,7 @@ Delmás ,173,61,Right,1995-04-20,28,Spain,Racing de Ferrol,Spain Segunda Divisio
 Orestis Kiomourtzoglou ,188,79,Right,1998-05-07,25,Germany,SpVgg Greuther Fürth,Germany 2. Bundesliga (2),"CDM, CM",66,69,850000.0,3000.0,57.5,64.0,62.0,54.3,64.9,46.8,10.8
 Jakub Jugas ,186,79,Right,1992-05-05,31,Czech Republic,Cracovia,Poland Ekstraklasa (1),CB,66,66,575000.0,3100.0,49.0,65.0,59.3,52.0,61.3,42.8,10.4
 Enzo Gaggi ,175,68,Right,1998-01-14,25,Argentina,Godoy Cruz,Argentina Primera Division (1),"RM, RW",66,66,950000.0,3200.0,67.5,55.5,55.5,64.7,63.9,51.8,8.0
-Tarek Salman ,179,69,Right,1997-12-05,26,Qatar,Qatar,International,"CB, LB",66,71,950000.0,3200.0,58.0,65.5,61.2,57.3,71.0,42.5,11.4
+Tarek Salman ,179,69,Right,1997-12-05,26,Qatar,NG - FA,Free Agents League,"CB, LB",66,71,950000.0,3200.0,58.0,65.5,61.2,57.3,71.0,42.5,11.4
 Renat Dadashov ,188,81,Right,1999-05-17,24,Azerbaijan,Hatayspor,Turkey Super Lig (1),ST,66,72,1000000.0,5500.0,62.5,24.0,55.7,50.7,68.9,64.1,7.4
 Morris Schröter ,183,79,Right,1995-08-20,28,Germany,TSV 1860 München,Germany 3. Liga (3),RM,66,66,900000.0,2100.0,63.0,61.0,61.0,60.0,73.9,55.8,9.4
 Marcel Bär ,184,80,Right,1992-06-08,31,Germany,Erzgebirge Aue,Germany 3. Liga (3),ST,66,66,725000.0,1500.0,65.5,41.0,52.0,60.0,74.6,58.5,9.0
@@ -9218,7 +9218,7 @@ Jostein Gundersen ,186,82,Right,1996-04-02,27,Norway,Tromsø IL,Norway Eliteseri
 Dominique Badji ,183,79,Right,1992-10-16,31,Senegal,FC Cincinnati,USA Major League Soccer (1),"ST, RM",66,66,850000.0,2800.0,67.0,36.5,54.2,50.3,73.1,55.5,10.8
 Pål Alexander Kirkevold ,185,90,Left,1990-11-10,33,Norway,HamKam Fotball,Norway Eliteserien (1),ST,66,66,700000.0,1600.0,64.0,26.5,59.3,62.3,65.0,65.4,12.0
 Marvin Johnson ,178,74,Left,1990-12-01,33,England,Sheffield Wednesday,England Championship (2),"LB, LM",66,66,600000.0,5400.0,64.5,60.0,61.7,64.0,71.4,57.6,11.2
-Patrizio Stronati ,193,87,Left,1994-11-17,29,Czech Republic,Czech Republic,International,CB,66,66,600000.0,5400.0,40.0,66.5,55.2,44.3,66.4,35.6,11.6
+Patrizio Stronati ,193,87,Left,1994-11-17,29,Czech Republic,NG - FA,Free Agents League,CB,66,66,600000.0,5400.0,40.0,66.5,55.2,44.3,66.4,35.6,11.6
 Gustav Berggren ,187,80,Right,1997-09-07,26,Sweden,Raków Częstochowa,Poland Ekstraklasa (1),"CDM, CM",66,71,850000.0,2800.0,58.0,58.0,63.5,58.3,64.0,46.0,10.0
 Konstantin Kerschbaumer ,179,78,Right,1992-07-01,31,Austria,Wolfsberger AC,Austria Bundesliga (1),CM,66,66,700000.0,4300.0,66.0,58.5,66.5,62.0,71.0,59.4,12.2
 Roman Kerschbaum ,180,75,Right,1994-01-19,29,Austria,Rapid Wien,Austria Bundesliga (1),"CDM, CM, CAM",66,66,725000.0,5900.0,64.0,61.5,64.7,64.3,68.4,65.5,9.8
@@ -9598,7 +9598,7 @@ Romeo Vermant ,184,76,Right,2004-01-24,19,Belgium,Club Brugge,Belgium Pro League
 Bruno Damiani ,185,80,Right,2002-04-18,21,Uruguay,Nacional de Montevideo,CONMEBOL Libertadores,ST,65,75,850000.0,3600.0,61.0,21.0,57.0,50.0,64.9,62.2,12.4
 Andrés Salazar ,182,75,Left,2003-01-15,20,Colombia,Atlético Nacional,CONMEBOL Libertadores,LB,65,79,725000.0,2800.0,58.5,62.5,51.0,62.3,69.6,37.9,10.2
 Edan Diop ,173,70,Right,2004-08-28,19,France,AS Monaco,France Ligue 1 (1),"RM, CAM",65,82,750000.0,3800.0,67.0,37.0,55.5,62.3,60.9,57.0,10.4
-Patrik Demjén ,186,78,Right,1998-03-22,25,Hungary,Hungary,International,GK,65,69,750000.0,3800.0,12.5,8.5,24.0,16.3,36.9,15.5,67.0
+Patrik Demjén ,186,78,Right,1998-03-22,25,Hungary,NG - FA,Free Agents League,GK,65,69,750000.0,3800.0,12.5,8.5,24.0,16.3,36.9,15.5,67.0
 Gideon Zuma ,170,68,Right,1999-06-12,24,Nigeria,Academia Puerto Cabello,CONMEBOL Sudamericana,"CDM, CM",65,69,725000.0,3400.0,61.0,62.0,62.3,59.7,66.9,46.2,8.2
 Rémy Labeau Lascary ,184,72,Right,2003-03-03,20,France,Stade Lavallois MFC,France Ligue 2 (2),"ST, RW",65,77,825000.0,6700.0,64.0,23.0,51.8,53.7,58.0,59.8,9.6
 Hugo Ancajima ,180,80,Right,1998-02-10,25,Peru,Universitario de Deportes,CONMEBOL Sudamericana,"RWB, RB",65,69,725000.0,3800.0,65.5,63.0,50.5,59.3,65.0,41.8,11.6
@@ -9633,7 +9633,7 @@ Mileta Rajović ,189,80,Right,1999-07-17,24,Denmark,Watford,England Championship
 Soichiro Kozuki ,182,78,Right,2000-12-22,22,Japan,FC Schalke 04,Germany 2. Bundesliga (2),"RW, LW",65,75,850000.0,3200.0,72.5,42.0,54.3,61.7,66.1,52.1,10.4
 Hernâni Infande ,178,66,Right,2001-04-03,22,Portugal,Moreirense,Portugal Primeira Liga (1),"RM, LM",65,76,850000.0,3100.0,66.5,32.5,52.2,59.7,62.7,54.1,10.8
 Bashir Humphreys ,187,79,Left,2003-03-15,20,England,Swansea City,England Championship (2),CB,65,80,700000.0,13000.0,52.5,69.0,54.3,52.0,64.1,39.1,11.8
-Salah Zakaria ,189,86,Right,1999-04-24,24,Qatar,Qatar,International,GK,65,72,700000.0,13000.0,14.5,11.0,26.2,16.0,41.4,14.0,62.2
+Salah Zakaria ,189,86,Right,1999-04-24,24,Qatar,NG - FA,Free Agents League,GK,65,72,700000.0,13000.0,14.5,11.0,26.2,16.0,41.4,14.0,62.2
 David Martínez ,178,67,Left,2006-02-07,17,Venezuela,Monagas Sport Club,CONMEBOL Libertadores,"LW, CAM, RW",65,82,725000.0,1500.0,72.0,30.0,48.0,53.7,59.3,51.8,8.2
 Yankuba Minteh ,180,65,Left,2004-07-22,19,Gambia,Feyenoord,Holland Eredivisie (1),"RW, LW",65,84,750000.0,8800.0,67.0,20.5,54.2,54.3,68.3,46.8,8.6
 Kike Salas ,186,80,Left,2002-04-23,21,Spain,Sevilla FC,Spain Primera Division (1),CB,65,77,750000.0,4100.0,45.5,64.0,51.7,40.0,61.3,30.6,9.0
@@ -9702,13 +9702,13 @@ Krisztián Lisztes ,183,72,Right,2005-05-06,18,Hungary,Ferencvárosi TC,Rest of 
 Kim Jin Ho ,178,74,Right,2000-01-21,23,Korea Republic,Gangwon FC,Korea K League 1 (1),RWB,65,73,750000.0,1600.0,64.5,60.0,55.2,46.7,68.7,45.1,10.4
 Romaine Mundle ,177,61,Right,2003-04-24,20,England,Standard Liège,Belgium Pro League (1),"LM, RM",65,81,800000.0,3100.0,72.0,37.0,52.5,56.3,68.4,53.1,8.4
 Bryant Ortega ,175,63,Right,2003-02-28,20,Venezuela,Caracas FC,CONMEBOL Sudamericana,"CDM, CM",65,74,725000.0,2800.0,64.5,59.5,62.2,64.0,67.0,51.2,8.4
-Edmund Addo ,180,73,Right,2000-05-17,23,Ghana,Ghana,International,CDM,65,72,725000.0,2800.0,69.5,56.5,62.0,57.0,67.6,56.5,8.4
+Edmund Addo ,180,73,Right,2000-05-17,23,Ghana,NG - FA,Free Agents League,CDM,65,72,725000.0,2800.0,69.5,56.5,62.0,57.0,67.6,56.5,8.4
 Daniel Afriyie ,165,69,Right,2001-06-26,22,Ghana,FC Zürich,Switzerland Super League (1),"LM, CF",65,69,850000.0,2700.0,69.0,32.0,51.2,55.3,70.0,46.8,11.4
 Franco Ortellado ,188,83,Left,2001-05-30,22,Argentina,Sportivo Ameliano,CONMEBOL Sudamericana,CB,65,74,750000.0,3400.0,43.5,65.0,50.7,37.3,64.3,35.9,10.6
 Sandro Cruz ,181,78,Left,2001-05-12,22,Portugal,Chaves,Portugal Primeira Liga (1),"LB, LW",65,76,775000.0,1900.0,64.0,62.5,56.2,61.7,69.6,39.4,11.6
 Aldo Florenzi ,168,70,Right,2002-04-02,21,Italy,Cosenza,Italy Serie B (2),"CM, LM",65,75,825000.0,1500.0,68.0,54.0,58.0,64.0,71.1,50.9,11.8
-Musab Kheder ,176,64,Right,1993-09-26,30,Qatar,Qatar,International,"RB, CB",65,65,825000.0,1500.0,61.5,62.5,56.0,57.3,70.3,40.9,10.6
-Ahmed Alaaeldin ,176,73,Right,1993-01-31,30,Qatar,Qatar,International,ST,65,65,825000.0,1500.0,63.5,15.0,52.0,43.0,75.9,58.2,10.0
+Musab Kheder ,176,64,Right,1993-09-26,30,Qatar,NG - FA,Free Agents League,"RB, CB",65,65,825000.0,1500.0,61.5,62.5,56.0,57.3,70.3,40.9,10.6
+Ahmed Alaaeldin ,176,73,Right,1993-01-31,30,Qatar,NG - FA,Free Agents League,ST,65,65,825000.0,1500.0,63.5,15.0,52.0,43.0,75.9,58.2,10.0
 Mateo Seoane ,178,67,Right,2004-02-09,19,Argentina,Talleres de Córdoba,Argentina Primera Division (1),"CM, CDM",65,76,775000.0,2200.0,67.5,61.0,62.3,66.3,67.3,45.9,10.6
 Brandon Aguilera ,168,65,Left,2003-06-28,20,Costa Rica,Nottingham Forest,England Premier League (1),"CAM, CM",65,78,800000.0,10500.0,64.0,49.0,59.5,62.3,58.7,47.5,9.0
 Kenneth Vargas ,175,70,Right,2002-04-17,21,Costa Rica,Heart of Midlothian,Scotland Premiership (1),"ST, LM, RM",65,78,850000.0,2000.0,64.5,17.0,42.2,44.0,65.1,58.9,10.2
@@ -9720,7 +9720,7 @@ Damián Pizarro ,187,72,Right,2005-03-28,18,Chile,Colo-Colo,CONMEBOL Libertadore
 Kevin Kelsy ,193,83,Left,2004-07-27,19,Venezuela,Shakhtar Donetsk,Rest of World,ST,65,80,750000.0,1900.0,58.5,22.5,48.5,41.7,65.6,59.6,10.8
 Thibault Klidje ,170,65,Right,2001-07-10,22,Togo,FC Luzern,Switzerland Super League (1),ST,65,76,850000.0,2600.0,67.0,20.0,54.0,53.0,76.3,60.8,9.0
 Tom Rothe ,192,82,Left,2004-10-29,19,Germany,Holstein Kiel,Germany 2. Bundesliga (2),LWB,65,82,675000.0,2500.0,59.5,63.5,54.5,59.7,66.9,43.0,9.4
-Péter Szappanos ,194,93,Right,1990-11-14,33,Hungary,Hungary,International,GK,65,65,675000.0,2500.0,14.0,13.0,32.5,23.7,37.0,19.2,63.4
+Péter Szappanos ,194,93,Right,1990-11-14,33,Hungary,NG - FA,Free Agents League,GK,65,65,675000.0,2500.0,14.0,13.0,32.5,23.7,37.0,19.2,63.4
 Mexx Meerdink ,183,69,Left,2003-07-24,20,Netherlands,AZ,Holland Eredivisie (1),ST,65,82,800000.0,1900.0,62.0,29.5,56.2,45.3,63.7,59.5,9.8
 Bertuğ Yıldırım ,186,78,Right,2002-07-12,21,Turkey,Stade Rennais,France Ligue 1 (1),ST,65,75,825000.0,8400.0,62.5,24.5,52.5,43.7,68.3,54.9,10.2
 Martín Luciano ,177,70,Left,2003-08-12,20,Argentina,Godoy Cruz,Argentina Primera Division (1),"LB, LWB",65,79,700000.0,1900.0,53.5,66.0,54.2,55.3,67.0,37.1,9.4
